@@ -1,0 +1,3931 @@
+"cocktail_no","generation","solution_component_no","concentration","units","name","ph"
+"C0001",8,1,3.56,"M","Ammonium bromide",8
+"C0001",8,2,0.1,"M","Tris",8
+"C0002",8,1,3.56,"M","Ammonium bromide",10
+"C0002",8,2,0.1,"M","CAPS",10
+"C0003",8,1,2.38,"M","Ammonium bromide",4.2
+"C0003",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0004",8,1,2.38,"M","Ammonium bromide",7.5
+"C0004",8,2,0.1,"M","HEPES",7.5
+"C0005",8,1,1.19,"M","Ammonium bromide",5
+"C0005",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0006",8,1,1.19,"M","Ammonium bromide",7
+"C0006",8,2,0.1,"M","Bis-Tris Propane",7
+"C0007",8,1,1.19,"M","Ammonium bromide",9
+"C0007",8,2,0.1,"M","TAPS",9
+"C0008",8,1,3.74,"M","Ammonium chloride",4.2
+"C0008",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0009",8,1,3.74,"M","Ammonium chloride",7
+"C0009",8,2,0.1,"M","Bis-Tris Propane",7
+"C0010",8,1,3.74,"M","Ammonium chloride",7.5
+"C0010",8,2,0.1,"M","HEPES",7.5
+"C0011",8,1,2.5,"M","Ammonium chloride",5
+"C0011",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0012",8,1,2.5,"M","Ammonium chloride",9
+"C0012",8,2,0.1,"M","TAPS",9
+"C0013",8,1,2.5,"M","Ammonium chloride",10
+"C0013",8,2,0.1,"M","CAPS",10
+"C0014",8,1,1.25,"M","Ammonium chloride",6
+"C0014",8,2,0.1,"M","MES monohydrate",6
+"C0015",8,1,1.25,"M","Ammonium chloride",8
+"C0015",8,2,0.1,"M","Tris",8
+"C0016",8,1,6.46,"M","Ammonium nitrate",4.2
+"C0016",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0017",8,1,6.46,"M","Ammonium nitrate",9
+"C0017",8,2,0.1,"M","TAPS",9
+"C0018",8,1,6.46,"M","Ammonium nitrate",10
+"C0018",8,2,0.1,"M","CAPS",10
+"C0019",8,1,3.23,"M","Ammonium nitrate",6
+"C0019",8,2,0.1,"M","MES monohydrate",6
+"C0020",8,1,3.23,"M","Ammonium nitrate",7
+"C0020",8,2,0.1,"M","Bis-Tris Propane",7
+"C0021",8,1,3.23,"M","Ammonium nitrate",8
+"C0021",8,2,0.1,"M","Tris",8
+"C0022",8,1,0.96,"M","Ammonium phosphate monobasic",8
+"C0022",8,2,0.1,"M","Tris",8
+"C0023",8,1,1.92,"M","Ammonium phosphate monobasic",4.2
+"C0023",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0024",8,1,1.92,"M","Ammonium phosphate monobasic",6
+"C0024",8,2,0.1,"M","MES monohydrate",6
+"C0025",8,1,1.92,"M","Ammonium phosphate monobasic",10
+"C0025",8,2,0.1,"M","CAPS",10
+"C0026",8,1,0.96,"M","Ammonium phosphate monobasic",5
+"C0026",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0027",8,1,0.96,"M","Ammonium phosphate monobasic",7
+"C0027",8,2,0.1,"M","Bis-Tris Propane",7
+"C0028",8,1,0.96,"M","Ammonium phosphate monobasic",9
+"C0028",8,2,0.1,"M","TAPS",9
+"C0029",8,1,2.13,"M","Ammonium phosphate dibasic",7
+"C0029",8,2,0.1,"M","Bis-Tris Propane",7
+"C0030",8,1,3.2,"M","Ammonium phosphate dibasic",8
+"C0030",8,2,0.1,"M","Tris",8
+"C0031",8,1,3.2,"M","Ammonium phosphate dibasic",9
+"C0031",8,2,0.1,"M","TAPS",9
+"C0032",8,1,2.13,"M","Ammonium phosphate dibasic",6
+"C0032",8,2,0.1,"M","MES monohydrate",6
+"C0033",8,1,2.13,"M","Ammonium phosphate dibasic",7.5
+"C0033",8,2,0.1,"M","HEPES",7.5
+"C0034",8,1,1.07,"M","Ammonium phosphate dibasic",4.2
+"C0034",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0035",8,1,1.07,"M","Ammonium phosphate dibasic",5
+"C0035",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0036",8,1,1.07,"M","Ammonium phosphate dibasic",9
+"C0036",8,2,0.1,"M","TAPS",9
+"C0037",8,1,3.42,"M","Ammonium sulfate",4.2
+"C0037",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0038",8,1,3.42,"M","Ammonium sulfate",5
+"C0038",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0039",8,1,3.42,"M","Ammonium sulfate",7
+"C0039",8,2,0.1,"M","Bis-Tris Propane",7
+"C0040",8,1,2.28,"M","Ammonium sulfate",7.5
+"C0040",8,2,0.1,"M","HEPES",7.5
+"C0041",8,1,2.28,"M","Ammonium sulfate",8
+"C0041",8,2,0.1,"M","Tris",8
+"C0042",8,1,1.14,"M","Ammonium sulfate",6
+"C0042",8,2,0.1,"M","MES monohydrate",6
+"C0043",8,1,1.14,"M","Ammonium sulfate",9
+"C0043",8,2,0.1,"M","TAPS",9
+"C0044",8,1,1.14,"M","Ammonium sulfate",10
+"C0044",8,2,0.1,"M","CAPS",10
+"C0045",8,1,1.09,"M","Calcium acetate",7
+"C0045",8,2,0.1,"M","Bis-Tris Propane",7
+"C0046",8,1,0.55,"M","Calcium acetate",6
+"C0046",8,2,0.1,"M","MES monohydrate",6
+"C0047",8,1,0.55,"M","Calcium acetate",5
+"C0047",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0048",8,1,3.57,"M","Calcium chloride dihydrate",5
+"C0048",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0049",8,1,0.02,"M","Calcium chloride dihydrate",4.6
+"C0049",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C0049",8,3,30,"% (v/v)","MPD",4.6
+"C0050",8,1,35,"% (v/v)","Glycerol anhydrous",7.51
+"C0050",8,2,0.26,"M","Potassium sodium tartrate tetrahydrate",7.51
+"C0051",8,1,0.26,"M","Ammonium phosphate monobasic",4.29
+"C0051",8,2,35,"% (v/v)","Glycerol anhydrous",4.29
+"C0052",8,1,5.6,"M","Lithium bromide",5
+"C0052",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0053",8,1,5.6,"M","Lithium bromide",4.2
+"C0053",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0054",8,1,3.73,"M","Lithium bromide",6
+"C0054",8,2,0.1,"M","MES monohydrate",6
+"C0055",8,1,3.73,"M","Lithium bromide",7
+"C0055",8,2,0.1,"M","Bis-Tris Propane",7
+"C0056",8,1,1.87,"M","Lithium bromide",4.2
+"C0056",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0057",8,1,1.87,"M","Lithium bromide",8
+"C0057",8,2,0.1,"M","Tris",8
+"C0058",8,1,1.87,"M","Lithium bromide",9
+"C0058",8,2,0.1,"M","TAPS",9
+"C0059",8,1,6.62,"M","Lithium chloride",5
+"C0059",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0060",8,1,6.62,"M","Lithium chloride",7.5
+"C0060",8,2,0.1,"M","HEPES",7.5
+"C0061",8,1,6.62,"M","Lithium chloride",10
+"C0061",8,2,0.1,"M","CAPS",10
+"C0062",8,1,4.42,"M","Lithium chloride",6
+"C0062",8,2,0.1,"M","MES monohydrate",6
+"C0063",8,1,4.42,"M","Lithium chloride",7
+"C0063",8,2,0.1,"M","Bis-Tris Propane",7
+"C0064",8,1,4.42,"M","Lithium chloride",8
+"C0064",8,2,0.1,"M","Tris",8
+"C0065",8,1,2.21,"M","Lithium chloride",4.2
+"C0065",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0066",8,1,2.21,"M","Lithium chloride",9
+"C0066",8,2,0.1,"M","TAPS",9
+"C0067",8,1,2.69,"M","Magnesium acetate tetrahydrate",7
+"C0067",8,2,0.1,"M","Bis-Tris Propane",7
+"C0068",8,1,2.69,"M","Magnesium acetate tetrahydrate",9
+"C0068",8,2,0.1,"M","TAPS",9
+"C0069",8,1,1.79,"M","Magnesium acetate tetrahydrate",4.2
+"C0069",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0070",8,1,1.79,"M","Magnesium acetate tetrahydrate",6
+"C0070",8,2,0.1,"M","MES monohydrate",6
+"C0071",8,1,1.79,"M","Magnesium acetate tetrahydrate",8
+"C0071",8,2,0.1,"M","Tris",8
+"C0072",8,1,0.9,"M","Magnesium acetate tetrahydrate",5
+"C0072",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0073",8,1,0.9,"M","Magnesium acetate tetrahydrate",7
+"C0073",8,2,0.1,"M","Bis-Tris Propane",7
+"C0074",8,1,3.73,"M","Magnesium chloride hexahydrate",5
+"C0074",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0075",8,1,3.73,"M","Magnesium chloride hexahydrate",4.2
+"C0075",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0076",8,1,2.48,"M","Magnesium chloride hexahydrate",7.5
+"C0076",8,2,0.1,"M","HEPES",7.5
+"C0077",8,1,2.48,"M","Magnesium chloride hexahydrate",8
+"C0077",8,2,0.1,"M","Tris",8
+"C0078",8,1,1.24,"M","Magnesium chloride hexahydrate",4.2
+"C0078",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0079",8,1,1.24,"M","Magnesium chloride hexahydrate",6
+"C0079",8,2,0.1,"M","MES monohydrate",6
+"C0080",8,1,1.24,"M","Magnesium chloride hexahydrate",7
+"C0080",8,2,0.1,"M","Bis-Tris Propane",7
+"C0081",8,1,1.59,"M","Magnesium sulfate heptahydrate",9
+"C0081",8,2,0.1,"M","TAPS",9
+"C0082",8,1,1.59,"M","Magnesium sulfate heptahydrate",8
+"C0082",8,2,0.1,"M","Tris",8
+"C0083",8,1,1.06,"M","Magnesium sulfate heptahydrate",7
+"C0083",8,2,0.1,"M","Bis-Tris Propane",7
+"C0084",8,1,0.53,"M","Magnesium sulfate heptahydrate",5
+"C0084",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0085",8,1,0.53,"M","Magnesium sulfate heptahydrate",7.5
+"C0085",8,2,0.1,"M","HEPES",7.5
+"C0086",8,1,0.53,"M","Magnesium sulfate heptahydrate",8
+"C0086",8,2,0.1,"M","Tris",8
+"C0087",8,1,3.82,"M","Manganese chloride tetrahydrate",4.2
+"C0087",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0088",8,1,3.82,"M","Manganese chloride tetrahydrate",8
+"C0088",8,2,0.1,"M","Tris",8
+"C0089",8,1,3.82,"M","Manganese chloride tetrahydrate",5
+"C0089",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0090",8,1,2.54,"M","Manganese chloride tetrahydrate",5
+"C0090",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0091",8,1,2.54,"M","Manganese chloride tetrahydrate",4.2
+"C0091",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0092",8,1,1.27,"M","Manganese chloride tetrahydrate",4.2
+"C0092",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0093",8,1,1.27,"M","Manganese chloride tetrahydrate",5
+"C0093",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0094",8,1,8.64,"M","Potassium acetate",8
+"C0094",8,2,0.1,"M","Tris",8
+"C0095",8,1,8.64,"M","Potassium acetate",9
+"C0095",8,2,0.1,"M","TAPS",9
+"C0096",8,1,5.76,"M","Potassium acetate",4.2
+"C0096",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0097",8,1,5.76,"M","Potassium acetate",5
+"C0097",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0098",8,1,5.76,"M","Potassium acetate",7.5
+"C0098",8,2,0.1,"M","HEPES",7.5
+"C0099",8,1,2.88,"M","Potassium acetate",6
+"C0099",8,2,0.1,"M","MES monohydrate",6
+"C0100",8,1,2.88,"M","Potassium acetate",7
+"C0100",8,2,0.1,"M","Bis-Tris Propane",7
+"C0101",8,1,2.88,"M","Potassium acetate",10
+"C0101",8,2,0.1,"M","CAPS",10
+"C0102",8,1,4,"M","Potassium bromide",5
+"C0102",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0103",8,1,4,"M","Potassium bromide",8
+"C0103",8,2,0.1,"M","Tris",8
+"C0104",8,1,2.66,"M","Potassium bromide",6
+"C0104",8,2,0.1,"M","MES monohydrate",6
+"C0105",8,1,2.66,"M","Potassium bromide",7
+"C0105",8,2,0.1,"M","Bis-Tris Propane",7
+"C0106",8,1,2.66,"M","Potassium bromide",10
+"C0106",8,2,0.1,"M","CAPS",10
+"C0107",8,1,1.33,"M","Potassium bromide",4.2
+"C0107",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0108",8,1,1.33,"M","Potassium bromide",7.5
+"C0108",8,2,0.1,"M","HEPES",7.5
+"C0109",8,1,1.33,"M","Potassium bromide",9
+"C0109",8,2,0.1,"M","TAPS",9
+"C0110",8,1,2.54,"M","Potassium carbonate",4.2
+"C0110",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0111",8,1,2.54,"M","Potassium carbonate",7
+"C0111",8,2,0.1,"M","Bis-Tris Propane",7
+"C0112",8,1,2.54,"M","Potassium carbonate",8
+"C0112",8,2,0.1,"M","Tris",8
+"C0113",8,1,1.69,"M","Potassium carbonate",5
+"C0113",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0114",8,1,1.69,"M","Potassium carbonate",7.5
+"C0114",8,2,0.1,"M","HEPES",7.5
+"C0115",8,1,1.69,"M","Potassium carbonate",9
+"C0115",8,2,0.1,"M","TAPS",9
+"C0116",8,1,0.85,"M","Potassium carbonate",6
+"C0116",8,2,0.1,"M","MES monohydrate",6
+"C0117",8,1,0.85,"M","Potassium carbonate",10
+"C0117",8,2,0.1,"M","CAPS",10
+"C0118",8,1,2.32,"M","Potassium chloride",4.2
+"C0118",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0119",8,1,2.32,"M","Potassium chloride",7
+"C0119",8,2,0.1,"M","Bis-Tris Propane",7
+"C0120",8,1,2.32,"M","Potassium chloride",7.5
+"C0120",8,2,0.1,"M","HEPES",7.5
+"C0121",8,1,1.55,"M","Potassium chloride",6
+"C0121",8,2,0.1,"M","MES monohydrate",6
+"C0122",8,1,1.55,"M","Potassium chloride",8
+"C0122",8,2,0.1,"M","Tris",8
+"C0123",8,1,1.55,"M","Potassium chloride",9
+"C0123",8,2,0.1,"M","TAPS",9
+"C0124",8,1,0.77,"M","Potassium chloride",5
+"C0124",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0125",8,1,0.77,"M","Potassium chloride",10
+"C0125",8,2,0.1,"M","CAPS",10
+"C0126",8,1,0.89,"M","Potassium nitrate",5
+"C0126",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0127",8,1,0.89,"M","Potassium nitrate",9
+"C0127",8,2,0.1,"M","TAPS",9
+"C0128",8,1,0.89,"M","Potassium nitrate",8
+"C0128",8,2,0.1,"M","Tris",8
+"C0129",8,1,1.78,"M","Potassium nitrate",5
+"C0129",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0130",8,1,0.89,"M","Potassium nitrate",4.2
+"C0130",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0131",8,1,0.89,"M","Potassium nitrate",7.5
+"C0131",8,2,0.1,"M","HEPES",7.5
+"C0132",8,1,0.89,"M","Potassium nitrate",10
+"C0132",8,2,0.1,"M","CAPS",10
+"C0133",8,1,1.28,"M","Potassium phosphate monobasic",8
+"C0133",8,2,0.1,"M","Tris",8
+"C0134",8,1,0.85,"M","Potassium phosphate monobasic",7
+"C0134",8,2,0.1,"M","Bis-Tris Propane",7
+"C0135",8,1,0.85,"M","Potassium phosphate monobasic",7.5
+"C0135",8,2,0.1,"M","HEPES",7.5
+"C0136",8,1,0.85,"M","Potassium phosphate monobasic",10
+"C0136",8,2,0.1,"M","CAPS",10
+"C0137",8,1,0.43,"M","Potassium phosphate monobasic",4.2
+"C0137",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0138",8,1,0.43,"M","Potassium phosphate monobasic",6
+"C0138",8,2,0.1,"M","MES monohydrate",6
+"C0139",8,1,0.43,"M","Potassium phosphate monobasic",9
+"C0139",8,2,0.1,"M","TAPS",9
+"C0140",8,1,9.5,"M","Potassium thiocyanate",4.2
+"C0140",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0141",8,1,9.5,"M","Potassium thiocyanate",6
+"C0141",8,2,0.1,"M","MES monohydrate",6
+"C0142",8,1,6.34,"M","Potassium thiocyanate",5
+"C0142",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0143",8,1,6.34,"M","Potassium thiocyanate",8
+"C0143",8,2,0.1,"M","Tris",8
+"C0144",8,1,6.34,"M","Potassium thiocyanate",10
+"C0144",8,2,0.1,"M","CAPS",10
+"C0145",8,1,3.17,"M","Potassium thiocyanate",7
+"C0145",8,2,0.1,"M","Bis-Tris Propane",7
+"C0146",8,1,3.17,"M","Potassium thiocyanate",7.5
+"C0146",8,2,0.1,"M","HEPES",7.5
+"C0147",8,1,3.17,"M","Potassium thiocyanate",9
+"C0147",8,2,0.1,"M","TAPS",9
+"C0148",8,1,2.85,"M","Rubidium chloride",5
+"C0148",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0149",8,1,1.9,"M","Rubidium chloride",4.2
+"C0149",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0150",8,1,1.9,"M","Rubidium chloride",6
+"C0150",8,2,0.1,"M","MES monohydrate",6
+"C0151",8,1,5.14,"M","Sodium bromide",4.2
+"C0151",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0152",8,1,5.14,"M","Sodium bromide",5
+"C0152",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0153",8,1,5.14,"M","Sodium bromide",6
+"C0153",8,2,0.1,"M","MES monohydrate",6
+"C0154",8,1,3.43,"M","Sodium bromide",7
+"C0154",8,2,0.1,"M","Bis-Tris Propane",7
+"C0155",8,1,3.43,"M","Sodium bromide",7.5
+"C0155",8,2,0.1,"M","HEPES",7.5
+"C0156",8,1,3.43,"M","Sodium bromide",8
+"C0156",8,2,0.1,"M","Tris",8
+"C0157",8,1,1.71,"M","Sodium bromide",9
+"C0157",8,2,0.1,"M","TAPS",9
+"C0158",8,1,1.71,"M","Sodium bromide",10
+"C0158",8,2,0.1,"M","CAPS",10
+"C0159",8,1,4.48,"M","Sodium chloride",6
+"C0159",8,2,0.1,"M","MES monohydrate",6
+"C0160",8,1,4.48,"M","Sodium chloride",7.5
+"C0160",8,2,0.1,"M","HEPES",7.5
+"C0161",8,1,0.7,"M","Sodium acetate trihydrate",6.5
+"C0161",8,2,30,"% (v/v)","Glycerol anhydrous",6.5
+"C0161",8,3,0.07,"M","Imidazole",6.5
+"C0162",8,1,2.99,"M","Sodium chloride",4.2
+"C0162",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0163",8,1,2.99,"M","Sodium chloride",5
+"C0163",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0164",8,1,1.49,"M","Sodium chloride",7
+"C0164",8,2,0.1,"M","Bis-Tris Propane",7
+"C0165",8,1,1.49,"M","Sodium chloride",8
+"C0165",8,2,0.1,"M","Tris",8
+"C0166",8,1,1.49,"M","Sodium chloride",9
+"C0166",8,2,0.1,"M","TAPS",9
+"C0167",8,1,2.03,"M","Sodium molybdate dihydrate",6
+"C0167",8,2,0.1,"M","MES monohydrate",6
+"C0168",8,1,2.03,"M","Sodium molybdate dihydrate",7.5
+"C0168",8,2,0.1,"M","HEPES",7.5
+"C0169",8,1,1.35,"M","Sodium molybdate dihydrate",7
+"C0169",8,2,0.1,"M","Bis-Tris Propane",7
+"C0170",8,1,1.35,"M","Sodium molybdate dihydrate",9
+"C0170",8,2,0.1,"M","TAPS",9
+"C0171",8,1,0.68,"M","Sodium molybdate dihydrate",4.2
+"C0171",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0172",8,1,0.68,"M","Sodium molybdate dihydrate",8
+"C0172",8,2,0.1,"M","Tris",8
+"C0173",8,1,0.68,"M","Sodium molybdate dihydrate",10
+"C0173",8,2,0.1,"M","CAPS",10
+"C0174",8,1,3.9,"M","Sodium nitrate",6
+"C0174",8,2,0.1,"M","MES monohydrate",6
+"C0175",8,1,3.9,"M","Sodium nitrate",7.5
+"C0175",8,2,0.1,"M","HEPES",7.5
+"C0176",8,1,2.6,"M","Sodium nitrate",5
+"C0176",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0177",8,1,2.6,"M","Sodium nitrate",8
+"C0177",8,2,0.1,"M","Tris",8
+"C0178",8,1,2.6,"M","Sodium nitrate",9
+"C0178",8,2,0.1,"M","TAPS",9
+"C0179",8,1,1.3,"M","Sodium nitrate",4.2
+"C0179",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0180",8,1,1.3,"M","Sodium nitrate",7
+"C0180",8,2,0.1,"M","Bis-Tris Propane",7
+"C0181",8,1,3.32,"M","Sodium phosphate monobasic",4.2
+"C0181",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0182",8,1,3.32,"M","Sodium phosphate monobasic",7
+"C0182",8,2,0.1,"M","Bis-Tris Propane",7
+"C0183",8,1,3.32,"M","Sodium phosphate monobasic",9
+"C0183",8,2,0.1,"M","TAPS",9
+"C0184",8,1,2.21,"M","Sodium phosphate monobasic",6
+"C0184",8,2,0.1,"M","MES monohydrate",6
+"C0185",8,1,2.21,"M","Sodium phosphate monobasic",7.5
+"C0185",8,2,0.1,"M","HEPES",7.5
+"C0186",8,1,1.11,"M","Sodium phosphate monobasic",5
+"C0186",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0187",8,1,1.11,"M","Sodium phosphate monobasic",8
+"C0187",8,2,0.1,"M","Tris",8
+"C0188",8,1,1.11,"M","Sodium phosphate monobasic",10
+"C0188",8,2,0.1,"M","CAPS",10
+"C0189",8,1,2.83,"M","Sodium thiosulfate pentahydrate",6
+"C0189",8,2,0.1,"M","MES monohydrate",6
+"C0190",8,1,2.83,"M","Sodium thiosulfate pentahydrate",8
+"C0190",8,2,0.1,"M","Tris",8
+"C0191",8,1,2.83,"M","Sodium thiosulfate pentahydrate",9
+"C0191",8,2,0.1,"M","TAPS",9
+"C0192",8,1,1.88,"M","Sodium thiosulfate pentahydrate",7
+"C0192",8,2,0.1,"M","Bis-Tris Propane",7
+"C0193",8,1,1.88,"M","Sodium thiosulfate pentahydrate",9
+"C0193",8,2,0.1,"M","TAPS",9
+"C0194",8,1,0.94,"M","Sodium thiosulfate pentahydrate",6
+"C0194",8,2,0.1,"M","MES monohydrate",6
+"C0195",8,1,0.94,"M","Sodium thiosulfate pentahydrate",10
+"C0195",8,2,0.1,"M","CAPS",10
+"C0196",8,1,0.94,"M","Sodium thiosulfate pentahydrate",7.5
+"C0196",8,2,0.1,"M","HEPES",7.5
+"C0197",8,1,1.18,"M","Zinc acetate dihydrate",7.5
+"C0197",8,2,0.1,"M","HEPES",7.5
+"C0198",8,1,1.18,"M","Zinc acetate dihydrate",8
+"C0198",8,2,0.1,"M","Tris",8
+"C0199",8,1,0.79,"M","Zinc acetate dihydrate",5
+"C0199",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0200",8,1,0.79,"M","Zinc acetate dihydrate",8
+"C0200",8,2,0.1,"M","Tris",8
+"C0201",8,1,0.39,"M","Zinc acetate dihydrate",5
+"C0201",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0202",8,1,0.39,"M","Zinc acetate dihydrate",6
+"C0202",8,2,0.1,"M","MES monohydrate",6
+"C0203",8,1,3.46,"M","Potassium phosphate dibasic anhydrous",6
+"C0203",8,2,0.1,"M","MES monohydrate",6
+"C0204",8,1,3.46,"M","Potassium phosphate dibasic anhydrous",7.5
+"C0204",8,2,0.1,"M","HEPES",7.5
+"C0205",8,1,2.3,"M","Potassium phosphate dibasic anhydrous",7
+"C0205",8,2,0.1,"M","Bis-Tris Propane",7
+"C0206",8,1,2.3,"M","Potassium phosphate dibasic anhydrous",9
+"C0206",8,2,0.1,"M","TAPS",9
+"C0207",8,1,2.3,"M","Potassium phosphate dibasic anhydrous",5
+"C0207",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0208",8,1,1.15,"M","Potassium phosphate dibasic anhydrous",4.2
+"C0208",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0209",8,1,1.15,"M","Potassium phosphate dibasic anhydrous",5
+"C0209",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0210",8,1,1.15,"M","Potassium phosphate dibasic anhydrous",8
+"C0210",8,2,0.1,"M","Tris",8
+"C0211",8,1,0.53,"M","Cobalt (II) sulfate heptahydrate",8
+"C0211",8,2,0.1,"M","Tris",8
+"C0212",8,1,1.06,"M","Cobalt (II) sulfate heptahydrate",9
+"C0212",8,2,0.1,"M","TAPS",9
+"C0213",8,1,0.53,"M","Cobalt (II) sulfate heptahydrate",5
+"C0213",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0214",8,1,1.06,"M","Cobalt (II) sulfate heptahydrate",4.2
+"C0214",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0215",8,1,1.06,"M","Cobalt (II) sulfate heptahydrate",5
+"C0215",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0216",8,1,1.06,"M","Cobalt (II) sulfate heptahydrate",8
+"C0216",8,2,0.1,"M","Tris",8
+"C0217",8,1,0.53,"M","Cobalt (II) sulfate heptahydrate",6
+"C0217",8,2,0.1,"M","MES monohydrate",6
+"C0218",8,1,0.53,"M","Cobalt (II) sulfate heptahydrate",7
+"C0218",8,2,0.1,"M","Bis-Tris Propane",7
+"C0219",8,1,2.03,"M","Lithium sulfate monohydrate",6
+"C0219",8,2,0.1,"M","MES monohydrate",6
+"C0220",8,1,1.35,"M","Lithium sulfate monohydrate",4.2
+"C0220",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0221",8,1,1.35,"M","Lithium sulfate monohydrate",7.5
+"C0221",8,2,0.1,"M","HEPES",7.5
+"C0222",8,1,0.68,"M","Lithium sulfate monohydrate",5
+"C0222",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0223",8,1,3.05,"M","Potassium phosphate tribasic",4.2
+"C0223",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0224",8,1,3.05,"M","Potassium phosphate tribasic",8
+"C0224",8,2,0.1,"M","Tris",8
+"C0225",8,1,3.05,"M","Potassium phosphate tribasic",9
+"C0225",8,2,0.1,"M","TAPS",9
+"C0226",8,1,2.03,"M","Potassium phosphate tribasic",5
+"C0226",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0227",8,1,2.03,"M","Potassium phosphate tribasic",7
+"C0227",8,2,0.1,"M","Bis-Tris Propane",7
+"C0228",8,1,8.1,"M","Ammonium thiocyanate",4.2
+"C0228",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0229",8,1,8.1,"M","Ammonium thiocyanate",5
+"C0229",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0230",8,1,5.4,"M","Ammonium thiocyanate",6
+"C0230",8,2,0.1,"M","MES monohydrate",6
+"C0231",8,1,35,"% (v/v)","Glycerol anhydrous",7.5
+"C0231",8,2,0.07,"M","HEPES-Na",7.5
+"C0231",8,3,0.52,"M","Potassium sodium tartrate tetrahydrate",7.5
+"C0232",8,1,0.17,"M","Ammonium sulfate",5.47
+"C0232",8,2,25.5,"% (w/v)","polyethylene glycol 8000",5.47
+"C0232",8,3,15,"% (v/v)","Glycerol anhydrous",5.47
+"C0233",8,1,2.7,"M","Ammonium thiocyanate",7
+"C0233",8,2,0.1,"M","Bis-Tris Propane",7
+"C0234",8,1,2.7,"M","Ammonium thiocyanate",7.5
+"C0234",8,2,0.1,"M","HEPES",7.5
+"C0235",8,1,2.7,"M","Ammonium thiocyanate",10
+"C0235",8,2,0.1,"M","CAPS",10
+"C0236",8,1,0.17,"M","Ammonium sulfate",5.64
+"C0236",8,2,25.5,"% (w/v)","polyethylene glycol 4000",5.64
+"C0236",8,3,15,"% (v/v)","Glycerol anhydrous",5.64
+"C0237",8,1,1.5,"M","Ammonium sulfate",8.5
+"C0237",8,2,0.75,"M","Tris HCl",8.5
+"C0237",8,3,25,"% (v/v)","Glycerol anhydrous",8.5
+"C0238",8,1,0.1,"M","Ammonium bromide",10
+"C0238",8,2,0.1,"M","CAPS",10
+"C0238",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0239",8,1,0.1,"M","Ammonium bromide",9
+"C0239",8,2,0.1,"M","TAPS",9
+"C0239",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0240",8,1,0.1,"M","Ammonium bromide",7
+"C0240",8,2,0.1,"M","Bis-Tris Propane",7
+"C0240",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0241",8,1,0.1,"M","Ammonium bromide",7.5
+"C0241",8,2,0.1,"M","HEPES",7.5
+"C0241",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0242",8,1,0.1,"M","Ammonium chloride",6
+"C0242",8,2,0.1,"M","MES monohydrate",6
+"C0242",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0243",8,1,0.1,"M","Ammonium chloride",4.2
+"C0243",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0243",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0244",8,1,0.1,"M","Ammonium nitrate",6
+"C0244",8,2,0.1,"M","MES monohydrate",6
+"C0244",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0245",8,1,0.1,"M","Ammonium nitrate",9
+"C0245",8,2,0.1,"M","TAPS",9
+"C0245",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0246",8,1,0.1,"M","Ammonium phosphate monobasic",10
+"C0246",8,2,0.1,"M","CAPS",10
+"C0246",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0247",8,1,0.1,"M","Ammonium phosphate monobasic",7.5
+"C0247",8,2,0.1,"M","HEPES",7.5
+"C0247",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0248",8,1,0.1,"M","Ammonium phosphate dibasic",10
+"C0248",8,2,0.1,"M","CAPS",10
+"C0248",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0249",8,1,0.1,"M","Ammonium sulfate",7
+"C0249",8,2,0.1,"M","Bis-Tris Propane",7
+"C0249",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0250",8,1,0.2,"M","Sodium citrate tribasic dihydrate",7.5
+"C0250",8,2,30,"% (v/v)","MPD",7.5
+"C0250",8,3,0.1,"M","HEPES-Na",7.5
+"C0251",8,1,0.16,"M","Magnesium chloride hexahydrate",8.5
+"C0251",8,2,0.08,"M","Tris HCl",8.5
+"C0251",8,3,24,"% (w/v)","polyethylene glycol 4000",8.5
+"C0251",8,4,20,"% (v/v)","Glycerol anhydrous",8.5
+"C0252",8,1,0.98,"M","Sodium acetate trihydrate",6.5
+"C0252",8,2,30,"% (v/v)","Glycerol anhydrous",6.5
+"C0252",8,3,0.07,"M","Sodium cacodylate trihydrate",6.5
+"C0253",8,1,0.1,"M","Lithium bromide",7
+"C0253",8,2,0.1,"M","Bis-Tris Propane",7
+"C0253",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0254",8,1,0.1,"M","Lithium bromide",9
+"C0254",8,2,0.1,"M","TAPS",9
+"C0254",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0255",8,1,0.1,"M","Lithium chloride",9
+"C0255",8,2,0.1,"M","TAPS",9
+"C0255",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0256",8,1,0.1,"M","Lithium chloride",5
+"C0256",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0256",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0257",8,1,0.1,"M","Lithium chloride",10
+"C0257",8,2,0.1,"M","CAPS",10
+"C0257",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0258",8,1,0.1,"M","Lithium chloride",6
+"C0258",8,2,0.1,"M","MES monohydrate",6
+"C0258",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0259",8,1,0.1,"M","Magnesium acetate tetrahydrate",9
+"C0259",8,2,0.1,"M","TAPS",9
+"C0259",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0260",8,1,0.1,"M","Magnesium chloride hexahydrate",8
+"C0260",8,2,0.1,"M","Tris",8
+"C0260",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0261",8,1,0.1,"M","Magnesium chloride hexahydrate",4.2
+"C0261",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0261",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0262",8,1,0.1,"M","Magnesium chloride hexahydrate",7
+"C0262",8,2,0.1,"M","Bis-Tris Propane",7
+"C0262",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0263",8,1,0.14,"M","Sodium citrate tribasic dihydrate",6.5
+"C0263",8,2,30,"% (v/v)","Glycerol anhydrous",6.5
+"C0263",8,3,21,"% (v/v)","Iso-propanol",6.5
+"C0263",8,4,0.07,"M","Sodium cacodylate trihydrate",6.5
+"C0264",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0264",8,2,0.1,"M","MES monohydrate",6
+"C0264",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0265",8,1,0.1,"M","Manganese chloride tetrahydrate",4.2
+"C0265",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0265",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0266",8,1,0.1,"M","Potassium acetate",7.5
+"C0266",8,2,0.1,"M","HEPES",7.5
+"C0266",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0267",8,1,0.1,"M","Potassium acetate",7
+"C0267",8,2,0.1,"M","Bis-Tris Propane",7
+"C0267",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0268",8,1,0.1,"M","Potassium acetate",8
+"C0268",8,2,0.1,"M","Tris",8
+"C0268",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0269",8,1,0.1,"M","Potassium acetate",6
+"C0269",8,2,0.1,"M","MES monohydrate",6
+"C0269",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0270",8,1,0.1,"M","Potassium bromide",7.5
+"C0270",8,2,0.1,"M","HEPES",7.5
+"C0270",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0271",8,1,0.1,"M","Potassium bromide",5
+"C0271",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0271",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0272",8,1,0.1,"M","Potassium bromide",8
+"C0272",8,2,0.1,"M","Tris",8
+"C0272",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0273",8,1,0.1,"M","Potassium carbonate",9
+"C0273",8,2,0.1,"M","TAPS",9
+"C0273",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0274",8,1,0.1,"M","Potassium carbonate",5
+"C0274",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0274",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0275",8,1,0.1,"M","Potassium carbonate",7.5
+"C0275",8,2,0.1,"M","HEPES",7.5
+"C0275",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0276",8,1,0.1,"M","Potassium chloride",10
+"C0276",8,2,0.1,"M","CAPS",10
+"C0276",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0277",8,1,0.1,"M","Potassium chloride",7.5
+"C0277",8,2,0.1,"M","HEPES",7.5
+"C0277",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0278",8,1,0.1,"M","Potassium nitrate",6
+"C0278",8,2,0.1,"M","MES monohydrate",6
+"C0278",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0279",8,1,0.1,"M","Potassium nitrate",8
+"C0279",8,2,0.1,"M","Tris",8
+"C0279",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0280",8,1,0.1,"M","Potassium nitrate",4.2
+"C0280",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0280",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0281",8,1,0.1,"M","Potassium phosphate monobasic",8
+"C0281",8,2,0.1,"M","Tris",8
+"C0281",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0282",8,1,0.1,"M","Potassium phosphate monobasic",5
+"C0282",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0282",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0283",8,1,0.1,"M","Potassium phosphate monobasic",6
+"C0283",8,2,0.1,"M","MES monohydrate",6
+"C0283",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0284",8,1,0.1,"M","Potassium phosphate monobasic",9
+"C0284",8,2,0.1,"M","TAPS",9
+"C0284",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0285",8,1,0.1,"M","Potassium thiocyanate",7
+"C0285",8,2,0.1,"M","Bis-Tris Propane",7
+"C0285",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0286",8,1,0.1,"M","Rubidium chloride",4.2
+"C0286",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0286",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0287",8,1,0.1,"M","Rubidium chloride",10
+"C0287",8,2,0.1,"M","CAPS",10
+"C0287",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0288",8,1,0.1,"M","Rubidium chloride",9
+"C0288",8,2,0.1,"M","TAPS",9
+"C0288",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0289",8,1,0.1,"M","Sodium bromide",4.2
+"C0289",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0289",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0290",8,1,0.1,"M","Sodium bromide",10
+"C0290",8,2,0.1,"M","CAPS",10
+"C0290",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0291",8,1,0.1,"M","Sodium chloride",7.5
+"C0291",8,2,0.1,"M","HEPES",7.5
+"C0291",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0292",8,1,0.1,"M","Sodium chloride",8
+"C0292",8,2,0.1,"M","Tris",8
+"C0292",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0293",8,1,0.1,"M","Sodium molybdate dihydrate",7
+"C0293",8,2,0.1,"M","Bis-Tris Propane",7
+"C0293",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0294",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0294",8,2,0.1,"M","Tris",8
+"C0294",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0295",8,1,0.1,"M","Sodium nitrate",7
+"C0295",8,2,0.1,"M","Bis-Tris Propane",7
+"C0295",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0296",8,1,0.1,"M","Sodium phosphate monobasic",4.2
+"C0296",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0296",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0297",8,1,0.1,"M","Sodium phosphate monobasic",6
+"C0297",8,2,0.1,"M","MES monohydrate",6
+"C0297",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0298",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0298",8,2,0.1,"M","Tris",8
+"C0298",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0299",8,1,0.1,"M","Zinc acetate dihydrate",6
+"C0299",8,2,0.1,"M","MES monohydrate",6
+"C0299",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0300",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0300",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0300",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0301",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",10
+"C0301",8,2,0.1,"M","CAPS",10
+"C0301",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0302",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",7
+"C0302",8,2,0.1,"M","Bis-Tris Propane",7
+"C0302",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0303",8,1,0.1,"M","Lithium sulfate monohydrate",6
+"C0303",8,2,0.1,"M","MES monohydrate",6
+"C0303",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0304",8,1,0.1,"M","Lithium sulfate monohydrate",4.2
+"C0304",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0304",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0305",8,1,0.1,"M","Potassium phosphate tribasic",9
+"C0305",8,2,0.1,"M","TAPS",9
+"C0305",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0306",8,1,0.1,"M","Potassium phosphate tribasic",10
+"C0306",8,2,0.1,"M","CAPS",10
+"C0306",8,3,20,"% (w/v)","polyethylene glycol 20000",10
+"C0307",8,1,0.1,"M","Ammonium thiocyanate",7.5
+"C0307",8,2,0.1,"M","HEPES",7.5
+"C0307",8,3,20,"% (w/v)","polyethylene glycol 20000",7.5
+"C0308",8,1,0.1,"M","Manganese sulfate monohydrate",5
+"C0308",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0308",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0309",8,1,1.5,"M","Ammonium sulfate",5.21
+"C0309",8,2,25,"% (v/v)","Glycerol anhydrous",5.21
+"C0310",8,1,10,"% (v/v)","Glycerol anhydrous",8.51
+"C0310",8,2,3.6,"M","Sodium formate",8.51
+"C0311",8,1,0.1,"M","Magnesium nitrate hexahydrate",5
+"C0311",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0311",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0312",8,1,0.1,"M","Magnesium nitrate hexahydrate",8
+"C0312",8,2,0.1,"M","Tris",8
+"C0312",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0313",8,1,0.1,"M","Magnesium nitrate hexahydrate",7
+"C0313",8,2,0.1,"M","Bis-Tris Propane",7
+"C0313",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0314",8,1,0.1,"M","Ammonium bromide",7
+"C0314",8,2,0.1,"M","Bis-Tris Propane",7
+"C0314",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0315",8,1,0.1,"M","Ammonium chloride",6
+"C0315",8,2,0.1,"M","MES monohydrate",6
+"C0315",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0316",8,1,0.1,"M","Ammonium chloride",7
+"C0316",8,2,0.1,"M","Bis-Tris Propane",7
+"C0316",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0317",8,1,0.1,"M","Ammonium nitrate",8
+"C0317",8,2,0.1,"M","Tris",8
+"C0317",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0318",8,1,0.1,"M","Ammonium nitrate",5
+"C0318",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0318",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0319",8,1,0.1,"M","Ammonium phosphate monobasic",4.2
+"C0319",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0319",8,3,40,"% (w/v)","polyethylene glycol 20000",4.2
+"C0320",8,1,0.1,"M","Ammonium phosphate monobasic",8
+"C0320",8,2,0.1,"M","Tris",8
+"C0320",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0321",8,1,0.1,"M","Ammonium phosphate dibasic",7
+"C0321",8,2,0.1,"M","Bis-Tris Propane",7
+"C0321",8,3,20,"% (w/v)","polyethylene glycol 20000",7
+"C0322",8,1,0.1,"M","Ammonium sulfate",4.2
+"C0322",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0322",8,3,40,"% (w/v)","polyethylene glycol 20000",4.2
+"C0323",8,1,0.1,"M","Ammonium sulfate",8
+"C0323",8,2,0.1,"M","Tris",8
+"C0323",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0324",8,1,0.1,"M","Ammonium sulfate",5
+"C0324",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0324",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0325",8,1,0.09,"M","Sodium citrate tribasic dihydrate",5.6
+"C0325",8,2,25.5,"% (w/v)","polyethylene glycol 4000",5.6
+"C0325",8,3,15,"% (v/v)","Glycerol anhydrous",5.6
+"C0325",8,4,0.17,"M","Ammonium acetate",5.6
+"C0326",8,1,0.1,"M","Calcium acetate",7
+"C0326",8,2,0.1,"M","Bis-Tris Propane",7
+"C0326",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0327",8,1,0.1,"M","Lithium bromide",10
+"C0327",8,2,0.1,"M","CAPS",10
+"C0327",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0328",8,1,0.1,"M","Lithium bromide",7.5
+"C0328",8,2,0.1,"M","HEPES",7.5
+"C0328",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0329",8,1,0.1,"M","Lithium bromide",6
+"C0329",8,2,0.1,"M","MES monohydrate",6
+"C0329",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0330",8,1,0.1,"M","Lithium chloride",8
+"C0330",8,2,0.1,"M","Tris",8
+"C0330",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0331",8,1,0.1,"M","Magnesium acetate tetrahydrate",6
+"C0331",8,2,0.1,"M","MES monohydrate",6
+"C0331",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0332",8,1,0.1,"M","Magnesium acetate tetrahydrate",9
+"C0332",8,2,0.1,"M","TAPS",9
+"C0332",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0333",8,1,0.1,"M","Magnesium acetate tetrahydrate",5
+"C0333",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0333",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0334",8,1,0.1,"M","Magnesium chloride hexahydrate",5
+"C0334",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0334",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0335",8,1,0.1,"M","Magnesium sulfate heptahydrate",5
+"C0335",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0335",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0336",8,1,0.1,"M","Magnesium sulfate heptahydrate",6
+"C0336",8,2,0.1,"M","MES monohydrate",6
+"C0336",8,3,20,"% (w/v)","polyethylene glycol 20000",6
+"C0337",8,1,0.1,"M","Magnesium sulfate heptahydrate",9
+"C0337",8,2,0.1,"M","TAPS",9
+"C0337",8,3,20,"% (w/v)","polyethylene glycol 20000",9
+"C0338",8,1,0.1,"M","Potassium acetate",9
+"C0338",8,2,0.1,"M","TAPS",9
+"C0338",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0339",8,1,0.1,"M","Potassium bromide",10
+"C0339",8,2,0.1,"M","CAPS",10
+"C0339",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0340",8,1,0.1,"M","Potassium bromide",6
+"C0340",8,2,0.1,"M","MES monohydrate",6
+"C0340",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0341",8,1,0.1,"M","Potassium carbonate",6
+"C0341",8,2,0.1,"M","MES monohydrate",6
+"C0341",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0342",8,1,0.1,"M","Potassium carbonate",9
+"C0342",8,2,0.1,"M","TAPS",9
+"C0342",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0343",8,1,0.1,"M","Potassium chloride",8
+"C0343",8,2,0.1,"M","Tris",8
+"C0343",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0344",8,1,0.1,"M","Potassium chloride",7
+"C0344",8,2,0.1,"M","Bis-Tris Propane",7
+"C0344",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0345",8,1,0.1,"M","Potassium chloride",4.2
+"C0345",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0345",8,3,40,"% (w/v)","polyethylene glycol 20000",4.2
+"C0346",8,1,0.1,"M","Potassium nitrate",7.5
+"C0346",8,2,0.1,"M","HEPES",7.5
+"C0346",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0347",8,1,0.1,"M","Potassium nitrate",5
+"C0347",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0347",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0348",8,1,0.1,"M","Potassium nitrate",9
+"C0348",8,2,0.1,"M","TAPS",9
+"C0348",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0349",8,1,0.1,"M","Potassium phosphate monobasic",9
+"C0349",8,2,0.1,"M","TAPS",9
+"C0349",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0350",8,1,0.1,"M","Potassium thiocyanate",6
+"C0350",8,2,0.1,"M","MES monohydrate",6
+"C0350",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0351",8,1,0.1,"M","Potassium thiocyanate",10
+"C0351",8,2,0.1,"M","CAPS",10
+"C0351",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0352",8,1,0.1,"M","Potassium thiocyanate",5
+"C0352",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0352",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0353",8,1,0.1,"M","Rubidium chloride",10
+"C0353",8,2,0.1,"M","CAPS",10
+"C0353",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0354",8,1,0.1,"M","Rubidium chloride",8
+"C0354",8,2,0.1,"M","Tris",8
+"C0354",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0355",8,1,0.1,"M","Rubidium chloride",7.5
+"C0355",8,2,0.1,"M","HEPES",7.5
+"C0355",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0356",8,1,0.1,"M","Sodium bromide",6
+"C0356",8,2,0.1,"M","MES monohydrate",6
+"C0356",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0357",8,1,0.1,"M","Sodium bromide",8
+"C0357",8,2,0.1,"M","Tris",8
+"C0357",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0358",8,1,0.1,"M","Sodium chloride",4.2
+"C0358",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0358",8,3,40,"% (w/v)","polyethylene glycol 20000",4.2
+"C0359",8,1,0.1,"M","Sodium chloride",8
+"C0359",8,2,0.1,"M","Tris",8
+"C0359",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0360",8,1,0.1,"M","Sodium molybdate dihydrate",10
+"C0360",8,2,0.1,"M","CAPS",10
+"C0360",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0361",8,1,0.1,"M","Sodium molybdate dihydrate",7.5
+"C0361",8,2,0.1,"M","HEPES",7.5
+"C0361",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0362",8,1,0.1,"M","Sodium molybdate dihydrate",7
+"C0362",8,2,0.1,"M","Bis-Tris Propane",7
+"C0362",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0363",8,1,0.1,"M","Sodium molybdate dihydrate",9
+"C0363",8,2,0.1,"M","TAPS",9
+"C0363",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0364",8,1,0.1,"M","Sodium nitrate",4.2
+"C0364",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0364",8,3,40,"% (w/v)","polyethylene glycol 20000",4.2
+"C0365",8,1,0.1,"M","Sodium nitrate",7.5
+"C0365",8,2,0.1,"M","HEPES",7.5
+"C0365",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0366",8,1,0.1,"M","Sodium nitrate",9
+"C0366",8,2,0.1,"M","TAPS",9
+"C0366",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0367",8,1,0.1,"M","Sodium nitrate",5
+"C0367",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0367",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0368",8,1,0.1,"M","Sodium phosphate monobasic",5
+"C0368",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0368",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0369",8,1,0.1,"M","Sodium phosphate monobasic",10
+"C0369",8,2,0.1,"M","CAPS",10
+"C0369",8,3,40,"% (w/v)","polyethylene glycol 20000",10
+"C0370",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0370",8,2,0.1,"M","Tris",8
+"C0370",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0371",8,1,0.1,"M","Zinc acetate dihydrate",6
+"C0371",8,2,0.1,"M","MES monohydrate",6
+"C0371",8,3,40,"% (w/v)","polyethylene glycol 20000",6
+"C0372",8,1,0.09,"M","Sodium acetate trihydrate",4.6
+"C0372",8,2,25.5,"% (w/v)","polyethylene glycol 4000",4.6
+"C0372",8,3,15,"% (v/v)","Glycerol anhydrous",4.6
+"C0372",8,4,0.17,"M","Ammonium acetate",4.6
+"C0373",8,1,0.7,"M","Ammonium phosphate monobasic",5.6
+"C0373",8,2,0.07,"M","Sodium citrate tribasic dihydrate",5.6
+"C0373",8,3,30,"% (v/v)","Glycerol anhydrous",5.6
+"C0374",8,1,0.18,"M","Magnesium chloride hexahydrate",7.5
+"C0374",8,2,10,"% (v/v)","Glycerol anhydrous",7.5
+"C0374",8,3,0.09,"M","HEPES-Na",7.5
+"C0374",8,4,27,"% (v/v)","Iso-propanol",7.5
+"C0375",8,1,0.2,"M","Sodium citrate tribasic dihydrate",8.5
+"C0375",8,2,0.1,"M","Tris HCl",8.5
+"C0375",8,3,30,"% (v/v)","polyethylene glycol 400",8.5
+"C0376",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",8
+"C0376",8,2,0.1,"M","Tris",8
+"C0376",8,3,20,"% (w/v)","polyethylene glycol 20000",8
+"C0377",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",5
+"C0377",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0377",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0378",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",4.2
+"C0378",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0378",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0379",8,1,0.1,"M","Lithium sulfate monohydrate",7.5
+"C0379",8,2,0.1,"M","HEPES",7.5
+"C0379",8,3,40,"% (w/v)","polyethylene glycol 20000",7.5
+"C0380",8,1,0.1,"M","Lithium sulfate monohydrate",7
+"C0380",8,2,0.1,"M","Bis-Tris Propane",7
+"C0380",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0381",8,1,0.19,"M","Calcium chloride dihydrate",7.5
+"C0381",8,2,26.6,"% (v/v)","polyethylene glycol 400",7.5
+"C0381",8,3,5,"% (v/v)","Glycerol anhydrous",7.5
+"C0381",8,4,0.1,"M","HEPES-Na",7.5
+"C0382",8,1,0.1,"M","Potassium phosphate tribasic",5
+"C0382",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0382",8,3,20,"% (w/v)","polyethylene glycol 20000",5
+"C0383",8,1,0.1,"M","Potassium phosphate tribasic",4.2
+"C0383",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0383",8,3,20,"% (w/v)","polyethylene glycol 20000",4.2
+"C0384",8,1,0.17,"M","Ammonium sulfate",6.5
+"C0384",8,2,25.5,"% (w/v)","polyethylene glycol 8000",6.5
+"C0384",8,3,15,"% (v/v)","Glycerol anhydrous",6.5
+"C0384",8,4,0.09,"M","Sodium cacodylate trihydrate",6.5
+"C0385",8,1,0.1,"M","Ammonium thiocyanate",7
+"C0385",8,2,0.1,"M","Bis-Tris Propane",7
+"C0385",8,3,40,"% (w/v)","polyethylene glycol 20000",7
+"C0386",8,1,0.1,"M","Ammonium thiocyanate",5
+"C0386",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0386",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0387",8,1,1.13,"M","Lithium sulfate monohydrate",7.5
+"C0387",8,2,25,"% (v/v)","Glycerol anhydrous",7.5
+"C0387",8,3,0.08,"M","HEPES-Na",7.5
+"C0388",8,1,0.1,"M","Magnesium nitrate hexahydrate",8
+"C0388",8,2,0.1,"M","Tris",8
+"C0388",8,3,40,"% (w/v)","polyethylene glycol 20000",8
+"C0389",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0389",8,2,0.1,"M","TAPS",9
+"C0389",8,3,40,"% (w/v)","polyethylene glycol 20000",9
+"C0390",8,1,0.1,"M","Magnesium nitrate hexahydrate",5
+"C0390",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0390",8,3,40,"% (w/v)","polyethylene glycol 20000",5
+"C0391",8,1,0.1,"M","Ammonium bromide",5
+"C0391",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0391",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0392",8,1,0.1,"M","Ammonium bromide",8
+"C0392",8,2,0.1,"M","Tris",8
+"C0392",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0393",8,1,0.1,"M","Ammonium chloride",7
+"C0393",8,2,0.1,"M","Bis-Tris Propane",7
+"C0393",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0394",8,1,0.1,"M","Ammonium nitrate",8
+"C0394",8,2,0.1,"M","Tris",8
+"C0394",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0395",8,1,0.1,"M","Ammonium nitrate",10
+"C0395",8,2,0.1,"M","CAPS",10
+"C0395",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0396",8,1,0.1,"M","Ammonium phosphate monobasic",7
+"C0396",8,2,0.1,"M","Bis-Tris Propane",7
+"C0396",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0397",8,1,0.1,"M","Ammonium phosphate monobasic",8
+"C0397",8,2,0.1,"M","Tris",8
+"C0397",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0398",8,1,0.1,"M","Ammonium phosphate monobasic",9
+"C0398",8,2,0.1,"M","TAPS",9
+"C0398",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0399",8,1,0.1,"M","Ammonium phosphate monobasic",5
+"C0399",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0399",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0400",8,1,0.1,"M","Ammonium phosphate dibasic",9
+"C0400",8,2,0.1,"M","TAPS",9
+"C0400",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0401",8,1,0.1,"M","Ammonium phosphate dibasic",6
+"C0401",8,2,0.1,"M","MES monohydrate",6
+"C0401",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0402",8,1,0.1,"M","Ammonium sulfate",7.5
+"C0402",8,2,0.1,"M","HEPES",7.5
+"C0402",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0403",8,1,0.1,"M","Ammonium sulfate",10
+"C0403",8,2,0.1,"M","CAPS",10
+"C0403",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0404",8,1,0.1,"M","Calcium acetate",6
+"C0404",8,2,0.1,"M","MES monohydrate",6
+"C0404",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0405",8,1,0.1,"M","Calcium acetate",7.5
+"C0405",8,2,0.1,"M","HEPES",7.5
+"C0405",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0406",8,1,0.1,"M","Calcium chloride dihydrate",5
+"C0406",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0406",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0407",8,1,0.1,"M","Calcium chloride dihydrate",7
+"C0407",8,2,0.1,"M","Bis-Tris Propane",7
+"C0407",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0408",8,1,0.1,"M","Lithium bromide",5
+"C0408",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0408",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0409",8,1,0.1,"M","Lithium bromide",10
+"C0409",8,2,0.1,"M","CAPS",10
+"C0409",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0410",8,1,0.1,"M","Lithium bromide",7.5
+"C0410",8,2,0.1,"M","HEPES",7.5
+"C0410",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0411",8,1,0.1,"M","Lithium chloride",8
+"C0411",8,2,0.1,"M","Tris",8
+"C0411",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0412",8,1,0.1,"M","Lithium chloride",9
+"C0412",8,2,0.1,"M","TAPS",9
+"C0412",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0413",8,1,0.1,"M","Magnesium acetate tetrahydrate",6
+"C0413",8,2,0.1,"M","MES monohydrate",6
+"C0413",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0414",8,1,0.1,"M","Magnesium chloride hexahydrate",7.5
+"C0414",8,2,0.1,"M","HEPES",7.5
+"C0414",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0415",8,1,0.1,"M","Magnesium chloride hexahydrate",8
+"C0415",8,2,0.1,"M","Tris",8
+"C0415",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0416",8,1,0.1,"M","Magnesium chloride hexahydrate",7
+"C0416",8,2,0.1,"M","Bis-Tris Propane",7
+"C0416",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0417",8,1,0.1,"M","Magnesium sulfate heptahydrate",4.2
+"C0417",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0417",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0418",8,1,0.1,"M","Magnesium sulfate heptahydrate",7
+"C0418",8,2,0.1,"M","Bis-Tris Propane",7
+"C0418",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0419",8,1,0.1,"M","Potassium acetate",10
+"C0419",8,2,0.1,"M","CAPS",10
+"C0419",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0420",8,1,0.1,"M","Potassium bromide",9
+"C0420",8,2,0.1,"M","TAPS",9
+"C0420",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0421",8,1,0.1,"M","Potassium bromide",10
+"C0421",8,2,0.1,"M","CAPS",10
+"C0421",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0422",8,1,0.1,"M","Potassium carbonate",10
+"C0422",8,2,0.1,"M","CAPS",10
+"C0422",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0423",8,1,0.1,"M","Potassium carbonate",6
+"C0423",8,2,0.1,"M","MES monohydrate",6
+"C0423",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0424",8,1,0.1,"M","Potassium chloride",5
+"C0424",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0424",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0425",8,1,0.1,"M","Potassium chloride",4.2
+"C0425",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0425",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0426",8,1,0.1,"M","Potassium nitrate",10
+"C0426",8,2,0.1,"M","CAPS",10
+"C0426",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0427",8,1,0.1,"M","Potassium nitrate",7
+"C0427",8,2,0.1,"M","Bis-Tris Propane",7
+"C0427",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0428",8,1,0.1,"M","Potassium phosphate monobasic",5
+"C0428",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0428",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0429",8,1,0.1,"M","Potassium phosphate monobasic",7.5
+"C0429",8,2,0.1,"M","HEPES",7.5
+"C0429",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0430",8,1,0.1,"M","Potassium thiocyanate",5
+"C0430",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0430",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0431",8,1,0.1,"M","Rubidium chloride",7.5
+"C0431",8,2,0.1,"M","HEPES",7.5
+"C0431",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0432",8,1,0.1,"M","Rubidium chloride",6
+"C0432",8,2,0.1,"M","MES monohydrate",6
+"C0432",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0433",8,1,0.1,"M","Sodium bromide",6
+"C0433",8,2,0.1,"M","MES monohydrate",6
+"C0433",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0434",8,1,0.1,"M","Sodium chloride",7.5
+"C0434",8,2,0.1,"M","HEPES",7.5
+"C0434",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0435",8,1,0.1,"M","Sodium chloride",6
+"C0435",8,2,0.1,"M","MES monohydrate",6
+"C0435",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0436",8,1,0.1,"M","Sodium molybdate dihydrate",6
+"C0436",8,2,0.1,"M","MES monohydrate",6
+"C0436",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0437",8,1,0.1,"M","Sodium molybdate dihydrate",7
+"C0437",8,2,0.1,"M","Bis-Tris Propane",7
+"C0437",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0438",8,1,0.1,"M","Sodium molybdate dihydrate",9
+"C0438",8,2,0.1,"M","TAPS",9
+"C0438",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0439",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0439",8,2,0.1,"M","Tris",8
+"C0439",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0440",8,1,0.1,"M","Sodium nitrate",6
+"C0440",8,2,0.1,"M","MES monohydrate",6
+"C0440",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0441",8,1,0.1,"M","Sodium nitrate",7
+"C0441",8,2,0.1,"M","Bis-Tris Propane",7
+"C0441",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0442",8,1,0.1,"M","Sodium nitrate",4.2
+"C0442",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0442",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0443",8,1,0.1,"M","Sodium nitrate",7.5
+"C0443",8,2,0.1,"M","HEPES",7.5
+"C0443",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0444",8,1,0.1,"M","Sodium thiosulfate pentahydrate",10
+"C0444",8,2,0.1,"M","CAPS",10
+"C0444",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0445",8,1,0.1,"M","Zinc acetate dihydrate",4.2
+"C0445",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0445",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0446",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0446",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0446",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0447",8,1,0.17,"M","Lithium sulfate monohydrate",8.5
+"C0447",8,2,0.09,"M","Tris HCl",8.5
+"C0447",8,3,25.5,"% (w/v)","polyethylene glycol 4000",8.5
+"C0447",8,4,15,"% (v/v)","Glycerol anhydrous",8.5
+"C0448",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",7.5
+"C0448",8,2,0.1,"M","HEPES",7.5
+"C0448",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0449",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",4.2
+"C0449",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0449",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0450",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",7
+"C0450",8,2,0.1,"M","Bis-Tris Propane",7
+"C0450",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0451",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",8
+"C0451",8,2,0.1,"M","Tris",8
+"C0451",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0452",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",4.2
+"C0452",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0452",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0453",8,1,0.1,"M","Lithium sulfate monohydrate",9
+"C0453",8,2,0.1,"M","TAPS",9
+"C0453",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0454",8,1,0.1,"M","Lithium sulfate monohydrate",4.2
+"C0454",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0454",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0455",8,1,0.1,"M","Lithium sulfate monohydrate",8
+"C0455",8,2,0.1,"M","Tris",8
+"C0455",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0456",8,1,0.1,"M","Potassium phosphate tribasic",7.5
+"C0456",8,2,0.1,"M","HEPES",7.5
+"C0456",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0457",8,1,0.1,"M","Potassium phosphate tribasic",7
+"C0457",8,2,0.1,"M","Bis-Tris Propane",7
+"C0457",8,3,20,"% (w/v)","polyethylene glycol 8000",7
+"C0458",8,1,0.1,"M","Potassium phosphate tribasic",4.2
+"C0458",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0458",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0459",8,1,0.1,"M","Ammonium thiocyanate",8
+"C0459",8,2,0.1,"M","Tris",8
+"C0459",8,3,20,"% (w/v)","polyethylene glycol 8000",8
+"C0460",8,1,0.1,"M","Ammonium thiocyanate",5
+"C0460",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0460",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0461",8,1,0.1,"M","Ammonium thiocyanate",10
+"C0461",8,2,0.1,"M","CAPS",10
+"C0461",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0462",8,1,0.1,"M","Manganese sulfate monohydrate",5
+"C0462",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0462",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0463",8,1,0.07,"M","Sodium acetate trihydrate",4.6
+"C0463",8,2,30,"% (v/v)","Glycerol anhydrous",4.6
+"C0463",8,3,1.4,"M","Sodium formate",4.6
+"C0464",8,1,0.1,"M","Magnesium nitrate hexahydrate",4.2
+"C0464",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0464",8,3,20,"% (w/v)","polyethylene glycol 8000",4.2
+"C0465",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0465",8,2,0.1,"M","TAPS",9
+"C0465",8,3,20,"% (w/v)","polyethylene glycol 8000",9
+"C0466",8,1,0.1,"M","Magnesium nitrate hexahydrate",6
+"C0466",8,2,0.1,"M","MES monohydrate",6
+"C0466",8,3,20,"% (w/v)","polyethylene glycol 8000",6
+"C0467",8,1,0.1,"M","Magnesium nitrate hexahydrate",7.5
+"C0467",8,2,0.1,"M","HEPES",7.5
+"C0467",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0468",8,1,0.1,"M","Ammonium bromide",4.2
+"C0468",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0468",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0469",8,1,0.1,"M","Ammonium bromide",7
+"C0469",8,2,0.1,"M","Bis-Tris Propane",7
+"C0469",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0470",8,1,0.1,"M","Ammonium bromide",5
+"C0470",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0470",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0471",8,1,0.1,"M","Ammonium chloride",5
+"C0471",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0471",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0472",8,1,0.1,"M","Ammonium chloride",4.2
+"C0472",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0472",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0473",8,1,0.1,"M","Ammonium chloride",8
+"C0473",8,2,0.1,"M","Tris",8
+"C0473",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0474",8,1,0.1,"M","Ammonium nitrate",4.2
+"C0474",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0474",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0475",8,1,0.1,"M","Ammonium nitrate",7.5
+"C0475",8,2,0.1,"M","HEPES",7.5
+"C0475",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0476",8,1,0.1,"M","Ammonium nitrate",7
+"C0476",8,2,0.1,"M","Bis-Tris Propane",7
+"C0476",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0477",8,1,0.1,"M","Ammonium phosphate monobasic",5
+"C0477",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0477",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0478",8,1,0.1,"M","Ammonium phosphate monobasic",6
+"C0478",8,2,0.1,"M","MES monohydrate",6
+"C0478",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0479",8,1,0.1,"M","Ammonium phosphate dibasic",5
+"C0479",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0479",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0480",8,1,0.1,"M","Ammonium phosphate dibasic",7.5
+"C0480",8,2,0.1,"M","HEPES",7.5
+"C0480",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0481",8,1,0.1,"M","Ammonium sulfate",5
+"C0481",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0481",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0482",8,1,0.1,"M","Ammonium sulfate",6
+"C0482",8,2,0.1,"M","MES monohydrate",6
+"C0482",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0483",8,1,0.1,"M","Ammonium sulfate",9
+"C0483",8,2,0.1,"M","TAPS",9
+"C0483",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0484",8,1,0.16,"M","Magnesium acetate tetrahydrate",6.5
+"C0484",8,2,16,"% (w/v)","polyethylene glycol 8000",6.5
+"C0484",8,3,20,"% (v/v)","Glycerol anhydrous",6.5
+"C0484",8,4,0.08,"M","Sodium cacodylate trihydrate",6.5
+"C0485",8,1,0.1,"M","Calcium chloride dihydrate",6
+"C0485",8,2,0.1,"M","MES monohydrate",6
+"C0485",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0486",8,1,0.1,"M","Calcium chloride dihydrate",5
+"C0486",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0486",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0487",8,1,0.1,"M","Lithium bromide",4.2
+"C0487",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0487",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0488",8,1,0.1,"M","Lithium bromide",9
+"C0488",8,2,0.1,"M","TAPS",9
+"C0488",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0489",8,1,0.1,"M","Lithium chloride",6
+"C0489",8,2,0.1,"M","MES monohydrate",6
+"C0489",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0490",8,1,0.1,"M","Lithium chloride",5
+"C0490",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0490",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0491",8,1,0.1,"M","Lithium chloride",7.5
+"C0491",8,2,0.1,"M","HEPES",7.5
+"C0491",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0492",8,1,0.1,"M","Magnesium acetate tetrahydrate",7
+"C0492",8,2,0.1,"M","Bis-Tris Propane",7
+"C0492",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0493",8,1,0.1,"M","Magnesium chloride hexahydrate",5
+"C0493",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0493",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0494",8,1,0.1,"M","Magnesium sulfate heptahydrate",10
+"C0494",8,2,0.1,"M","CAPS",10
+"C0494",8,3,20,"% (w/v)","polyethylene glycol 8000",10
+"C0495",8,1,0.1,"M","Magnesium sulfate heptahydrate",7.5
+"C0495",8,2,0.1,"M","HEPES",7.5
+"C0495",8,3,20,"% (w/v)","polyethylene glycol 8000",7.5
+"C0496",8,1,0.1,"M","Magnesium sulfate heptahydrate",5
+"C0496",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0496",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0497",8,1,0.1,"M","Manganese chloride tetrahydrate",7
+"C0497",8,2,0.1,"M","Bis-Tris Propane",7
+"C0497",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0498",8,1,0.1,"M","Manganese chloride tetrahydrate",5
+"C0498",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0498",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0499",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0499",8,2,0.1,"M","MES monohydrate",6
+"C0499",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0500",8,1,0.1,"M","Potassium acetate",5
+"C0500",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0500",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0501",8,1,0.1,"M","Potassium acetate",7
+"C0501",8,2,0.1,"M","Bis-Tris Propane",7
+"C0501",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0502",8,1,0.1,"M","Potassium bromide",7.5
+"C0502",8,2,0.1,"M","HEPES",7.5
+"C0502",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0503",8,1,0.1,"M","Potassium bromide",7
+"C0503",8,2,0.1,"M","Bis-Tris Propane",7
+"C0503",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0504",8,1,0.1,"M","Potassium bromide",8
+"C0504",8,2,0.1,"M","Tris",8
+"C0504",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0505",8,1,0.1,"M","Potassium carbonate",5
+"C0505",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0505",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0506",8,1,0.1,"M","Potassium carbonate",8
+"C0506",8,2,0.1,"M","Tris",8
+"C0506",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0507",8,1,0.1,"M","Potassium carbonate",7.5
+"C0507",8,2,0.1,"M","HEPES",7.5
+"C0507",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0508",8,1,0.1,"M","Potassium carbonate",10
+"C0508",8,2,0.1,"M","CAPS",10
+"C0508",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0509",8,1,0.1,"M","Potassium chloride",9
+"C0509",8,2,0.1,"M","TAPS",9
+"C0509",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0510",8,1,0.1,"M","Potassium chloride",10
+"C0510",8,2,0.1,"M","CAPS",10
+"C0510",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0511",8,1,0.1,"M","Potassium chloride",6
+"C0511",8,2,0.1,"M","MES monohydrate",6
+"C0511",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0512",8,1,0.1,"M","Potassium nitrate",9
+"C0512",8,2,0.1,"M","TAPS",9
+"C0512",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0513",8,1,0.1,"M","Potassium nitrate",7.5
+"C0513",8,2,0.1,"M","HEPES",7.5
+"C0513",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0514",8,1,0.1,"M","Potassium nitrate",8
+"C0514",8,2,0.1,"M","Tris",8
+"C0514",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0515",8,1,0.1,"M","Potassium phosphate monobasic",7.5
+"C0515",8,2,0.1,"M","HEPES",7.5
+"C0515",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0516",8,1,0.1,"M","Potassium phosphate monobasic",7
+"C0516",8,2,0.1,"M","Bis-Tris Propane",7
+"C0516",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0517",8,1,0.1,"M","Potassium phosphate monobasic",4.2
+"C0517",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0517",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0518",8,1,0.1,"M","Potassium phosphate monobasic",10
+"C0518",8,2,0.1,"M","CAPS",10
+"C0518",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0519",8,1,0.1,"M","Potassium thiocyanate",5
+"C0519",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0519",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0520",8,1,0.1,"M","Potassium thiocyanate",8
+"C0520",8,2,0.1,"M","Tris",8
+"C0520",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0521",8,1,0.1,"M","Rubidium chloride",9
+"C0521",8,2,0.1,"M","TAPS",9
+"C0521",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0522",8,1,0.1,"M","Rubidium chloride",10
+"C0522",8,2,0.1,"M","CAPS",10
+"C0522",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0523",8,1,0.1,"M","Sodium bromide",7.5
+"C0523",8,2,0.1,"M","HEPES",7.5
+"C0523",8,3,40,"% (w/v)","polyethylene glycol 8000",7.5
+"C0524",8,1,0.1,"M","Sodium bromide",9
+"C0524",8,2,0.1,"M","TAPS",9
+"C0524",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0525",8,1,0.1,"M","Sodium bromide",10
+"C0525",8,2,0.1,"M","CAPS",10
+"C0525",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0526",8,1,0.1,"M","Sodium chloride",8
+"C0526",8,2,0.1,"M","Tris",8
+"C0526",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0527",8,1,0.1,"M","Sodium chloride",9
+"C0527",8,2,0.1,"M","TAPS",9
+"C0527",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0528",8,1,0.1,"M","Sodium chloride",6
+"C0528",8,2,0.1,"M","MES monohydrate",6
+"C0528",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0529",8,1,0.1,"M","Sodium nitrate",4.2
+"C0529",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0529",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0530",8,1,0.1,"M","Sodium phosphate monobasic",8
+"C0530",8,2,0.1,"M","Tris",8
+"C0530",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0531",8,1,0.1,"M","Sodium phosphate monobasic",6
+"C0531",8,2,0.1,"M","MES monohydrate",6
+"C0531",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0532",8,1,0.1,"M","Sodium phosphate monobasic",7
+"C0532",8,2,0.1,"M","Bis-Tris Propane",7
+"C0532",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0533",8,1,0.1,"M","Sodium thiosulfate pentahydrate",10
+"C0533",8,2,0.1,"M","CAPS",10
+"C0533",8,3,40,"% (w/v)","polyethylene glycol 8000",10
+"C0534",8,1,0.1,"M","Sodium thiosulfate pentahydrate",9
+"C0534",8,2,0.1,"M","TAPS",9
+"C0534",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0535",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0535",8,2,0.1,"M","Tris",8
+"C0535",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0536",8,1,0.1,"M","Zinc acetate dihydrate",6
+"C0536",8,2,0.1,"M","MES monohydrate",6
+"C0536",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0537",8,1,0.1,"M","Zinc acetate dihydrate",8
+"C0537",8,2,0.1,"M","Tris",8
+"C0537",8,3,40,"% (w/v)","polyethylene glycol 8000",8
+"C0538",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",5
+"C0538",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0538",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0539",8,1,0.1,"M","Lithium sulfate monohydrate",5
+"C0539",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0539",8,3,40,"% (w/v)","polyethylene glycol 8000",5
+"C0540",8,1,0.1,"M","Lithium sulfate monohydrate",7
+"C0540",8,2,0.1,"M","Bis-Tris Propane",7
+"C0540",8,3,40,"% (w/v)","polyethylene glycol 8000",7
+"C0541",8,1,0.1,"M","Lithium sulfate monohydrate",9
+"C0541",8,2,0.1,"M","TAPS",9
+"C0541",8,3,40,"% (w/v)","polyethylene glycol 8000",9
+"C0542",8,1,0.08,"M","Tris HCl",8.5
+"C0542",8,2,20,"% (v/v)","Glycerol anhydrous",8.5
+"C0542",8,3,24,"% (v/v)","Iso-propanol",8.5
+"C0542",8,4,0.16,"M","Ammonium acetate",8.5
+"C0543",8,1,0.1,"M","Potassium phosphate tribasic",5
+"C0543",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0543",8,3,20,"% (w/v)","polyethylene glycol 8000",5
+"C0544",8,1,0.1,"M","Ammonium thiocyanate",4.2
+"C0544",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0544",8,3,40,"% (w/v)","polyethylene glycol 8000",4.2
+"C0545",8,1,0.1,"M","Ammonium thiocyanate",6
+"C0545",8,2,0.1,"M","MES monohydrate",6
+"C0545",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0546",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0546",8,2,0.1,"M","MES monohydrate",6
+"C0546",8,3,40,"% (w/v)","polyethylene glycol 8000",6
+"C0547",8,1,0.1,"M","Ammonium bromide",10
+"C0547",8,2,0.1,"M","CAPS",10
+"C0547",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0548",8,1,0.1,"M","Ammonium bromide",8
+"C0548",8,2,0.1,"M","Tris",8
+"C0548",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0549",8,1,0.1,"M","Ammonium chloride",10
+"C0549",8,2,0.1,"M","CAPS",10
+"C0549",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0550",8,1,0.1,"M","Ammonium chloride",5
+"C0550",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0550",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0551",8,1,0.1,"M","Ammonium nitrate",8
+"C0551",8,2,0.1,"M","Tris",8
+"C0551",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0552",8,1,0.1,"M","Ammonium phosphate monobasic",9
+"C0552",8,2,0.1,"M","TAPS",9
+"C0552",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0553",8,1,0.1,"M","Ammonium phosphate monobasic",4.2
+"C0553",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0553",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0554",8,1,0.1,"M","Ammonium phosphate monobasic",7
+"C0554",8,2,0.1,"M","Bis-Tris Propane",7
+"C0554",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0555",8,1,0.1,"M","Ammonium phosphate dibasic",4.2
+"C0555",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0555",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0556",8,1,0.1,"M","Ammonium phosphate dibasic",9
+"C0556",8,2,0.1,"M","TAPS",9
+"C0556",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0557",8,1,0.1,"M","Ammonium phosphate dibasic",7
+"C0557",8,2,0.1,"M","Bis-Tris Propane",7
+"C0557",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0558",8,1,0.1,"M","Ammonium sulfate",7.5
+"C0558",8,2,0.1,"M","HEPES",7.5
+"C0558",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0559",8,1,0.1,"M","Ammonium sulfate",9
+"C0559",8,2,0.1,"M","TAPS",9
+"C0559",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0560",8,1,0.1,"M","Calcium acetate",7
+"C0560",8,2,0.1,"M","Bis-Tris Propane",7
+"C0560",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0561",8,1,0.1,"M","Calcium chloride dihydrate",5
+"C0561",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0561",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0562",8,1,0.1,"M","Calcium chloride dihydrate",7.5
+"C0562",8,2,0.1,"M","HEPES",7.5
+"C0562",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0563",8,1,0.1,"M","Lithium bromide",5
+"C0563",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0563",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0564",8,1,0.1,"M","Lithium bromide",8
+"C0564",8,2,0.1,"M","Tris",8
+"C0564",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0565",8,1,0.1,"M","Lithium chloride",8
+"C0565",8,2,0.1,"M","Tris",8
+"C0565",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0566",8,1,0.1,"M","Lithium chloride",10
+"C0566",8,2,0.1,"M","CAPS",10
+"C0566",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0567",8,1,0.1,"M","Lithium chloride",5
+"C0567",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0567",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0568",8,1,0.1,"M","Lithium chloride",7.5
+"C0568",8,2,0.1,"M","HEPES",7.5
+"C0568",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0569",8,1,0.1,"M","Magnesium chloride hexahydrate",6
+"C0569",8,2,0.1,"M","MES monohydrate",6
+"C0569",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0570",8,1,0.1,"M","Magnesium chloride hexahydrate",7.5
+"C0570",8,2,0.1,"M","HEPES",7.5
+"C0570",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0571",8,1,0.1,"M","Magnesium sulfate heptahydrate",7
+"C0571",8,2,0.1,"M","Bis-Tris Propane",7
+"C0571",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0572",8,1,0.1,"M","Magnesium sulfate heptahydrate",8
+"C0572",8,2,0.1,"M","Tris",8
+"C0572",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0573",8,1,0.1,"M","Magnesium sulfate heptahydrate",9
+"C0573",8,2,0.1,"M","TAPS",9
+"C0573",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0574",8,1,0.1,"M","Magnesium sulfate heptahydrate",6
+"C0574",8,2,0.1,"M","MES monohydrate",6
+"C0574",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0575",8,1,0.1,"M","Magnesium sulfate heptahydrate",4.2
+"C0575",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0575",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0576",8,1,0.1,"M","Manganese chloride tetrahydrate",5
+"C0576",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0576",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0577",8,1,0.1,"M","Manganese chloride tetrahydrate",7
+"C0577",8,2,0.1,"M","Bis-Tris Propane",7
+"C0577",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0578",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0578",8,2,0.1,"M","MES monohydrate",6
+"C0578",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0579",8,1,0.1,"M","Potassium acetate",4.2
+"C0579",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0579",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0580",8,1,0.1,"M","Potassium acetate",6
+"C0580",8,2,0.1,"M","MES monohydrate",6
+"C0580",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0581",8,1,0.1,"M","Potassium bromide",4.2
+"C0581",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0581",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0582",8,1,0.1,"M","Potassium bromide",8
+"C0582",8,2,0.1,"M","Tris",8
+"C0582",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0583",8,1,0.1,"M","Potassium bromide",7.5
+"C0583",8,2,0.1,"M","HEPES",7.5
+"C0583",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0584",8,1,0.1,"M","Potassium carbonate",7
+"C0584",8,2,0.1,"M","Bis-Tris Propane",7
+"C0584",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0585",8,1,0.1,"M","Potassium carbonate",8
+"C0585",8,2,0.1,"M","Tris",8
+"C0585",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0586",8,1,0.1,"M","Potassium chloride",10
+"C0586",8,2,0.1,"M","CAPS",10
+"C0586",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0587",8,1,0.1,"M","Potassium chloride",8
+"C0587",8,2,0.1,"M","Tris",8
+"C0587",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0588",8,1,0.1,"M","Potassium nitrate",7
+"C0588",8,2,0.1,"M","Bis-Tris Propane",7
+"C0588",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0589",8,1,0.1,"M","Potassium phosphate monobasic",4.2
+"C0589",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0589",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0590",8,1,0.1,"M","Potassium thiocyanate",4.2
+"C0590",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0590",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0591",8,1,0.1,"M","Potassium thiocyanate",9
+"C0591",8,2,0.1,"M","TAPS",9
+"C0591",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0592",8,1,0.1,"M","Potassium thiocyanate",7.5
+"C0592",8,2,0.1,"M","HEPES",7.5
+"C0592",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0593",8,1,0.1,"M","Rubidium chloride",7
+"C0593",8,2,0.1,"M","Bis-Tris Propane",7
+"C0593",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0594",8,1,0.1,"M","Sodium bromide",7
+"C0594",8,2,0.1,"M","Bis-Tris Propane",7
+"C0594",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0595",8,1,0.1,"M","Sodium bromide",5
+"C0595",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0595",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0596",8,1,0.1,"M","Sodium chloride",5
+"C0596",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0596",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0597",8,1,0.1,"M","Sodium chloride",7
+"C0597",8,2,0.1,"M","Bis-Tris Propane",7
+"C0597",8,3,20,"% (w/v)","polyethylene glycol 4000",7
+"C0598",8,1,0.1,"M","Sodium chloride",9
+"C0598",8,2,0.1,"M","TAPS",9
+"C0598",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0599",8,1,0.1,"M","Sodium chloride",7.5
+"C0599",8,2,0.1,"M","HEPES",7.5
+"C0599",8,3,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C0600",8,1,0.1,"M","Sodium molybdate dihydrate",10
+"C0600",8,2,0.1,"M","CAPS",10
+"C0600",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0601",8,1,0.1,"M","Sodium molybdate dihydrate",4.2
+"C0601",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0601",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0602",8,1,0.1,"M","Sodium nitrate",8
+"C0602",8,2,0.1,"M","Tris",8
+"C0602",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0603",8,1,0.1,"M","Sodium nitrate",6
+"C0603",8,2,0.1,"M","MES monohydrate",6
+"C0603",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0604",8,1,0.1,"M","Sodium phosphate monobasic",6
+"C0604",8,2,0.1,"M","MES monohydrate",6
+"C0604",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0605",8,1,0.1,"M","Sodium phosphate monobasic",4.2
+"C0605",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0605",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0606",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0606",8,2,0.1,"M","Tris",8
+"C0606",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0607",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",4.2
+"C0607",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0607",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0608",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",9
+"C0608",8,2,0.1,"M","TAPS",9
+"C0608",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0609",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",5
+"C0609",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0609",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0610",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",8
+"C0610",8,2,0.1,"M","Tris",8
+"C0610",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0611",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",4.2
+"C0611",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0611",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0612",8,1,0.1,"M","Lithium sulfate monohydrate",5
+"C0612",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0612",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0613",8,1,0.1,"M","Lithium sulfate monohydrate",4.2
+"C0613",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0613",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0614",8,1,0.1,"M","Potassium phosphate tribasic",8
+"C0614",8,2,0.1,"M","Tris",8
+"C0614",8,3,20,"% (w/v)","polyethylene glycol 4000",8
+"C0615",8,1,0.1,"M","Potassium phosphate tribasic",10
+"C0615",8,2,0.1,"M","CAPS",10
+"C0615",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0616",8,1,0.1,"M","Potassium phosphate tribasic",4.2
+"C0616",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0616",8,3,20,"% (w/v)","polyethylene glycol 4000",4.2
+"C0617",8,1,0.1,"M","Ammonium thiocyanate",5
+"C0617",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0617",8,3,20,"% (w/v)","polyethylene glycol 4000",5
+"C0618",8,1,0.1,"M","Ammonium thiocyanate",6
+"C0618",8,2,0.1,"M","MES monohydrate",6
+"C0618",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0619",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0619",8,2,0.1,"M","MES monohydrate",6
+"C0619",8,3,20,"% (w/v)","polyethylene glycol 4000",6
+"C0620",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0620",8,2,0.1,"M","TAPS",9
+"C0620",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0621",8,1,0.1,"M","Ammonium bromide",4.2
+"C0621",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0621",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0622",8,1,0.1,"M","Ammonium bromide",6
+"C0622",8,2,0.1,"M","MES monohydrate",6
+"C0622",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0623",8,1,0.1,"M","Ammonium chloride",10
+"C0623",8,2,0.1,"M","CAPS",10
+"C0623",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0624",8,1,0.1,"M","Ammonium chloride",7
+"C0624",8,2,0.1,"M","Bis-Tris Propane",7
+"C0624",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0625",8,1,0.1,"M","Ammonium nitrate",7.5
+"C0625",8,2,0.1,"M","HEPES",7.5
+"C0625",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0626",8,1,0.1,"M","Ammonium nitrate",6
+"C0626",8,2,0.1,"M","MES monohydrate",6
+"C0626",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0627",8,1,0.1,"M","Ammonium nitrate",9
+"C0627",8,2,0.1,"M","TAPS",9
+"C0627",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0628",8,1,0.1,"M","Ammonium nitrate",10
+"C0628",8,2,0.1,"M","CAPS",10
+"C0628",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0629",8,1,0.1,"M","Ammonium phosphate monobasic",7.5
+"C0629",8,2,0.1,"M","HEPES",7.5
+"C0629",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0630",8,1,0.1,"M","Ammonium phosphate monobasic",10
+"C0630",8,2,0.1,"M","CAPS",10
+"C0630",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0631",8,1,0.1,"M","Ammonium phosphate dibasic",10
+"C0631",8,2,0.1,"M","CAPS",10
+"C0631",8,3,20,"% (w/v)","polyethylene glycol 4000",10
+"C0632",8,1,0.1,"M","Ammonium sulfate",10
+"C0632",8,2,0.1,"M","CAPS",10
+"C0632",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0633",8,1,0.1,"M","Ammonium sulfate",4.2
+"C0633",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0633",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0634",8,1,0.1,"M","Ammonium sulfate",6
+"C0634",8,2,0.1,"M","MES monohydrate",6
+"C0634",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0635",8,1,0.1,"M","Calcium chloride dihydrate",7
+"C0635",8,2,0.1,"M","Bis-Tris Propane",7
+"C0635",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0636",8,1,0.1,"M","Calcium chloride dihydrate",5
+"C0636",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0636",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0637",8,1,0.1,"M","Lithium bromide",4.2
+"C0637",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0637",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0638",8,1,0.1,"M","Lithium bromide",10
+"C0638",8,2,0.1,"M","CAPS",10
+"C0638",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0639",8,1,0.1,"M","Magnesium acetate tetrahydrate",7.5
+"C0639",8,2,0.1,"M","HEPES",7.5
+"C0639",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0640",8,1,0.1,"M","Magnesium chloride hexahydrate",5
+"C0640",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0640",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0641",8,1,0.1,"M","Magnesium chloride hexahydrate",7.5
+"C0641",8,2,0.1,"M","HEPES",7.5
+"C0641",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0642",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0642",8,2,0.1,"M","MES monohydrate",6
+"C0642",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0643",8,1,0.1,"M","Potassium acetate",5
+"C0643",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0643",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0644",8,1,0.1,"M","Potassium acetate",8
+"C0644",8,2,0.1,"M","Tris",8
+"C0644",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0645",8,1,0.1,"M","Potassium acetate",7.5
+"C0645",8,2,0.1,"M","HEPES",7.5
+"C0645",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0646",8,1,0.1,"M","Potassium bromide",7
+"C0646",8,2,0.1,"M","Bis-Tris Propane",7
+"C0646",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0647",8,1,0.1,"M","Potassium bromide",9
+"C0647",8,2,0.1,"M","TAPS",9
+"C0647",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0648",8,1,0.1,"M","Potassium bromide",6
+"C0648",8,2,0.1,"M","MES monohydrate",6
+"C0648",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0649",8,1,0.1,"M","Potassium carbonate",7.5
+"C0649",8,2,0.1,"M","HEPES",7.5
+"C0649",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0650",8,1,0.1,"M","Potassium carbonate",8
+"C0650",8,2,0.1,"M","Tris",8
+"C0650",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0651",8,1,0.1,"M","Potassium carbonate",10
+"C0651",8,2,0.1,"M","CAPS",10
+"C0651",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0652",8,1,0.1,"M","Potassium chloride",9
+"C0652",8,2,0.1,"M","TAPS",9
+"C0652",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0653",8,1,0.1,"M","Potassium chloride",6
+"C0653",8,2,0.1,"M","MES monohydrate",6
+"C0653",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0654",8,1,0.1,"M","Potassium nitrate",6
+"C0654",8,2,0.1,"M","MES monohydrate",6
+"C0654",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0655",8,1,0.1,"M","Potassium nitrate",10
+"C0655",8,2,0.1,"M","CAPS",10
+"C0655",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0656",8,1,0.1,"M","Potassium nitrate",4.2
+"C0656",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0656",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0657",8,1,0.1,"M","Potassium phosphate monobasic",8
+"C0657",8,2,0.1,"M","Tris",8
+"C0657",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0658",8,1,0.1,"M","Potassium phosphate monobasic",4.2
+"C0658",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0658",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0659",8,1,0.1,"M","Potassium phosphate monobasic",6
+"C0659",8,2,0.1,"M","MES monohydrate",6
+"C0659",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0660",8,1,0.1,"M","Potassium thiocyanate",7
+"C0660",8,2,0.1,"M","Bis-Tris Propane",7
+"C0660",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0661",8,1,0.1,"M","Potassium thiocyanate",8
+"C0661",8,2,0.1,"M","Tris",8
+"C0661",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0662",8,1,0.1,"M","Rubidium chloride",4.2
+"C0662",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0662",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0663",8,1,0.1,"M","Rubidium chloride",7.5
+"C0663",8,2,0.1,"M","HEPES",7.5
+"C0663",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0664",8,1,0.1,"M","Rubidium chloride",8
+"C0664",8,2,0.1,"M","Tris",8
+"C0664",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0665",8,1,0.1,"M","Rubidium chloride",5
+"C0665",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0665",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0666",8,1,0.1,"M","Rubidium chloride",7
+"C0666",8,2,0.1,"M","Bis-Tris Propane",7
+"C0666",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0667",8,1,0.1,"M","Sodium bromide",5
+"C0667",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0667",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0668",8,1,0.1,"M","Sodium bromide",7.5
+"C0668",8,2,0.1,"M","HEPES",7.5
+"C0668",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0669",8,1,0.1,"M","Sodium chloride",5
+"C0669",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0669",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0670",8,1,0.1,"M","Sodium molybdate dihydrate",10
+"C0670",8,2,0.1,"M","CAPS",10
+"C0670",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0671",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0671",8,2,0.1,"M","Tris",8
+"C0671",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0672",8,1,0.1,"M","Sodium nitrate",9
+"C0672",8,2,0.1,"M","TAPS",9
+"C0672",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0673",8,1,0.1,"M","Sodium nitrate",5
+"C0673",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0673",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0674",8,1,0.1,"M","Sodium thiosulfate pentahydrate",7.5
+"C0674",8,2,0.1,"M","HEPES",7.5
+"C0674",8,3,40,"% (w/v)","polyethylene glycol 4000",7.5
+"C0675",8,1,0.1,"M","Sodium thiosulfate pentahydrate",9
+"C0675",8,2,0.1,"M","TAPS",9
+"C0675",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0676",8,1,0.1,"M","Sodium thiosulfate pentahydrate",10
+"C0676",8,2,0.1,"M","CAPS",10
+"C0676",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0677",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0677",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0677",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0678",8,1,0.1,"M","Zinc acetate dihydrate",6
+"C0678",8,2,0.1,"M","MES monohydrate",6
+"C0678",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0679",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",8
+"C0679",8,2,0.1,"M","Tris",8
+"C0679",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0680",8,1,0.1,"M","Lithium sulfate monohydrate",7
+"C0680",8,2,0.1,"M","Bis-Tris Propane",7
+"C0680",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0681",8,1,0.1,"M","Lithium sulfate monohydrate",10
+"C0681",8,2,0.1,"M","CAPS",10
+"C0681",8,3,40,"% (w/v)","polyethylene glycol 4000",10
+"C0682",8,1,0.1,"M","Potassium phosphate tribasic",9
+"C0682",8,2,0.1,"M","TAPS",9
+"C0682",8,3,20,"% (w/v)","polyethylene glycol 4000",9
+"C0683",8,1,0.1,"M","Potassium phosphate tribasic",8
+"C0683",8,2,0.1,"M","Tris",8
+"C0683",8,3,40,"% (w/v)","polyethylene glycol 4000",8
+"C0684",8,1,0.1,"M","Ammonium thiocyanate",9
+"C0684",8,2,0.1,"M","TAPS",9
+"C0684",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0685",8,1,0.1,"M","Ammonium thiocyanate",4.2
+"C0685",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0685",8,3,40,"% (w/v)","polyethylene glycol 4000",4.2
+"C0686",8,1,0.1,"M","Ammonium thiocyanate",6
+"C0686",8,2,0.1,"M","MES monohydrate",6
+"C0686",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0687",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0687",8,2,0.1,"M","MES monohydrate",6
+"C0687",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0688",8,1,0.1,"M","Manganese sulfate monohydrate",7
+"C0688",8,2,0.1,"M","Bis-Tris Propane",7
+"C0688",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0689",8,1,0.16,"M","Ammonium sulfate",4.6
+"C0689",8,2,0.08,"M","Sodium acetate trihydrate",4.6
+"C0689",8,3,20,"% (w/v)","polyethylene glycol 4000",4.6
+"C0689",8,4,20,"% (v/v)","Glycerol anhydrous",4.6
+"C0690",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0690",8,2,0.1,"M","MES monohydrate",6
+"C0690",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0691",8,1,0.1,"M","Magnesium nitrate hexahydrate",7
+"C0691",8,2,0.1,"M","Bis-Tris Propane",7
+"C0691",8,3,40,"% (w/v)","polyethylene glycol 4000",7
+"C0692",8,1,0.1,"M","Magnesium nitrate hexahydrate",6
+"C0692",8,2,0.1,"M","MES monohydrate",6
+"C0692",8,3,40,"% (w/v)","polyethylene glycol 4000",6
+"C0693",8,1,0.1,"M","Magnesium nitrate hexahydrate",5
+"C0693",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0693",8,3,40,"% (w/v)","polyethylene glycol 4000",5
+"C0694",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0694",8,2,0.1,"M","TAPS",9
+"C0694",8,3,40,"% (w/v)","polyethylene glycol 4000",9
+"C0695",8,1,0.1,"M","Ammonium bromide",7.5
+"C0695",8,2,0.1,"M","HEPES",7.5
+"C0695",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0696",8,1,0.1,"M","Ammonium chloride",4.2
+"C0696",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0696",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0697",8,1,0.1,"M","Ammonium chloride",5
+"C0697",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0697",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0698",8,1,0.1,"M","Ammonium chloride",9
+"C0698",8,2,0.1,"M","TAPS",9
+"C0698",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0699",8,1,0.1,"M","Ammonium chloride",8
+"C0699",8,2,0.1,"M","Tris",8
+"C0699",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0700",8,1,0.1,"M","Ammonium nitrate",7.5
+"C0700",8,2,0.1,"M","HEPES",7.5
+"C0700",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0701",8,1,0.1,"M","Ammonium nitrate",5
+"C0701",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0701",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0702",8,1,0.1,"M","Ammonium nitrate",4.2
+"C0702",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0702",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0703",8,1,0.1,"M","Ammonium phosphate monobasic",7
+"C0703",8,2,0.1,"M","Bis-Tris Propane",7
+"C0703",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0704",8,1,0.1,"M","Ammonium phosphate monobasic",6
+"C0704",8,2,0.1,"M","MES monohydrate",6
+"C0704",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0705",8,1,0.1,"M","Ammonium phosphate dibasic",4.2
+"C0705",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0705",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0706",8,1,0.1,"M","Ammonium phosphate dibasic",9
+"C0706",8,2,0.1,"M","TAPS",9
+"C0706",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0707",8,1,0.1,"M","Ammonium sulfate",6
+"C0707",8,2,0.1,"M","MES monohydrate",6
+"C0707",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0708",8,1,0.1,"M","Ammonium sulfate",7
+"C0708",8,2,0.1,"M","Bis-Tris Propane",7
+"C0708",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0709",8,1,0.1,"M","Calcium chloride dihydrate",5
+"C0709",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0709",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0710",8,1,0.1,"M","Lithium bromide",7
+"C0710",8,2,0.1,"M","Bis-Tris Propane",7
+"C0710",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0711",8,1,0.1,"M","Lithium chloride",8
+"C0711",8,2,0.1,"M","Tris",8
+"C0711",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0712",8,1,0.1,"M","Lithium chloride",6
+"C0712",8,2,0.1,"M","MES monohydrate",6
+"C0712",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0713",8,1,0.1,"M","Magnesium chloride hexahydrate",9
+"C0713",8,2,0.1,"M","TAPS",9
+"C0713",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0714",8,1,0.1,"M","Magnesium chloride hexahydrate",8
+"C0714",8,2,0.1,"M","Tris",8
+"C0714",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0715",8,1,0.1,"M","Magnesium chloride hexahydrate",6
+"C0715",8,2,0.1,"M","MES monohydrate",6
+"C0715",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0716",8,1,0.1,"M","Magnesium sulfate heptahydrate",7.5
+"C0716",8,2,0.1,"M","HEPES",7.5
+"C0716",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0717",8,1,0.1,"M","Magnesium sulfate heptahydrate",9
+"C0717",8,2,0.1,"M","TAPS",9
+"C0717",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0718",8,1,0.1,"M","Magnesium sulfate heptahydrate",5
+"C0718",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0718",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0719",8,1,0.1,"M","Manganese chloride tetrahydrate",5
+"C0719",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0719",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0720",8,1,0.1,"M","Manganese chloride tetrahydrate",4.2
+"C0720",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0720",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0721",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0721",8,2,0.1,"M","MES monohydrate",6
+"C0721",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0722",8,1,0.1,"M","Potassium acetate",4.2
+"C0722",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0722",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0723",8,1,0.1,"M","Potassium bromide",4.2
+"C0723",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0723",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0724",8,1,0.1,"M","Potassium carbonate",5
+"C0724",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0724",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0725",8,1,0.1,"M","Potassium carbonate",4.2
+"C0725",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0725",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0726",8,1,0.1,"M","Potassium chloride",5
+"C0726",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0726",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0727",8,1,0.1,"M","Potassium chloride",7
+"C0727",8,2,0.1,"M","Bis-Tris Propane",7
+"C0727",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0728",8,1,0.1,"M","Potassium nitrate",5
+"C0728",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0728",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0729",8,1,0.1,"M","Potassium nitrate",10
+"C0729",8,2,0.1,"M","CAPS",10
+"C0729",8,3,20,"% (w/v)","polyethylene glycol 1000",10
+"C0730",8,1,0.1,"M","Potassium nitrate",6
+"C0730",8,2,0.1,"M","MES monohydrate",6
+"C0730",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0731",8,1,0.1,"M","Potassium phosphate monobasic",7
+"C0731",8,2,0.1,"M","Bis-Tris Propane",7
+"C0731",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0732",8,1,0.1,"M","Potassium phosphate monobasic",6
+"C0732",8,2,0.1,"M","MES monohydrate",6
+"C0732",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0733",8,1,0.1,"M","Potassium thiocyanate",10
+"C0733",8,2,0.1,"M","CAPS",10
+"C0733",8,3,20,"% (w/v)","polyethylene glycol 1000",10
+"C0734",8,1,0.1,"M","Potassium thiocyanate",8
+"C0734",8,2,0.1,"M","Tris",8
+"C0734",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0735",8,1,0.1,"M","Rubidium chloride",6
+"C0735",8,2,0.1,"M","MES monohydrate",6
+"C0735",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0736",8,1,0.1,"M","Rubidium chloride",9
+"C0736",8,2,0.1,"M","TAPS",9
+"C0736",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0737",8,1,0.1,"M","Sodium bromide",7
+"C0737",8,2,0.1,"M","Bis-Tris Propane",7
+"C0737",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0738",8,1,0.1,"M","Sodium bromide",4.2
+"C0738",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0738",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0739",8,1,0.1,"M","Sodium chloride",10
+"C0739",8,2,0.1,"M","CAPS",10
+"C0739",8,3,20,"% (w/v)","polyethylene glycol 1000",10
+"C0740",8,1,0.1,"M","Sodium molybdate dihydrate",9
+"C0740",8,2,0.1,"M","TAPS",9
+"C0740",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0741",8,1,0.1,"M","Sodium molybdate dihydrate",7.5
+"C0741",8,2,0.1,"M","HEPES",7.5
+"C0741",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0742",8,1,0.1,"M","Sodium nitrate",7
+"C0742",8,2,0.1,"M","Bis-Tris Propane",7
+"C0742",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0743",8,1,0.1,"M","Sodium nitrate",8
+"C0743",8,2,0.1,"M","Tris",8
+"C0743",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0744",8,1,0.1,"M","Sodium phosphate monobasic",7.5
+"C0744",8,2,0.1,"M","HEPES",7.5
+"C0744",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0745",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0745",8,2,0.1,"M","Tris",8
+"C0745",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0746",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0746",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0746",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0747",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",8
+"C0747",8,2,0.1,"M","Tris",8
+"C0747",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0748",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",4.2
+"C0748",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0748",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0749",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",10
+"C0749",8,2,0.1,"M","CAPS",10
+"C0749",8,3,20,"% (w/v)","polyethylene glycol 1000",10
+"C0750",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",8
+"C0750",8,2,0.1,"M","Tris",8
+"C0750",8,3,10,"% (w/v)","polyethylene glycol 1000",8
+"C0751",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",7
+"C0751",8,2,0.1,"M","Bis-Tris Propane",7
+"C0751",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0752",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",6
+"C0752",8,2,0.1,"M","MES monohydrate",6
+"C0752",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0753",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",5
+"C0753",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0753",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0754",8,1,0.1,"M","Lithium sulfate monohydrate",6
+"C0754",8,2,0.1,"M","MES monohydrate",6
+"C0754",8,3,20,"% (w/v)","polyethylene glycol 1000",6
+"C0755",8,1,0.1,"M","Lithium sulfate monohydrate",7
+"C0755",8,2,0.1,"M","Bis-Tris Propane",7
+"C0755",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0756",8,1,0.1,"M","Lithium sulfate monohydrate",9
+"C0756",8,2,0.1,"M","TAPS",9
+"C0756",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0757",8,1,0.1,"M","Potassium phosphate tribasic",9
+"C0757",8,2,0.1,"M","TAPS",9
+"C0757",8,3,20,"% (w/v)","polyethylene glycol 1000",9
+"C0758",8,1,0.1,"M","Potassium phosphate tribasic",7
+"C0758",8,2,0.1,"M","Bis-Tris Propane",7
+"C0758",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0759",8,1,0.1,"M","Potassium phosphate tribasic",7.5
+"C0759",8,2,0.1,"M","HEPES",7.5
+"C0759",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0760",8,1,0.1,"M","Ammonium thiocyanate",10
+"C0760",8,2,0.1,"M","CAPS",10
+"C0760",8,3,20,"% (w/v)","polyethylene glycol 1000",10
+"C0761",8,1,0.1,"M","Ammonium thiocyanate",8
+"C0761",8,2,0.1,"M","Tris",8
+"C0761",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0762",8,1,0.1,"M","Ammonium thiocyanate",7.5
+"C0762",8,2,0.1,"M","HEPES",7.5
+"C0762",8,3,20,"% (w/v)","polyethylene glycol 1000",7.5
+"C0763",8,1,0.1,"M","Manganese sulfate monohydrate",4.2
+"C0763",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0763",8,3,20,"% (w/v)","polyethylene glycol 1000",4.2
+"C0764",8,1,0.1,"M","Manganese sulfate monohydrate",5
+"C0764",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0764",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0765",8,1,0.1,"M","Magnesium nitrate hexahydrate",8
+"C0765",8,2,0.1,"M","Tris",8
+"C0765",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0766",8,1,0.1,"M","Magnesium nitrate hexahydrate",5
+"C0766",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0766",8,3,20,"% (w/v)","polyethylene glycol 1000",5
+"C0767",8,1,0.1,"M","Magnesium nitrate hexahydrate",7
+"C0767",8,2,0.1,"M","Bis-Tris Propane",7
+"C0767",8,3,20,"% (w/v)","polyethylene glycol 1000",7
+"C0768",8,1,0.1,"M","Ammonium bromide",8
+"C0768",8,2,0.1,"M","Tris",8
+"C0768",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0769",8,1,0.1,"M","Ammonium bromide",5
+"C0769",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0769",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0770",8,1,0.1,"M","Ammonium chloride",8
+"C0770",8,2,0.1,"M","Tris",8
+"C0770",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0771",8,1,0.1,"M","Ammonium nitrate",7
+"C0771",8,2,0.1,"M","Bis-Tris Propane",7
+"C0771",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0772",8,1,0.1,"M","Ammonium phosphate monobasic",10
+"C0772",8,2,0.1,"M","CAPS",10
+"C0772",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0773",8,1,0.1,"M","Ammonium phosphate monobasic",4.2
+"C0773",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0773",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0774",8,1,0.1,"M","Ammonium phosphate monobasic",7.5
+"C0774",8,2,0.1,"M","HEPES",7.5
+"C0774",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0775",8,1,0.1,"M","Ammonium phosphate monobasic",7
+"C0775",8,2,0.1,"M","Bis-Tris Propane",7
+"C0775",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0776",8,1,0.1,"M","Ammonium phosphate dibasic",4.2
+"C0776",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0776",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0777",8,1,0.1,"M","Ammonium sulfate",7
+"C0777",8,2,0.1,"M","Bis-Tris Propane",7
+"C0777",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0778",8,1,0.1,"M","Ammonium sulfate",10
+"C0778",8,2,0.1,"M","CAPS",10
+"C0778",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0779",8,1,0.1,"M","Ammonium sulfate",8
+"C0779",8,2,0.1,"M","Tris",8
+"C0779",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0780",8,1,0.1,"M","Calcium acetate",5
+"C0780",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0780",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0781",8,1,0.1,"M","Calcium chloride dihydrate",7
+"C0781",8,2,0.1,"M","Bis-Tris Propane",7
+"C0781",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0782",8,1,0.1,"M","Lithium bromide",6
+"C0782",8,2,0.1,"M","MES monohydrate",6
+"C0782",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0783",8,1,0.1,"M","Lithium bromide",4.2
+"C0783",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0783",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0784",8,1,0.1,"M","Lithium bromide",8
+"C0784",8,2,0.1,"M","Tris",8
+"C0784",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0785",8,1,0.1,"M","Lithium bromide",9
+"C0785",8,2,0.1,"M","TAPS",9
+"C0785",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0786",8,1,0.1,"M","Lithium chloride",5
+"C0786",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0786",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0787",8,1,0.1,"M","Lithium chloride",9
+"C0787",8,2,0.1,"M","TAPS",9
+"C0787",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0788",8,1,0.1,"M","Lithium chloride",4.2
+"C0788",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0788",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0789",8,1,0.1,"M","Lithium chloride",10
+"C0789",8,2,0.1,"M","CAPS",10
+"C0789",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0790",8,1,0.1,"M","Magnesium acetate tetrahydrate",8
+"C0790",8,2,0.1,"M","Tris",8
+"C0790",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0791",8,1,0.1,"M","Magnesium chloride hexahydrate",9
+"C0791",8,2,0.1,"M","TAPS",9
+"C0791",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0792",8,1,0.1,"M","Magnesium sulfate heptahydrate",9
+"C0792",8,2,0.1,"M","TAPS",9
+"C0792",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0793",8,1,0.1,"M","Manganese chloride tetrahydrate",5
+"C0793",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0793",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0794",8,1,0.1,"M","Manganese chloride tetrahydrate",6
+"C0794",8,2,0.1,"M","MES monohydrate",6
+"C0794",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0795",8,1,0.1,"M","Potassium acetate",7
+"C0795",8,2,0.1,"M","Bis-Tris Propane",7
+"C0795",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0796",8,1,0.1,"M","Potassium acetate",6
+"C0796",8,2,0.1,"M","MES monohydrate",6
+"C0796",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0797",8,1,0.1,"M","Potassium bromide",5
+"C0797",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0797",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0798",8,1,0.1,"M","Potassium bromide",8
+"C0798",8,2,0.1,"M","Tris",8
+"C0798",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0799",8,1,0.1,"M","Potassium bromide",4.2
+"C0799",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0799",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0800",8,1,0.1,"M","Potassium carbonate",10
+"C0800",8,2,0.1,"M","CAPS",10
+"C0800",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0801",8,1,0.1,"M","Potassium carbonate",4.2
+"C0801",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0801",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0802",8,1,0.1,"M","Potassium carbonate",5
+"C0802",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0802",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0803",8,1,0.1,"M","Potassium carbonate",9
+"C0803",8,2,0.1,"M","TAPS",9
+"C0803",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0804",8,1,0.1,"M","Potassium chloride",10
+"C0804",8,2,0.1,"M","CAPS",10
+"C0804",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0805",8,1,0.1,"M","Potassium chloride",9
+"C0805",8,2,0.1,"M","TAPS",9
+"C0805",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0806",8,1,0.1,"M","Potassium chloride",7.5
+"C0806",8,2,0.1,"M","HEPES",7.5
+"C0806",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0807",8,1,0.1,"M","Potassium nitrate",7.5
+"C0807",8,2,0.1,"M","HEPES",7.5
+"C0807",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0808",8,1,0.1,"M","Potassium nitrate",4.2
+"C0808",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0808",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0809",8,1,0.1,"M","Potassium phosphate monobasic",8
+"C0809",8,2,0.1,"M","Tris",8
+"C0809",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0810",8,1,0.1,"M","Potassium phosphate monobasic",4.2
+"C0810",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0810",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0811",8,1,0.1,"M","Potassium thiocyanate",7.5
+"C0811",8,2,0.1,"M","HEPES",7.5
+"C0811",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0812",8,1,0.1,"M","Potassium thiocyanate",6
+"C0812",8,2,0.1,"M","MES monohydrate",6
+"C0812",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0813",8,1,0.1,"M","Rubidium chloride",4.2
+"C0813",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0813",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0814",8,1,0.1,"M","Rubidium chloride",8
+"C0814",8,2,0.1,"M","Tris",8
+"C0814",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0815",8,1,0.1,"M","Rubidium chloride",6
+"C0815",8,2,0.1,"M","MES monohydrate",6
+"C0815",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0816",8,1,0.1,"M","Sodium bromide",10
+"C0816",8,2,0.1,"M","CAPS",10
+"C0816",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0817",8,1,0.1,"M","Sodium bromide",9
+"C0817",8,2,0.1,"M","TAPS",9
+"C0817",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0818",8,1,0.1,"M","Sodium chloride",8
+"C0818",8,2,0.1,"M","Tris",8
+"C0818",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0819",8,1,0.1,"M","Sodium chloride",10
+"C0819",8,2,0.1,"M","CAPS",10
+"C0819",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0820",8,1,0.1,"M","Sodium molybdate dihydrate",7.5
+"C0820",8,2,0.1,"M","HEPES",7.5
+"C0820",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0821",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0821",8,2,0.1,"M","Tris",8
+"C0821",8,3,20,"% (w/v)","polyethylene glycol 1000",8
+"C0822",8,1,0.1,"M","Sodium nitrate",4.2
+"C0822",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0822",8,3,40,"% (w/v)","polyethylene glycol 1000",4.2
+"C0823",8,1,0.1,"M","Sodium nitrate",10
+"C0823",8,2,0.1,"M","CAPS",10
+"C0823",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0824",8,1,0.1,"M","Sodium phosphate monobasic",6
+"C0824",8,2,0.1,"M","MES monohydrate",6
+"C0824",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0825",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0825",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0825",8,3,40,"% (w/v)","polyethylene glycol 1000",5
+"C0826",8,1,0.1,"M","Zinc acetate dihydrate",8
+"C0826",8,2,0.1,"M","Tris",8
+"C0826",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0827",8,1,0.2,"M","Magnesium acetate tetrahydrate",6.5
+"C0827",8,2,30,"% (v/v)","MPD",6.5
+"C0827",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C0828",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",7
+"C0828",8,2,0.1,"M","Bis-Tris Propane",7
+"C0828",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0829",8,1,0.1,"M","Lithium sulfate monohydrate",8
+"C0829",8,2,0.1,"M","Tris",8
+"C0829",8,3,40,"% (w/v)","polyethylene glycol 1000",8
+"C0830",8,1,0.1,"M","Lithium sulfate monohydrate",6
+"C0830",8,2,0.1,"M","MES monohydrate",6
+"C0830",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0831",8,1,0.1,"M","Lithium sulfate monohydrate",10
+"C0831",8,2,0.1,"M","CAPS",10
+"C0831",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0832",8,1,0.1,"M","Potassium phosphate tribasic",7.5
+"C0832",8,2,0.1,"M","HEPES",7.5
+"C0832",8,3,40,"% (w/v)","polyethylene glycol 1000",7.5
+"C0833",8,1,0.1,"M","Potassium phosphate tribasic",6
+"C0833",8,2,0.1,"M","MES monohydrate",6
+"C0833",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0834",8,1,0.1,"M","Ammonium thiocyanate",9
+"C0834",8,2,0.1,"M","TAPS",9
+"C0834",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0835",8,1,0.1,"M","Ammonium thiocyanate",10
+"C0835",8,2,0.1,"M","CAPS",10
+"C0835",8,3,40,"% (w/v)","polyethylene glycol 1000",10
+"C0836",8,1,0.1,"M","Ammonium thiocyanate",7
+"C0836",8,2,0.1,"M","Bis-Tris Propane",7
+"C0836",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0837",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0837",8,2,0.1,"M","MES monohydrate",6
+"C0837",8,3,40,"% (w/v)","polyethylene glycol 1000",6
+"C0838",8,1,0.1,"M","Manganese sulfate monohydrate",7
+"C0838",8,2,0.1,"M","Bis-Tris Propane",7
+"C0838",8,3,40,"% (w/v)","polyethylene glycol 1000",7
+"C0839",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0839",8,2,0.1,"M","TAPS",9
+"C0839",8,3,40,"% (w/v)","polyethylene glycol 1000",9
+"C0840",8,1,0.1,"M","Ammonium bromide",8
+"C0840",8,2,0.1,"M","Tris",8
+"C0840",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0841",8,1,0.1,"M","Ammonium bromide",4.2
+"C0841",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0841",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0842",8,1,0.1,"M","Ammonium chloride",6
+"C0842",8,2,0.1,"M","MES monohydrate",6
+"C0842",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0843",8,1,0.1,"M","Ammonium chloride",10
+"C0843",8,2,0.1,"M","CAPS",10
+"C0843",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0844",8,1,0.1,"M","Ammonium nitrate",7
+"C0844",8,2,0.1,"M","Bis-Tris Propane",7
+"C0844",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0845",8,1,0.1,"M","Ammonium nitrate",5
+"C0845",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0845",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0846",8,1,0.1,"M","Ammonium phosphate monobasic",5
+"C0846",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0846",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0847",8,1,0.1,"M","Ammonium phosphate monobasic",7.5
+"C0847",8,2,0.1,"M","HEPES",7.5
+"C0847",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0848",8,1,0.1,"M","Ammonium phosphate dibasic",8
+"C0848",8,2,0.1,"M","Tris",8
+"C0848",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0849",8,1,0.1,"M","Ammonium sulfate",7
+"C0849",8,2,0.1,"M","Bis-Tris Propane",7
+"C0849",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0850",8,1,0.1,"M","Ammonium sulfate",7.5
+"C0850",8,2,0.1,"M","HEPES",7.5
+"C0850",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0851",8,1,0.1,"M","Calcium acetate",5
+"C0851",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0851",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0852",8,1,0.1,"M","Calcium acetate",7.5
+"C0852",8,2,0.1,"M","HEPES",7.5
+"C0852",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0853",8,1,0.1,"M","Calcium acetate",6
+"C0853",8,2,0.1,"M","MES monohydrate",6
+"C0853",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0854",8,1,0.1,"M","Calcium chloride dihydrate",7.5
+"C0854",8,2,0.1,"M","HEPES",7.5
+"C0854",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0855",8,1,0.17,"M","Sodium acetate trihydrate",8.5
+"C0855",8,2,0.09,"M","Tris HCl",8.5
+"C0855",8,3,25.5,"% (w/v)","polyethylene glycol 4000",8.5
+"C0855",8,4,15,"% (v/v)","Glycerol anhydrous",8.5
+"C0856",8,1,0.1,"M","Lithium bromide",6
+"C0856",8,2,0.1,"M","MES monohydrate",6
+"C0856",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0857",8,1,0.1,"M","Lithium bromide",4.2
+"C0857",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0857",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0858",8,1,0.1,"M","Lithium bromide",8
+"C0858",8,2,0.1,"M","Tris",8
+"C0858",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0859",8,1,0.1,"M","Lithium bromide",9
+"C0859",8,2,0.1,"M","TAPS",9
+"C0859",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0860",8,1,0.1,"M","Lithium chloride",7
+"C0860",8,2,0.1,"M","Bis-Tris Propane",7
+"C0860",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0861",8,1,0.1,"M","Magnesium acetate tetrahydrate",5
+"C0861",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0861",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0862",8,1,0.1,"M","Magnesium chloride hexahydrate",6
+"C0862",8,2,0.1,"M","MES monohydrate",6
+"C0862",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0863",8,1,0.1,"M","Magnesium sulfate heptahydrate",6
+"C0863",8,2,0.1,"M","MES monohydrate",6
+"C0863",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0864",8,1,0.1,"M","Magnesium sulfate heptahydrate",7
+"C0864",8,2,0.1,"M","Bis-Tris Propane",7
+"C0864",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0865",8,1,0.1,"M","Potassium acetate",10
+"C0865",8,2,0.1,"M","CAPS",10
+"C0865",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0866",8,1,0.1,"M","Potassium bromide",7
+"C0866",8,2,0.1,"M","Bis-Tris Propane",7
+"C0866",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0867",8,1,0.1,"M","Potassium bromide",7.5
+"C0867",8,2,0.1,"M","HEPES",7.5
+"C0867",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0868",8,1,0.1,"M","Potassium bromide",6
+"C0868",8,2,0.1,"M","MES monohydrate",6
+"C0868",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0869",8,1,0.1,"M","Potassium bromide",4.2
+"C0869",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0869",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0870",8,1,0.1,"M","Potassium carbonate",9
+"C0870",8,2,0.1,"M","TAPS",9
+"C0870",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0871",8,1,0.1,"M","Potassium carbonate",5
+"C0871",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0871",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0872",8,1,0.1,"M","Potassium carbonate",7
+"C0872",8,2,0.1,"M","Bis-Tris Propane",7
+"C0872",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0873",8,1,0.1,"M","Potassium chloride",4.2
+"C0873",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0873",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0874",8,1,0.1,"M","Potassium chloride",6
+"C0874",8,2,0.1,"M","MES monohydrate",6
+"C0874",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0875",8,1,0.1,"M","Potassium nitrate",7.5
+"C0875",8,2,0.1,"M","HEPES",7.5
+"C0875",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0876",8,1,0.1,"M","Potassium nitrate",9
+"C0876",8,2,0.1,"M","TAPS",9
+"C0876",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0877",8,1,0.1,"M","Potassium nitrate",6
+"C0877",8,2,0.1,"M","MES monohydrate",6
+"C0877",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0878",8,1,0.1,"M","Potassium phosphate monobasic",7
+"C0878",8,2,0.1,"M","Bis-Tris Propane",7
+"C0878",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0879",8,1,0.1,"M","Potassium phosphate monobasic",10
+"C0879",8,2,0.1,"M","CAPS",10
+"C0879",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0880",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C0880",8,2,30,"% (v/v)","MPD",5.6
+"C0880",8,3,0.2,"M","Ammonium acetate",5.6
+"C0881",8,1,0.1,"M","Potassium phosphate monobasic",9
+"C0881",8,2,0.1,"M","TAPS",9
+"C0881",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0882",8,1,0.1,"M","Potassium thiocyanate",10
+"C0882",8,2,0.1,"M","CAPS",10
+"C0882",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0883",8,1,0.1,"M","Potassium thiocyanate",4.2
+"C0883",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0883",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0884",8,1,0.1,"M","Potassium thiocyanate",9
+"C0884",8,2,0.1,"M","TAPS",9
+"C0884",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0885",8,1,0.1,"M","Rubidium chloride",4.2
+"C0885",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0885",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0886",8,1,0.1,"M","Rubidium chloride",7
+"C0886",8,2,0.1,"M","Bis-Tris Propane",7
+"C0886",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0887",8,1,0.1,"M","Rubidium chloride",5
+"C0887",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0887",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0888",8,1,0.1,"M","Sodium bromide",8
+"C0888",8,2,0.1,"M","Tris",8
+"C0888",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0889",8,1,0.1,"M","Sodium bromide",7
+"C0889",8,2,0.1,"M","Bis-Tris Propane",7
+"C0889",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0890",8,1,0.1,"M","Sodium chloride",7.5
+"C0890",8,2,0.1,"M","HEPES",7.5
+"C0890",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0891",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0891",8,2,0.1,"M","Tris",8
+"C0891",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0892",8,1,0.1,"M","Sodium nitrate",6
+"C0892",8,2,0.1,"M","MES monohydrate",6
+"C0892",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0893",8,1,0.1,"M","Sodium nitrate",8
+"C0893",8,2,0.1,"M","Tris",8
+"C0893",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0894",8,1,0.1,"M","Sodium phosphate monobasic",5
+"C0894",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0894",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0895",8,1,0.1,"M","Sodium phosphate monobasic",6
+"C0895",8,2,0.1,"M","MES monohydrate",6
+"C0895",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0896",8,1,0.1,"M","Sodium phosphate monobasic",8
+"C0896",8,2,0.1,"M","Tris",8
+"C0896",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0897",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0897",8,2,0.1,"M","Tris",8
+"C0897",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0898",8,1,0.1,"M","Sodium thiosulfate pentahydrate",9
+"C0898",8,2,0.1,"M","TAPS",9
+"C0898",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0899",8,1,0.1,"M","Sodium thiosulfate pentahydrate",10
+"C0899",8,2,0.1,"M","CAPS",10
+"C0899",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0900",8,1,0.1,"M","Zinc acetate dihydrate",8
+"C0900",8,2,0.1,"M","Tris",8
+"C0900",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0901",8,1,0.1,"M","Zinc acetate dihydrate",6
+"C0901",8,2,0.1,"M","MES monohydrate",6
+"C0901",8,3,40,"% (v/v)","polyethylene glycol 400",6
+"C0902",8,1,0.1,"M","Zinc acetate dihydrate",5
+"C0902",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0902",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0903",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",5
+"C0903",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0903",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0904",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",10
+"C0904",8,2,0.1,"M","CAPS",10
+"C0904",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0905",8,1,0.1,"M","Lithium sulfate monohydrate",7.5
+"C0905",8,2,0.1,"M","HEPES",7.5
+"C0905",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0906",8,1,0.1,"M","Lithium sulfate monohydrate",10
+"C0906",8,2,0.1,"M","CAPS",10
+"C0906",8,3,40,"% (v/v)","polyethylene glycol 400",10
+"C0907",8,1,0.1,"M","Potassium phosphate tribasic",5
+"C0907",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0907",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0908",8,1,0.1,"M","Potassium phosphate tribasic",7
+"C0908",8,2,0.1,"M","Bis-Tris Propane",7
+"C0908",8,3,40,"% (v/v)","polyethylene glycol 400",7
+"C0909",8,1,0.1,"M","Ammonium thiocyanate",9
+"C0909",8,2,0.1,"M","TAPS",9
+"C0909",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0910",8,1,0.1,"M","Ammonium thiocyanate",7.5
+"C0910",8,2,0.1,"M","HEPES",7.5
+"C0910",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0911",8,1,0.1,"M","Ammonium thiocyanate",8
+"C0911",8,2,0.1,"M","Tris",8
+"C0911",8,3,40,"% (v/v)","polyethylene glycol 400",8
+"C0912",8,1,0.1,"M","Ammonium thiocyanate",4.2
+"C0912",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0912",8,3,40,"% (v/v)","polyethylene glycol 400",4.2
+"C0913",8,1,0.1,"M","Magnesium nitrate hexahydrate",7.5
+"C0913",8,2,0.1,"M","HEPES",7.5
+"C0913",8,3,40,"% (v/v)","polyethylene glycol 400",7.5
+"C0914",8,1,0.1,"M","Magnesium nitrate hexahydrate",9
+"C0914",8,2,0.1,"M","TAPS",9
+"C0914",8,3,40,"% (v/v)","polyethylene glycol 400",9
+"C0915",8,1,0.1,"M","Ammonium bromide",5
+"C0915",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0915",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0916",8,1,0.1,"M","Ammonium bromide",7
+"C0916",8,2,0.1,"M","Bis-Tris Propane",7
+"C0916",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0917",8,1,0.1,"M","Ammonium chloride",5
+"C0917",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0917",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0918",8,1,0.1,"M","Ammonium chloride",8
+"C0918",8,2,0.1,"M","Tris",8
+"C0918",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0919",8,1,0.1,"M","Ammonium nitrate",7.5
+"C0919",8,2,0.1,"M","HEPES",7.5
+"C0919",8,3,60,"% (v/v)","polyethylene glycol 400",7.5
+"C0920",8,1,0.1,"M","Ammonium phosphate monobasic",8
+"C0920",8,2,0.1,"M","Tris",8
+"C0920",8,3,20,"% (v/v)","polyethylene glycol 400",8
+"C0921",8,1,0.1,"M","Ammonium phosphate monobasic",9
+"C0921",8,2,0.1,"M","TAPS",9
+"C0921",8,3,20,"% (v/v)","polyethylene glycol 400",9
+"C0922",8,1,0.1,"M","Ammonium phosphate dibasic",5
+"C0922",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0922",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0923",8,1,0.1,"M","Ammonium phosphate dibasic",7
+"C0923",8,2,0.1,"M","Bis-Tris Propane",7
+"C0923",8,3,20,"% (v/v)","polyethylene glycol 400",7
+"C0924",8,1,0.1,"M","Ammonium phosphate dibasic",4.2
+"C0924",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0924",8,3,20,"% (v/v)","polyethylene glycol 400",4.2
+"C0925",8,1,0.1,"M","Ammonium phosphate dibasic",8
+"C0925",8,2,0.1,"M","Tris",8
+"C0925",8,3,20,"% (v/v)","polyethylene glycol 400",8
+"C0926",8,1,0.1,"M","Ammonium sulfate",9
+"C0926",8,2,0.1,"M","TAPS",9
+"C0926",8,3,20,"% (v/v)","polyethylene glycol 400",9
+"C0927",8,1,0.1,"M","Calcium acetate",5
+"C0927",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0927",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0928",8,1,0.2,"M","Magnesium chloride hexahydrate",7.5
+"C0928",8,2,30,"% (v/v)","polyethylene glycol 400",7.5
+"C0928",8,3,0.1,"M","HEPES-Na",7.5
+"C0929",8,1,0.1,"M","Calcium chloride dihydrate",7.5
+"C0929",8,2,0.1,"M","HEPES",7.5
+"C0929",8,3,80,"% (v/v)","polyethylene glycol 400",7.5
+"C0930",8,1,0.1,"M","Lithium bromide",8
+"C0930",8,2,0.1,"M","Tris",8
+"C0930",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0931",8,1,0.1,"M","Lithium bromide",10
+"C0931",8,2,0.1,"M","CAPS",10
+"C0931",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0932",8,1,0.1,"M","Lithium chloride",7
+"C0932",8,2,0.1,"M","Bis-Tris Propane",7
+"C0932",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0933",8,1,0.1,"M","Magnesium acetate tetrahydrate",7
+"C0933",8,2,0.1,"M","Bis-Tris Propane",7
+"C0933",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0934",8,1,0.1,"M","Magnesium chloride hexahydrate",8
+"C0934",8,2,0.1,"M","Tris",8
+"C0934",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0935",8,1,0.1,"M","Magnesium chloride hexahydrate",7
+"C0935",8,2,0.1,"M","Bis-Tris Propane",7
+"C0935",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0936",8,1,0.1,"M","Magnesium sulfate heptahydrate",5
+"C0936",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0936",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0937",8,1,0.1,"M","Magnesium sulfate heptahydrate",7.5
+"C0937",8,2,0.1,"M","HEPES",7.5
+"C0937",8,3,20,"% (v/v)","polyethylene glycol 400",7.5
+"C0938",8,1,0.1,"M","Manganese chloride tetrahydrate",7
+"C0938",8,2,0.1,"M","Bis-Tris Propane",7
+"C0938",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0939",8,1,0.1,"M","Potassium acetate",9
+"C0939",8,2,0.1,"M","TAPS",9
+"C0939",8,3,80,"% (v/v)","polyethylene glycol 400",9
+"C0940",8,1,0.14,"M","Sodium citrate tribasic dihydrate",7.5
+"C0940",8,2,30,"% (v/v)","Glycerol anhydrous",7.5
+"C0940",8,3,0.07,"M","HEPES-Na",7.5
+"C0940",8,4,14,"% (v/v)","Iso-propanol",7.5
+"C0941",8,1,0.1,"M","Potassium acetate",5
+"C0941",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0941",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0942",8,1,0.1,"M","Potassium acetate",10
+"C0942",8,2,0.1,"M","CAPS",10
+"C0942",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0943",8,1,0.1,"M","Potassium acetate",6
+"C0943",8,2,0.1,"M","MES monohydrate",6
+"C0943",8,3,80,"% (v/v)","polyethylene glycol 400",6
+"C0944",8,1,0.1,"M","Potassium acetate",7
+"C0944",8,2,0.1,"M","Bis-Tris Propane",7
+"C0944",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0945",8,1,0.1,"M","Potassium bromide",9
+"C0945",8,2,0.1,"M","TAPS",9
+"C0945",8,3,80,"% (v/v)","polyethylene glycol 400",9
+"C0946",8,1,0.1,"M","Potassium carbonate",7
+"C0946",8,2,0.1,"M","Bis-Tris Propane",7
+"C0946",8,3,60,"% (v/v)","polyethylene glycol 400",7
+"C0947",8,1,0.1,"M","Potassium chloride",8
+"C0947",8,2,0.1,"M","Tris",8
+"C0947",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0948",8,1,0.1,"M","Potassium chloride",7
+"C0948",8,2,0.1,"M","Bis-Tris Propane",7
+"C0948",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0949",8,1,0.1,"M","Potassium nitrate",10
+"C0949",8,2,0.1,"M","CAPS",10
+"C0949",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0950",8,1,0.1,"M","Potassium nitrate",7
+"C0950",8,2,0.1,"M","Bis-Tris Propane",7
+"C0950",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0951",8,1,0.1,"M","Potassium phosphate monobasic",5
+"C0951",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0951",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0952",8,1,0.1,"M","Potassium thiocyanate",7.5
+"C0952",8,2,0.1,"M","HEPES",7.5
+"C0952",8,3,80,"% (v/v)","polyethylene glycol 400",7.5
+"C0953",8,1,0.1,"M","Potassium thiocyanate",10
+"C0953",8,2,0.1,"M","CAPS",10
+"C0953",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0954",8,1,0.1,"M","Rubidium chloride",7.5
+"C0954",8,2,0.1,"M","HEPES",7.5
+"C0954",8,3,80,"% (v/v)","polyethylene glycol 400",7.5
+"C0955",8,1,0.1,"M","Sodium bromide",5
+"C0955",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0955",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0956",8,1,0.1,"M","Sodium bromide",7.5
+"C0956",8,2,0.1,"M","HEPES",7.5
+"C0956",8,3,80,"% (v/v)","polyethylene glycol 400",7.5
+"C0957",8,1,0.1,"M","Sodium chloride",5
+"C0957",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0957",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0958",8,1,0.1,"M","Sodium chloride",9
+"C0958",8,2,0.1,"M","TAPS",9
+"C0958",8,3,80,"% (v/v)","polyethylene glycol 400",9
+"C0959",8,1,0.1,"M","Sodium chloride",4.2
+"C0959",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0959",8,3,60,"% (v/v)","polyethylene glycol 400",4.2
+"C0960",8,1,0.1,"M","Sodium molybdate dihydrate",8
+"C0960",8,2,0.1,"M","Tris",8
+"C0960",8,3,60,"% (v/v)","polyethylene glycol 400",8
+"C0961",8,1,0.1,"M","Sodium molybdate dihydrate",9
+"C0961",8,2,0.1,"M","TAPS",9
+"C0961",8,3,60,"% (v/v)","polyethylene glycol 400",9
+"C0962",8,1,0.1,"M","Sodium nitrate",10
+"C0962",8,2,0.1,"M","CAPS",10
+"C0962",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0963",8,1,0.1,"M","Sodium nitrate",5
+"C0963",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0963",8,3,80,"% (v/v)","polyethylene glycol 400",5
+"C0964",8,1,0.1,"M","Sodium nitrate",7
+"C0964",8,2,0.1,"M","Bis-Tris Propane",7
+"C0964",8,3,80,"% (v/v)","polyethylene glycol 400",7
+"C0965",8,1,0.1,"M","Sodium phosphate monobasic",10
+"C0965",8,2,0.1,"M","CAPS",10
+"C0965",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0966",8,1,0.14,"M","Calcium chloride dihydrate",4.6
+"C0966",8,2,0.07,"M","Sodium acetate trihydrate",4.6
+"C0966",8,3,30,"% (v/v)","Glycerol anhydrous",4.6
+"C0966",8,4,14,"% (v/v)","Iso-propanol",4.6
+"C0967",8,1,0.1,"M","Sodium thiosulfate pentahydrate",8
+"C0967",8,2,0.1,"M","Tris",8
+"C0967",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0968",8,1,0.17,"M","Sodium acetate trihydrate",6.5
+"C0968",8,2,25.5,"% (w/v)","polyethylene glycol 8000",6.5
+"C0968",8,3,15,"% (v/v)","Glycerol anhydrous",6.5
+"C0968",8,4,0.09,"M","Sodium cacodylate trihydrate",6.5
+"C0969",8,1,0.1,"M","Zinc acetate dihydrate",8
+"C0969",8,2,0.1,"M","Tris",8
+"C0969",8,3,80,"% (v/v)","polyethylene glycol 400",8
+"C0970",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",6
+"C0970",8,2,0.1,"M","MES monohydrate",6
+"C0970",8,3,20,"% (v/v)","polyethylene glycol 400",6
+"C0971",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",5
+"C0971",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0971",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0972",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",5
+"C0972",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0972",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0973",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",5
+"C0973",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0973",8,3,40,"% (v/v)","polyethylene glycol 400",5
+"C0974",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",8
+"C0974",8,2,0.1,"M","Tris",8
+"C0974",8,3,20,"% (v/v)","polyethylene glycol 400",8
+"C0975",8,1,0.1,"M","Cobalt (II) sulfate heptahydrate",4.2
+"C0975",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0975",8,3,20,"% (v/v)","polyethylene glycol 400",4.2
+"C0976",8,1,0.1,"M","Lithium sulfate monohydrate",8
+"C0976",8,2,0.1,"M","Tris",8
+"C0976",8,3,60,"% (v/v)","polyethylene glycol 400",8
+"C0977",8,1,0.1,"M","Potassium phosphate tribasic",4.2
+"C0977",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0977",8,3,20,"% (v/v)","polyethylene glycol 400",4.2
+"C0978",8,1,0.1,"M","Potassium phosphate tribasic",8
+"C0978",8,2,0.1,"M","Tris",8
+"C0978",8,3,20,"% (v/v)","polyethylene glycol 400",8
+"C0979",8,1,0.1,"M","Potassium phosphate tribasic",10
+"C0979",8,2,0.1,"M","CAPS",10
+"C0979",8,3,20,"% (v/v)","polyethylene glycol 400",10
+"C0980",8,1,0.1,"M","Manganese sulfate monohydrate",4.2
+"C0980",8,2,0.1,"M","Sodium citrate tribasic dihydrate",4.2
+"C0980",8,3,20,"% (v/v)","polyethylene glycol 400",4.2
+"C0981",8,1,0.1,"M","Manganese sulfate monohydrate",6
+"C0981",8,2,0.1,"M","MES monohydrate",6
+"C0981",8,3,20,"% (v/v)","polyethylene glycol 400",6
+"C0982",8,1,0.1,"M","Manganese sulfate monohydrate",5
+"C0982",8,2,0.1,"M","Sodium acetate trihydrate",5
+"C0982",8,3,20,"% (v/v)","polyethylene glycol 400",5
+"C0983",8,1,0.1,"M","Magnesium nitrate hexahydrate",6
+"C0983",8,2,0.1,"M","MES monohydrate",6
+"C0983",8,3,60,"% (v/v)","polyethylene glycol 400",6
+"C0984",8,1,0.1,"M","Magnesium nitrate hexahydrate",7.5
+"C0984",8,2,0.1,"M","HEPES",7.5
+"C0984",8,3,80,"% (v/v)","polyethylene glycol 400",7.5
+"C0985",8,1,0.1,"M","Sodium Malonate",4
+"C0985",8,2,12,"% (w/v)","polyethylene glycol 3350",4
+"C0986",8,1,0.2,"M","Sodium Malonate",4
+"C0986",8,2,20,"% (w/v)","polyethylene glycol 3350",4
+"C0987",8,1,0.1,"M","Sodium Malonate",5
+"C0987",8,2,12,"% (w/v)","polyethylene glycol 3350",5
+"C0988",8,1,0.2,"M","Sodium Malonate",5
+"C0988",8,2,20,"% (w/v)","polyethylene glycol 3350",5
+"C0989",8,1,0.1,"M","Sodium Malonate",6
+"C0989",8,2,12,"% (w/v)","polyethylene glycol 3350",6
+"C0990",8,1,0.2,"M","Sodium Malonate",6
+"C0990",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C0991",8,1,0.1,"M","Sodium Malonate",7
+"C0991",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C0992",8,1,0.2,"M","Sodium Malonate",7
+"C0992",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C0993",8,1,12,"% (w/v)","polyethylene glycol 3350",4
+"C0993",8,2,4,"% (v/v)","Tacsimate",4
+"C0994",8,1,20,"% (w/v)","polyethylene glycol 3350",4
+"C0994",8,2,8,"% (v/v)","Tacsimate",4
+"C0995",8,1,12,"% (w/v)","polyethylene glycol 3350",5
+"C0995",8,2,4,"% (v/v)","Tacsimate",5
+"C0996",8,1,20,"% (w/v)","polyethylene glycol 3350",5
+"C0996",8,2,8,"% (v/v)","Tacsimate",5
+"C0997",8,1,12,"% (w/v)","polyethylene glycol 3350",6
+"C0997",8,2,4,"% (v/v)","Tacsimate",6
+"C0998",8,1,20,"% (w/v)","polyethylene glycol 3350",6
+"C0998",8,2,8,"% (v/v)","Tacsimate",6
+"C0999",8,1,12,"% (w/v)","polyethylene glycol 3350",7
+"C0999",8,2,4,"% (v/v)","Tacsimate",7
+"C1000",8,1,20,"% (w/v)","polyethylene glycol 3350",7
+"C1000",8,2,8,"% (v/v)","Tacsimate",7
+"C1001",8,1,12,"% (w/v)","polyethylene glycol 3350",8
+"C1001",8,2,4,"% (v/v)","Tacsimate",8
+"C1002",8,1,20,"% (w/v)","polyethylene glycol 3350",8
+"C1002",8,2,8,"% (v/v)","Tacsimate",8
+"C1003",8,1,0.1,"M","Succinic Acid",7
+"C1003",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1004",8,1,0.2,"M","Succinic Acid",7
+"C1004",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1005",8,1,0.1,"M","tri-Ammonium Citrate",7
+"C1005",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1006",8,1,0.2,"M","tri-Ammonium Citrate",7
+"C1006",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1007",8,1,0.1,"M","DL-Malic acid",7
+"C1007",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1008",8,1,0.2,"M","DL-Malic acid",7
+"C1008",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1009",8,1,0.1,"M","Sodium acetate trihydrate",7
+"C1009",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1010",8,1,0.2,"M","Sodium acetate trihydrate",7
+"C1010",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1011",8,1,0.1,"M","Sodium formate",7
+"C1011",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1012",8,1,0.2,"M","Sodium formate",7
+"C1012",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1013",8,1,0.1,"M","di-Ammonium Tartrate",7
+"C1013",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1014",8,1,0.2,"M","di-Ammonium Tartrate",7
+"C1014",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1015",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1015",8,2,16,"% (w/v)","polyethylene glycol 3350",4
+"C1015",8,3,2,"% (v/v)","Tacsimate",4
+"C1016",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1016",8,2,16,"% (w/v)","polyethylene glycol 3350",5
+"C1016",8,3,2,"% (v/v)","Tacsimate",5
+"C1017",8,1,0.1,"M","Bis-Tris",6.5
+"C1017",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C1017",8,3,2,"% (v/v)","Tacsimate",6
+"C1018",8,1,0.1,"M","HEPES",7.5
+"C1018",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1018",8,3,2,"% (v/v)","Tacsimate",7
+"C1019",8,1,0.1,"M","Tris",8.5
+"C1019",8,2,16,"% (w/v)","polyethylene glycol 3350",8
+"C1019",8,3,2,"% (v/v)","Tacsimate",8
+"C1020",8,1,0.07,"M","Citric acid",3.4
+"C1020",8,2,0.03,"M","Bis-Tris Propane",3.4
+"C1020",8,3,16,"% (w/v)","polyethylene glycol 3350",3.4
+"C1021",8,1,0.06,"M","Citric acid",4.1
+"C1021",8,2,0.04,"M","Bis-Tris Propane",4.1
+"C1021",8,3,16,"% (w/v)","polyethylene glycol 3350",4.1
+"C1022",8,1,0.05,"M","Citric acid",5
+"C1022",8,2,0.05,"M","Bis-Tris Propane",5
+"C1022",8,3,16,"% (w/v)","polyethylene glycol 3350",5
+"C1023",8,1,0.04,"M","Citric acid",6.4
+"C1023",8,2,0.06,"M","Bis-Tris Propane",6.4
+"C1023",8,3,20,"% (w/v)","polyethylene glycol 3350",6.4
+"C1024",8,1,0.03,"M","Citric acid",7.6
+"C1024",8,2,0.07,"M","Bis-Tris Propane",7.6
+"C1024",8,3,20,"% (w/v)","polyethylene glycol 3350",7.6
+"C1025",8,1,0.02,"M","Citric acid",8.8
+"C1025",8,2,0.08,"M","Bis-Tris Propane",8.8
+"C1025",8,3,16,"% (w/v)","polyethylene glycol 3350",8.8
+"C1026",8,1,0.02,"M","Calcium chloride dihydrate","NA"
+"C1026",8,2,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1026",8,3,0.02,"M","Cobalt(II) chloride hexahydrate","NA"
+"C1026",8,4,0.02,"M","Cadmium chloride dihydrate","NA"
+"C1027",8,1,0.02,"M","Magnesium chloride hexahydrate",7
+"C1027",8,2,0.1,"M","HEPES-Na",7
+"C1027",8,3,20,"% (w/v)","polyethylene glycol 3350",7
+"C1027",8,4,0.02,"M","Nickel(II) chloride hexahydrate",7
+"C1028",8,1,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1028",8,2,0.02,"M","Zinc chloride","NA"
+"C1029",8,1,15,"% (w/v)","polyethylene glycol 3350","NA"
+"C1029",8,2,0.15,"M","Cesium chloride","NA"
+"C1030",8,1,0.2,"M","Sodium bromide","NA"
+"C1030",8,2,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1031",8,1,0.05,"M","HEPES-Na",7
+"C1031",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1031",8,3,1,"% (w/v)","Tryptone",7
+"C1032",8,1,0.05,"M","HEPES-Na",7
+"C1032",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1032",8,3,1,"% (w/v)","Tryptone",7
+"C1033",8,1,0.02,"M","Potassium phosphate dibasic anhydrous",5
+"C1033",8,2,0.78,"M","Sodium phosphate monobasic monohydrate",5
+"C1034",8,1,0.08,"M","Potassium phosphate dibasic anhydrous",5.6
+"C1034",8,2,0.72,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1035",8,1,0.28,"M","Potassium phosphate dibasic anhydrous",6.3
+"C1035",8,2,0.52,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1036",8,1,0.52,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1036",8,2,0.28,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1037",8,1,0.68,"M","Potassium phosphate dibasic anhydrous",7.5
+"C1037",8,2,0.12,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1038",8,1,0.77,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1038",8,2,0.03,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1039",8,1,0.02,"M","Potassium phosphate dibasic anhydrous",5
+"C1039",8,2,0.98,"M","Sodium phosphate monobasic monohydrate",5
+"C1040",8,1,0.1,"M","Potassium phosphate dibasic anhydrous",5.6
+"C1040",8,2,0.9,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1041",8,1,0.35,"M","Potassium phosphate dibasic anhydrous",6.3
+"C1041",8,2,0.65,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1042",8,1,0.65,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1042",8,2,0.35,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1043",8,1,0.85,"M","Potassium phosphate dibasic anhydrous",7.5
+"C1043",8,2,0.15,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1044",8,1,0.96,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1044",8,2,0.04,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1045",8,1,0.03,"M","Potassium phosphate dibasic anhydrous",5
+"C1045",8,2,1.37,"M","Sodium phosphate monobasic monohydrate",5
+"C1046",8,1,0.14,"M","Potassium phosphate dibasic anhydrous",5.6
+"C1046",8,2,1.26,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1047",8,1,0.49,"M","Potassium phosphate dibasic anhydrous",6.3
+"C1047",8,2,0.91,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1048",8,1,0.91,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1048",8,2,0.49,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1049",8,1,1.19,"M","Potassium phosphate dibasic anhydrous",7.5
+"C1049",8,2,0.21,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1050",8,1,1.34,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1050",8,2,0.06,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1051",8,1,0.04,"M","Potassium phosphate dibasic anhydrous",5
+"C1051",8,2,1.76,"M","Sodium phosphate monobasic monohydrate",5
+"C1052",8,1,0.18,"M","Potassium phosphate dibasic anhydrous",5.6
+"C1052",8,2,1.62,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1053",8,1,0.63,"M","Potassium phosphate dibasic anhydrous",6.3
+"C1053",8,2,1.17,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1054",8,1,1.17,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1054",8,2,0.63,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1055",8,1,1.53,"M","Potassium phosphate dibasic anhydrous",7.5
+"C1055",8,2,0.27,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1056",8,1,1.73,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1056",8,2,0.07,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1057",8,1,0.8,"M","Ammonium sulfate",4
+"C1057",8,2,0.1,"M","Citric acid",4
+"C1058",8,1,0.8,"M","Ammonium sulfate",5
+"C1058",8,2,0.1,"M","Citric acid",5
+"C1059",8,1,0.8,"M","Ammonium sulfate",6
+"C1059",8,2,0.1,"M","MES monohydrate",6
+"C1060",8,1,0.8,"M","Ammonium sulfate",7
+"C1060",8,2,0.1,"M","HEPES",7
+"C1061",8,1,0.8,"M","Ammonium sulfate",8
+"C1061",8,2,0.1,"M","Tris",8
+"C1062",8,1,0.8,"M","Ammonium sulfate",9
+"C1062",8,2,0.1,"M","Bicine",9
+"C1063",8,1,1.6,"M","Ammonium sulfate",4
+"C1063",8,2,0.1,"M","Citric acid",4
+"C1064",8,1,1.6,"M","Ammonium sulfate",5
+"C1064",8,2,0.1,"M","Citric acid",5
+"C1065",8,1,1.6,"M","Ammonium sulfate",6
+"C1065",8,2,0.1,"M","MES monohydrate",6
+"C1066",8,1,1.6,"M","Ammonium sulfate",7
+"C1066",8,2,0.1,"M","HEPES",7
+"C1067",8,1,1.6,"M","Ammonium sulfate",8
+"C1067",8,2,0.1,"M","Tris",8
+"C1068",8,1,1.6,"M","Ammonium sulfate",9
+"C1068",8,2,0.1,"M","Bicine",9
+"C1069",8,1,2.4,"M","Ammonium sulfate",4
+"C1069",8,2,0.1,"M","Citric acid",4
+"C1070",8,1,2.4,"M","Ammonium sulfate",5
+"C1070",8,2,0.1,"M","Citric acid",5
+"C1071",8,1,2.4,"M","Ammonium sulfate",6
+"C1071",8,2,0.1,"M","MES monohydrate",6
+"C1072",8,1,2.4,"M","Ammonium sulfate",7
+"C1072",8,2,0.1,"M","HEPES",7
+"C1073",8,1,2.4,"M","Ammonium sulfate",8
+"C1073",8,2,0.1,"M","Tris",8
+"C1074",8,1,2.4,"M","Ammonium sulfate",9
+"C1074",8,2,0.1,"M","Bicine",9
+"C1075",8,1,3.2,"M","Ammonium sulfate",4
+"C1075",8,2,0.1,"M","Citric acid",4
+"C1076",8,1,3.2,"M","Ammonium sulfate",5
+"C1076",8,2,0.1,"M","Citric acid",5
+"C1077",8,1,3.2,"M","Ammonium sulfate",6
+"C1077",8,2,0.1,"M","MES monohydrate",6
+"C1078",8,1,3.2,"M","Ammonium sulfate",7
+"C1078",8,2,0.1,"M","HEPES",7
+"C1079",8,1,3.2,"M","Ammonium sulfate",8
+"C1079",8,2,0.1,"M","Tris",8
+"C1080",8,1,3.2,"M","Ammonium sulfate",9
+"C1080",8,2,0.1,"M","Bicine",9
+"C1081",8,1,1,"M","Sodium Malonate",4
+"C1082",8,1,1.5,"M","Sodium Malonate",4
+"C1083",8,1,1.9,"M","Sodium Malonate",4
+"C1084",8,1,2.4,"M","Sodium Malonate",4
+"C1085",8,1,2.9,"M","Sodium Malonate",4
+"C1086",8,1,3.4,"M","Sodium Malonate",4
+"C1087",8,1,1,"M","Sodium Malonate",5
+"C1088",8,1,1.5,"M","Sodium Malonate",5
+"C1089",8,1,1.9,"M","Sodium Malonate",5
+"C1090",8,1,2.4,"M","Sodium Malonate",5
+"C1091",8,1,2.9,"M","Sodium Malonate",5
+"C1092",8,1,3.4,"M","Sodium Malonate",5
+"C1093",8,1,1,"M","Sodium Malonate",6
+"C1094",8,1,1.5,"M","Sodium Malonate",6
+"C1095",8,1,1.9,"M","Sodium Malonate",6
+"C1096",8,1,2.4,"M","Sodium Malonate",6
+"C1097",8,1,2.9,"M","Sodium Malonate",6
+"C1098",8,1,3.4,"M","Sodium Malonate",6
+"C1099",8,1,1,"M","Sodium Malonate",7
+"C1100",8,1,1.5,"M","Sodium Malonate",7
+"C1101",8,1,1.9,"M","Sodium Malonate",7
+"C1102",8,1,2.4,"M","Sodium Malonate",7
+"C1103",8,1,2.9,"M","Sodium Malonate",7
+"C1104",8,1,3.4,"M","Sodium Malonate",7
+"C1105",8,1,0.02,"M","Potassium phosphate dibasic trihydrate",5
+"C1105",8,2,0.78,"M","Sodium phosphate monobasic monohydrate",5
+"C1106",8,1,0.08,"M","Potassium phosphate dibasic trihydrate",5.6
+"C1106",8,2,0.72,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1107",8,1,0.28,"M","Potassium phosphate dibasic trihydrate",6.3
+"C1107",8,2,0.52,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1108",8,1,0.52,"M","Potassium phosphate dibasic trihydrate",6.9
+"C1108",8,2,0.28,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1109",8,1,0.68,"M","Potassium phosphate dibasic trihydrate",7.5
+"C1109",8,2,0.12,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1110",8,1,0.77,"M","Potassium phosphate dibasic trihydrate",8.2
+"C1110",8,2,0.03,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1111",8,1,0.02,"M","Potassium phosphate dibasic trihydrate",5
+"C1111",8,2,0.98,"M","Sodium phosphate monobasic monohydrate",5
+"C1112",8,1,0.1,"M","Potassium phosphate dibasic trihydrate",5.6
+"C1112",8,2,0.9,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1113",8,1,0.35,"M","Potassium phosphate dibasic trihydrate",6.3
+"C1113",8,2,0.65,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1114",8,1,0.65,"M","Potassium phosphate dibasic trihydrate",6.9
+"C1114",8,2,0.35,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1115",8,1,0.85,"M","Potassium phosphate dibasic trihydrate",7.5
+"C1115",8,2,0.15,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1116",8,1,0.96,"M","Potassium phosphate dibasic trihydrate",8.2
+"C1116",8,2,0.04,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1117",8,1,0.03,"M","Potassium phosphate dibasic trihydrate",5
+"C1117",8,2,1.37,"M","Sodium phosphate monobasic monohydrate",5
+"C1118",8,1,0.14,"M","Potassium phosphate dibasic trihydrate",5.6
+"C1118",8,2,1.26,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1119",8,1,0.49,"M","Potassium phosphate dibasic trihydrate",6.3
+"C1119",8,2,0.91,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1120",8,1,0.91,"M","Potassium phosphate dibasic trihydrate",6.9
+"C1120",8,2,0.49,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1121",8,1,1.19,"M","Potassium phosphate dibasic trihydrate",7.5
+"C1121",8,2,0.21,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1122",8,1,1.34,"M","Potassium phosphate dibasic trihydrate",8.2
+"C1122",8,2,0.06,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1123",8,1,0.04,"M","Potassium phosphate dibasic trihydrate",5
+"C1123",8,2,1.76,"M","Sodium phosphate monobasic monohydrate",5
+"C1124",8,1,0.18,"M","Potassium phosphate dibasic trihydrate",5.6
+"C1124",8,2,1.62,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1125",8,1,0.63,"M","Potassium phosphate dibasic trihydrate",6.3
+"C1125",8,2,1.17,"M","Sodium phosphate monobasic monohydrate",6.3
+"C1126",8,1,1.17,"M","Potassium phosphate dibasic trihydrate",6.9
+"C1126",8,2,0.63,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1127",8,1,1.53,"M","Potassium phosphate dibasic trihydrate",7.5
+"C1127",8,2,0.27,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1128",8,1,1.73,"M","Potassium phosphate dibasic trihydrate",8.2
+"C1128",8,2,0.07,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1129",8,1,1,"M","Sodium chloride",4
+"C1129",8,2,0.1,"M","Citric acid",4
+"C1130",8,1,1,"M","Sodium chloride",5
+"C1130",8,2,0.1,"M","Citric acid",5
+"C1131",8,1,1,"M","Sodium chloride",6
+"C1131",8,2,0.1,"M","MES monohydrate",6
+"C1132",8,1,1,"M","Sodium chloride",7
+"C1132",8,2,0.1,"M","HEPES",7
+"C1133",8,1,1,"M","Sodium chloride",8
+"C1133",8,2,0.1,"M","Tris",8
+"C1134",8,1,1,"M","Sodium chloride",9
+"C1134",8,2,0.1,"M","Bicine",9
+"C1135",8,1,2,"M","Sodium chloride",4
+"C1135",8,2,0.1,"M","Citric acid",4
+"C1136",8,1,2,"M","Sodium chloride",5
+"C1136",8,2,0.1,"M","Citric acid",5
+"C1137",8,1,2,"M","Sodium chloride",6
+"C1137",8,2,0.1,"M","MES monohydrate",6
+"C1138",8,1,2,"M","Sodium chloride",7
+"C1138",8,2,0.1,"M","HEPES",7
+"C1139",8,1,2,"M","Sodium chloride",8
+"C1139",8,2,0.1,"M","Tris",8
+"C1140",8,1,2,"M","Sodium chloride",9
+"C1140",8,2,0.1,"M","Bicine",9
+"C1141",8,1,3,"M","Sodium chloride",4
+"C1141",8,2,0.1,"M","Citric acid",4
+"C1142",8,1,3,"M","Sodium chloride",5
+"C1142",8,2,0.1,"M","Citric acid",5
+"C1143",8,1,3,"M","Sodium chloride",6
+"C1143",8,2,0.1,"M","MES monohydrate",6
+"C1144",8,1,3,"M","Sodium chloride",7
+"C1144",8,2,0.1,"M","HEPES",7
+"C1145",8,1,3,"M","Sodium chloride",8
+"C1145",8,2,0.1,"M","Tris",8
+"C1146",8,1,3,"M","Sodium chloride",9
+"C1146",8,2,0.1,"M","Bicine",9
+"C1147",8,1,4,"M","Sodium chloride",4
+"C1147",8,2,0.1,"M","Citric acid",4
+"C1148",8,1,4,"M","Sodium chloride",5
+"C1148",8,2,0.1,"M","Citric acid",5
+"C1149",8,1,4,"M","Sodium chloride",6
+"C1149",8,2,0.1,"M","MES monohydrate",6
+"C1150",8,1,4,"M","Sodium chloride",7
+"C1150",8,2,0.1,"M","HEPES",7
+"C1151",8,1,4,"M","Sodium chloride",8
+"C1151",8,2,0.1,"M","Tris",8
+"C1152",8,1,4,"M","Sodium chloride",9
+"C1152",8,2,0.1,"M","Bicine",9
+"C1153",8,1,20,"% (w/v)","polyethylene glycol 3350",7.3
+"C1153",8,2,0.2,"M","Sodium fluoride",7.3
+"C1154",8,1,20,"% (w/v)","polyethylene glycol 3350",7.3
+"C1154",8,2,0.2,"M","Potassium fluoride",7.3
+"C1155",8,1,20,"% (w/v)","polyethylene glycol 3350",6.2
+"C1155",8,2,0.2,"M","Ammonium fluoride",6.2
+"C1156",8,1,0.2,"M","Lithium chloride",6.8
+"C1156",8,2,20,"% (w/v)","polyethylene glycol 3350",6.8
+"C1157",8,1,0.2,"M","Magnesium chloride hexahydrate",5.9
+"C1157",8,2,20,"% (w/v)","polyethylene glycol 3350",5.9
+"C1158",8,1,0.2,"M","Sodium chloride",6.9
+"C1158",8,2,20,"% (w/v)","polyethylene glycol 3350",6.9
+"C1159",8,1,0.2,"M","Calcium chloride dihydrate",5.1
+"C1159",8,2,20,"% (w/v)","polyethylene glycol 3350",5.1
+"C1160",8,1,0.2,"M","Potassium chloride",7
+"C1160",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1161",8,1,0.2,"M","Ammonium chloride",6.3
+"C1161",8,2,20,"% (w/v)","polyethylene glycol 3350",6.3
+"C1162",8,1,20,"% (w/v)","polyethylene glycol 3350",7
+"C1162",8,2,0.2,"M","Sodium iodide",7
+"C1163",8,1,20,"% (w/v)","polyethylene glycol 3350",7
+"C1163",8,2,0.2,"M","Potassium iodide",7
+"C1164",8,1,20,"% (w/v)","polyethylene glycol 3350",6.2
+"C1164",8,2,0.2,"M","Ammonium iodide",6.2
+"C1165",8,1,20,"% (w/v)","polyethylene glycol 3350",6.9
+"C1165",8,2,0.2,"M","Sodium thiocyanate",6.9
+"C1166",8,1,0.2,"M","Potassium thiocyanate",7
+"C1166",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1167",8,1,20,"% (w/v)","polyethylene glycol 3350",7.1
+"C1167",8,2,0.2,"M","Lithium nitrate",7.1
+"C1168",8,1,0.2,"M","Magnesium nitrate hexahydrate",5.9
+"C1168",8,2,20,"% (w/v)","polyethylene glycol 3350",5.9
+"C1169",8,1,0.2,"M","Sodium nitrate",6.8
+"C1169",8,2,20,"% (w/v)","polyethylene glycol 3350",6.8
+"C1170",8,1,0.2,"M","Potassium nitrate",6.8
+"C1170",8,2,20,"% (w/v)","polyethylene glycol 3350",6.8
+"C1171",8,1,0.2,"M","Ammonium nitrate",6.2
+"C1171",8,2,20,"% (w/v)","polyethylene glycol 3350",6.2
+"C1172",8,1,0.2,"M","Magnesium formate dihydrate",7
+"C1172",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1173",8,1,0.2,"M","Sodium formate",7
+"C1173",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1174",8,1,20,"% (w/v)","polyethylene glycol 3350",7.3
+"C1174",8,2,0.2,"M","Potassium formate",7.3
+"C1175",8,1,20,"% (w/v)","polyethylene glycol 3350",6.6
+"C1175",8,2,0.2,"M","Ammonium formate",6.6
+"C1176",8,1,20,"% (w/v)","polyethylene glycol 3350",7.9
+"C1176",8,2,0.2,"M","Lithium acetate dihydrate",7.9
+"C1177",8,1,0.2,"M","Magnesium acetate tetrahydrate",7.9
+"C1177",8,2,20,"% (w/v)","polyethylene glycol 3350",7.9
+"C1178",8,1,0.2,"M","Zinc acetate dihydrate",6.4
+"C1178",8,2,20,"% (w/v)","polyethylene glycol 3350",6.4
+"C1179",8,1,0.2,"M","Sodium acetate trihydrate",8
+"C1179",8,2,20,"% (w/v)","polyethylene glycol 3350",8
+"C1180",8,1,20,"% (w/v)","polyethylene glycol 3350",7.5
+"C1180",8,2,0.2,"M","Calcium acetate hydrate",7.5
+"C1181",8,1,0.2,"M","Potassium acetate",8.1
+"C1181",8,2,20,"% (w/v)","polyethylene glycol 3350",8.1
+"C1182",8,1,0.2,"M","Ammonium acetate",7.1
+"C1182",8,2,20,"% (w/v)","polyethylene glycol 3350",7.1
+"C1183",8,1,0.2,"M","Lithium sulfate monohydrate",6
+"C1183",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C1184",8,1,0.2,"M","Magnesium sulfate heptahydrate",6
+"C1184",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C1185",8,1,20,"% (w/v)","polyethylene glycol 3350",6.7
+"C1185",8,2,0.2,"M","Sodium sulfate decahydrate",6.7
+"C1186",8,1,20,"% (w/v)","polyethylene glycol 3350",6.8
+"C1186",8,2,0.2,"M","Potassium sulfate",6.8
+"C1187",8,1,0.2,"M","Ammonium sulfate",6
+"C1187",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C1188",8,1,20,"% (w/v)","polyethylene glycol 3350",7.2
+"C1188",8,2,0.2,"M","di-sodium tartrate dihydrate",7.2
+"C1189",8,1,0.2,"M","Potassium sodium tartrate tetrahydrate",7.4
+"C1189",8,2,20,"% (w/v)","polyethylene glycol 3350",7.4
+"C1190",8,1,0.2,"M","di-Ammonium Tartrate",6.6
+"C1190",8,2,20,"% (w/v)","polyethylene glycol 3350",6.6
+"C1191",8,1,0.2,"M","Sodium phosphate monobasic monohydrate",4.7
+"C1191",8,2,20,"% (w/v)","polyethylene glycol 3350",4.7
+"C1192",8,1,20,"% (w/v)","polyethylene glycol 3350",9.1
+"C1192",8,2,0.2,"M","di-sodium hydrogen phosphate dihydrate",9.1
+"C1193",8,1,0.2,"M","Potassium phosphate monobasic",4.8
+"C1193",8,2,20,"% (w/v)","polyethylene glycol 3350",4.8
+"C1194",8,1,0.2,"M","Potassium phosphate dibasic trihydrate",9.2
+"C1194",8,2,20,"% (w/v)","polyethylene glycol 3350",9.2
+"C1195",8,1,0.2,"M","Ammonium phosphate monobasic",4.6
+"C1195",8,2,20,"% (w/v)","polyethylene glycol 3350",4.6
+"C1196",8,1,0.2,"M","Ammonium phosphate dibasic",8
+"C1196",8,2,20,"% (w/v)","polyethylene glycol 3350",8
+"C1197",8,1,20,"% (w/v)","polyethylene glycol 3350",8.4
+"C1197",8,2,0.2,"M","tri-lithium citrate tetrahydrate",8.4
+"C1198",8,1,0.2,"M","Sodium citrate tribasic dihydrate",8.3
+"C1198",8,2,20,"% (w/v)","polyethylene glycol 3350",8.3
+"C1199",8,1,20,"% (w/v)","polyethylene glycol 3350",8.3
+"C1199",8,2,0.2,"M","tri-potassium citrate monohydrate",8.3
+"C1200",8,1,0.2,"M","di-Ammonium hydrogen citrate",5.1
+"C1200",8,2,20,"% (w/v)","polyethylene glycol 3350",5.1
+"C1201",8,1,0.1,"M","Sodium Malonate",4
+"C1201",8,2,12,"% (w/v)","polyethylene glycol 3350",4
+"C1202",8,1,0.2,"M","Sodium Malonate",4
+"C1202",8,2,20,"% (w/v)","polyethylene glycol 3350",4
+"C1203",8,1,0.1,"M","Sodium Malonate",5
+"C1203",8,2,12,"% (w/v)","polyethylene glycol 3350",5
+"C1204",8,1,0.2,"M","Sodium Malonate",5
+"C1204",8,2,20,"% (w/v)","polyethylene glycol 3350",5
+"C1205",8,1,0.1,"M","Sodium Malonate",6
+"C1205",8,2,12,"% (w/v)","polyethylene glycol 3350",6
+"C1206",8,1,0.2,"M","Sodium Malonate",6
+"C1206",8,2,20,"% (w/v)","polyethylene glycol 3350",6
+"C1207",8,1,0.1,"M","Sodium Malonate",7
+"C1207",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1208",8,1,0.2,"M","Sodium Malonate",7
+"C1208",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1209",8,1,12,"% (w/v)","polyethylene glycol 3350",4
+"C1209",8,2,4,"% (v/v)","Tacsimate",4
+"C1210",8,1,20,"% (w/v)","polyethylene glycol 3350",4
+"C1210",8,2,8,"% (v/v)","Tacsimate",4
+"C1211",8,1,12,"% (w/v)","polyethylene glycol 3350",5
+"C1211",8,2,4,"% (v/v)","Tacsimate",5
+"C1212",8,1,20,"% (w/v)","polyethylene glycol 3350",5
+"C1212",8,2,8,"% (v/v)","Tacsimate",5
+"C1213",8,1,12,"% (w/v)","polyethylene glycol 3350",6
+"C1213",8,2,4,"% (v/v)","Tacsimate",6
+"C1214",8,1,20,"% (w/v)","polyethylene glycol 3350",6
+"C1214",8,2,8,"% (v/v)","Tacsimate",6
+"C1215",8,1,12,"% (w/v)","polyethylene glycol 3350",7
+"C1215",8,2,4,"% (v/v)","Tacsimate",7
+"C1216",8,1,20,"% (w/v)","polyethylene glycol 3350",7
+"C1216",8,2,8,"% (v/v)","Tacsimate",7
+"C1217",8,1,12,"% (w/v)","polyethylene glycol 3350",8
+"C1217",8,2,4,"% (v/v)","Tacsimate",8
+"C1218",8,1,20,"% (w/v)","polyethylene glycol 3350",8
+"C1218",8,2,8,"% (v/v)","Tacsimate",8
+"C1219",8,1,0.1,"M","Succinic Acid",7
+"C1219",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1220",8,1,0.2,"M","Succinic Acid",7
+"C1220",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1221",8,1,0.1,"M","tri-Ammonium Citrate",7
+"C1221",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1222",8,1,0.2,"M","tri-Ammonium Citrate",7
+"C1222",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1223",8,1,0.1,"M","DL-Malic acid",7
+"C1223",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1224",8,1,0.2,"M","DL-Malic acid",7
+"C1224",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1225",8,1,0.1,"M","Sodium acetate trihydrate",7
+"C1225",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1226",8,1,0.2,"M","Sodium acetate trihydrate",7
+"C1226",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1227",8,1,0.1,"M","Sodium formate",7
+"C1227",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1228",8,1,0.2,"M","Sodium formate",7
+"C1228",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1229",8,1,0.1,"M","di-Ammonium Tartrate",7
+"C1229",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1230",8,1,0.2,"M","di-Ammonium Tartrate",7
+"C1230",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1231",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1231",8,2,16,"% (w/v)","polyethylene glycol 3350",4.6
+"C1231",8,3,2,"% (v/v)","Tacsimate",4
+"C1232",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1232",8,2,16,"% (w/v)","polyethylene glycol 3350",5.6
+"C1232",8,3,2,"% (v/v)","Tacsimate",5
+"C1233",8,1,0.1,"M","Bis-Tris",6.5
+"C1233",8,2,20,"% (w/v)","polyethylene glycol 3350",6.5
+"C1233",8,3,2,"% (v/v)","Tacsimate",6
+"C1234",8,1,0.1,"M","HEPES",7.5
+"C1234",8,2,20,"% (w/v)","polyethylene glycol 3350",7.5
+"C1234",8,3,2,"% (v/v)","Tacsimate",7
+"C1235",8,1,0.1,"M","Tris",8.5
+"C1235",8,2,16,"% (w/v)","polyethylene glycol 3350",8.5
+"C1235",8,3,2,"% (v/v)","Tacsimate",8
+"C1236",8,1,0.07,"M","Citric acid",3.4
+"C1236",8,2,0.03,"M","Bis-Tris Propane",3.4
+"C1236",8,3,16,"% (w/v)","polyethylene glycol 3350",3.4
+"C1237",8,1,0.06,"M","Citric acid",4.1
+"C1237",8,2,0.04,"M","Bis-Tris Propane",4.1
+"C1237",8,3,16,"% (w/v)","polyethylene glycol 3350",4.1
+"C1238",8,1,0.05,"M","Citric acid",5
+"C1238",8,2,0.05,"M","Bis-Tris Propane",5
+"C1238",8,3,16,"% (w/v)","polyethylene glycol 3350",5
+"C1239",8,1,0.04,"M","Citric acid",6.4
+"C1239",8,2,0.06,"M","Bis-Tris Propane",6.4
+"C1239",8,3,20,"% (w/v)","polyethylene glycol 3350",6.4
+"C1240",8,1,0.03,"M","Citric acid",7.6
+"C1240",8,2,0.07,"M","Bis-Tris Propane",7.6
+"C1240",8,3,20,"% (w/v)","polyethylene glycol 3350",7.6
+"C1241",8,1,0.02,"M","Citric acid",8.8
+"C1241",8,2,0.08,"M","Bis-Tris Propane",8.8
+"C1241",8,3,16,"% (w/v)","polyethylene glycol 3350",8.8
+"C1242",8,1,0.02,"M","Calcium chloride dihydrate","NA"
+"C1242",8,2,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1242",8,3,0.02,"M","Cobalt(II) chloride hexahydrate","NA"
+"C1242",8,4,0.02,"M","Cadmium chloride dihydrate","NA"
+"C1243",8,1,0.02,"M","Magnesium chloride hexahydrate",7
+"C1243",8,2,0.1,"M","HEPES-Na",7
+"C1243",8,3,20,"% (w/v)","polyethylene glycol 3350",7
+"C1243",8,4,0.02,"M","Nickel(II) chloride hexahydrate",7
+"C1244",8,1,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1244",8,2,0.02,"M","Zinc chloride","NA"
+"C1245",8,1,15,"% (w/v)","polyethylene glycol 3350","NA"
+"C1245",8,2,0.15,"M","Cesium chloride","NA"
+"C1246",8,1,0.2,"M","Sodium bromide","NA"
+"C1246",8,2,20,"% (w/v)","polyethylene glycol 3350","NA"
+"C1247",8,1,0.05,"M","HEPES-Na",7
+"C1247",8,2,12,"% (w/v)","polyethylene glycol 3350",7
+"C1247",8,3,1,"% (w/v)","Tryptone",7
+"C1248",8,1,0.05,"M","HEPES-Na",7
+"C1248",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1248",8,3,1,"% (w/v)","Tryptone",7
+"C1249",8,1,0.02,"M","Calcium chloride dihydrate",4.6
+"C1249",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1249",8,3,30,"% (v/v)","MPD",4.6
+"C1250",8,1,0.4,"M","Potassium sodium tartrate tetrahydrate",8.4
+"C1251",8,1,0.4,"M","Ammonium phosphate monobasic",4.2
+"C1252",8,1,2,"M","Ammonium sulfate",8.5
+"C1252",8,2,0.1,"M","Tris HCl",8.5
+"C1253",8,1,0.2,"M","Sodium citrate tribasic dihydrate",7.5
+"C1253",8,2,30,"% (v/v)","MPD",7.5
+"C1253",8,3,0.1,"M","HEPES-Na",7.5
+"C1254",8,1,0.2,"M","Magnesium chloride hexahydrate",8.5
+"C1254",8,2,0.1,"M","Tris HCl",8.5
+"C1254",8,3,30,"% (w/v)","polyethylene glycol 4000",8.5
+"C1255",8,1,1.4,"M","Sodium acetate trihydrate",6.5
+"C1255",8,2,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1256",8,1,0.2,"M","Sodium citrate tribasic dihydrate",6.5
+"C1256",8,2,30,"% (v/v)","Iso-propanol",6.5
+"C1256",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1257",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1257",8,2,30,"% (w/v)","polyethylene glycol 4000",5.6
+"C1257",8,3,0.2,"M","Ammonium acetate",5.6
+"C1258",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1258",8,2,30,"% (w/v)","polyethylene glycol 4000",4.6
+"C1258",8,3,0.2,"M","Ammonium acetate",4.6
+"C1259",8,1,1,"M","Ammonium phosphate monobasic",5.6
+"C1259",8,2,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1260",8,1,0.2,"M","Magnesium chloride hexahydrate",7.5
+"C1260",8,2,0.1,"M","HEPES-Na",7.5
+"C1260",8,3,30,"% (v/v)","Iso-propanol",7.5
+"C1261",8,1,0.2,"M","Sodium citrate tribasic dihydrate",8.5
+"C1261",8,2,0.1,"M","Tris HCl",8.5
+"C1261",8,3,30,"% (v/v)","polyethylene glycol 400",8.5
+"C1262",8,1,0.2,"M","Calcium chloride dihydrate",7.5
+"C1262",8,2,28,"% (v/v)","polyethylene glycol 400",7.5
+"C1262",8,3,0.1,"M","HEPES-Na",7.5
+"C1263",8,1,0.2,"M","Ammonium sulfate",6.5
+"C1263",8,2,30,"% (w/v)","polyethylene glycol 8000",6.5
+"C1263",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1264",8,1,1.5,"M","Lithium sulfate monohydrate",7.5
+"C1264",8,2,0.1,"M","HEPES-Na",7.5
+"C1265",8,1,0.2,"M","Lithium sulfate monohydrate",8.5
+"C1265",8,2,0.1,"M","Tris HCl",8.5
+"C1265",8,3,30,"% (w/v)","polyethylene glycol 4000",8.5
+"C1266",8,1,0.2,"M","Magnesium acetate tetrahydrate",6.5
+"C1266",8,2,20,"% (w/v)","polyethylene glycol 8000",6.5
+"C1266",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1267",8,1,0.1,"M","Tris HCl",8.5
+"C1267",8,2,30,"% (v/v)","Iso-propanol",8.5
+"C1267",8,3,0.2,"M","Ammonium acetate",8.5
+"C1268",8,1,0.2,"M","Ammonium sulfate",4.6
+"C1268",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1268",8,3,25,"% (w/v)","polyethylene glycol 4000",4.6
+"C1269",8,1,0.2,"M","Magnesium acetate tetrahydrate",6.5
+"C1269",8,2,30,"% (v/v)","MPD",6.5
+"C1269",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1270",8,1,0.2,"M","Sodium acetate trihydrate",8.5
+"C1270",8,2,0.1,"M","Tris HCl",8.5
+"C1270",8,3,30,"% (w/v)","polyethylene glycol 4000",8.5
+"C1271",8,1,0.2,"M","Magnesium chloride hexahydrate",7.5
+"C1271",8,2,30,"% (v/v)","polyethylene glycol 400",7.5
+"C1271",8,3,0.1,"M","HEPES-Na",7.5
+"C1272",8,1,0.2,"M","Calcium chloride dihydrate",4.6
+"C1272",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1272",8,3,20,"% (v/v)","Iso-propanol",4.6
+"C1273",8,1,1,"M","Sodium acetate trihydrate",6.5
+"C1273",8,2,0.1,"M","Imidazole",6.5
+"C1274",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1274",8,2,30,"% (v/v)","MPD",5.6
+"C1274",8,3,0.2,"M","Ammonium acetate",5.6
+"C1275",8,1,0.2,"M","Sodium citrate tribasic dihydrate",7.5
+"C1275",8,2,0.1,"M","HEPES-Na",7.5
+"C1275",8,3,20,"% (v/v)","Iso-propanol",7.5
+"C1276",8,1,0.2,"M","Sodium acetate trihydrate",6.5
+"C1276",8,2,30,"% (w/v)","polyethylene glycol 8000",6.5
+"C1276",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1277",8,1,0.1,"M","HEPES-Na",7.5
+"C1277",8,2,0.8,"M","Potassium sodium tartrate tetrahydrate",7.5
+"C1278",8,1,0.2,"M","Ammonium sulfate",5.4
+"C1278",8,2,30,"% (w/v)","polyethylene glycol 8000",5.4
+"C1279",8,1,0.2,"M","Ammonium sulfate",5.6
+"C1279",8,2,30,"% (w/v)","polyethylene glycol 4000",5.6
+"C1280",8,1,2,"M","Ammonium sulfate",5.2
+"C1281",8,1,4,"M","Sodium formate",8.7
+"C1282",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1282",8,2,2,"M","Sodium formate",4.6
+"C1283",8,1,0.8,"M","Potassium phosphate monobasic",7.5
+"C1283",8,2,0.8,"M","Sodium phosphate monobasic monohydrate",7.5
+"C1283",8,3,0.1,"M","HEPES-Na",7.5
+"C1284",8,1,0.1,"M","Tris HCl",8.5
+"C1284",8,2,8,"% (w/v)","polyethylene glycol 8000",8.5
+"C1285",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1285",8,2,8,"% (w/v)","polyethylene glycol 4000",4.6
+"C1286",8,1,1.4,"M","Sodium citrate tribasic dihydrate",7.5
+"C1286",8,2,0.1,"M","HEPES-Na",7.5
+"C1287",8,1,2,"M","Ammonium sulfate",7.5
+"C1287",8,2,2,"% (v/v)","polyethylene glycol 400",7.5
+"C1287",8,3,0.1,"M","HEPES-Na",7.5
+"C1288",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1288",8,2,20,"% (w/v)","polyethylene glycol 4000",5.6
+"C1288",8,3,20,"% (v/v)","Iso-propanol",5.6
+"C1289",8,1,20,"% (w/v)","polyethylene glycol 4000",7.5
+"C1289",8,2,0.1,"M","HEPES-Na",7.5
+"C1289",8,3,10,"% (v/v)","Iso-propanol",7.5
+"C1290",8,1,0.05,"M","Potassium phosphate monobasic",5
+"C1290",8,2,20,"% (w/v)","polyethylene glycol 8000",5
+"C1291",8,1,30,"% (w/v)","polyethylene glycol 1500",6.3
+"C1292",8,1,0.2,"M","Magnesium formate dihydrate",7.8
+"C1293",8,1,0.2,"M","Zinc acetate dihydrate",6.5
+"C1293",8,2,18,"% (w/v)","polyethylene glycol 8000",6.5
+"C1293",8,3,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1294",8,1,18,"% (w/v)","polyethylene glycol 8000",6.5
+"C1294",8,2,0.1,"M","Sodium cacodylate trihydrate",6.5
+"C1294",8,3,0.2,"M","Calcium acetate hydrate",6.5
+"C1295",8,1,2,"M","Ammonium sulfate",4.6
+"C1295",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1296",8,1,2,"M","Ammonium phosphate monobasic",8.5
+"C1296",8,2,0.1,"M","Tris HCl",8.5
+"C1297",8,1,2,"M","Sodium chloride",5.6
+"C1297",8,2,10,"% (w/v)","polyethylene glycol 6000",5.6
+"C1298",8,1,0.01,"M","Magnesium chloride hexahydrate",5.8
+"C1298",8,2,0.5,"M","Sodium chloride",5.8
+"C1298",8,3,0.01,"M","Hexadecyltrimethylammonium bromide",5.8
+"C1299",8,1,25,"% (v/v)","Ethylene Glycol",5.8
+"C1300",8,1,35,"% (v/v)","1,4-Dioxane",4.4
+"C1301",8,1,2,"M","Ammonium sulfate",5.2
+"C1301",8,2,5,"% (v/v)","Iso-propanol",5.2
+"C1302",8,1,1,"M","Imidazole",7
+"C1303",8,1,10,"% (w/v)","polyethylene glycol 1000",5.8
+"C1303",8,2,10,"% (w/v)","polyethylene glycol 8000",5.8
+"C1304",8,1,1.5,"M","Sodium chloride",5.8
+"C1304",8,2,10,"% (v/v)","Ethanol",5.8
+"C1305",8,1,2,"M","Sodium chloride",4.6
+"C1305",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1306",8,1,0.2,"M","Sodium chloride",4.6
+"C1306",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1306",8,3,30,"% (v/v)","MPD",4.6
+"C1307",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1307",8,2,1,"M","1,6-hexanediol",4.6
+"C1307",8,3,0.01,"M","Cobalt(II) chloride hexahydrate",4.6
+"C1308",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1308",8,2,30,"% (v/v)","polyethylene glycol 400",4.6
+"C1308",8,3,0.1,"M","Cadmium chloride dihydrate",4.6
+"C1309",8,1,0.2,"M","Ammonium sulfate",4.6
+"C1309",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1309",8,3,30,"% (w/v)","polyethylene glycol monomethyl ether 2000",4.6
+"C1310",8,1,2,"M","Ammonium sulfate",5.6
+"C1310",8,2,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1310",8,3,0.2,"M","Potassium sodium tartrate tetrahydrate",5.6
+"C1311",8,1,0.5,"M","Ammonium sulfate",5.6
+"C1311",8,2,1,"M","Lithium sulfate monohydrate",5.6
+"C1311",8,3,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1312",8,1,0.5,"M","Sodium chloride",5.6
+"C1312",8,2,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1312",8,3,2,"% (v/v)","Ethylene imine polymer",5.6
+"C1313",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1313",8,2,35,"% (v/v)","tert-Butanol",5.6
+"C1314",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1314",8,2,10,"% (v/v)","Jeffamine M-600 reagent",5.6
+"C1314",8,3,0.01,"M","Ferric chloride hexahydrate",5.6
+"C1315",8,1,0.1,"M","Sodium citrate tribasic dihydrate",5.6
+"C1315",8,2,2.5,"M","1,6-hexanediol",5.6
+"C1316",8,1,1.6,"M","Magnesium sulfate heptahydrate",6.5
+"C1316",8,2,0.1,"M","MES monohydrate",6.5
+"C1317",8,1,0.1,"M","Potassium phosphate monobasic",6.5
+"C1317",8,2,2,"M","Sodium chloride",6.5
+"C1317",8,3,0.1,"M","Sodium phosphate monobasic monohydrate",6.5
+"C1317",8,4,0.1,"M","MES monohydrate",6.5
+"C1318",8,1,12,"% (w/v)","polyethylene glycol 20000",6.5
+"C1318",8,2,0.1,"M","MES monohydrate",6.5
+"C1319",8,1,1.6,"M","Ammonium sulfate",6.5
+"C1319",8,2,0.1,"M","MES monohydrate",6.5
+"C1319",8,3,10,"% (v/v)","1,4-Dioxane",6.5
+"C1320",8,1,0.1,"M","MES monohydrate",6.5
+"C1320",8,2,30,"% (v/v)","Jeffamine M-600 reagent",6.5
+"C1320",8,3,0.05,"M","Cesium chloride",6.5
+"C1321",8,1,1.8,"M","Ammonium sulfate",6.5
+"C1321",8,2,0.1,"M","MES monohydrate",6.5
+"C1321",8,3,0.01,"M","Cobalt(II) chloride hexahydrate",6.5
+"C1322",8,1,0.2,"M","Ammonium sulfate",6.5
+"C1322",8,2,0.1,"M","MES monohydrate",6.5
+"C1322",8,3,30,"% (w/v)","polyethylene glycol monomethyl ether 5000",6.5
+"C1323",8,1,0.1,"M","MES monohydrate",6.5
+"C1323",8,2,25,"% (v/v)","polyethylene glycol monomethyl ether 550",6.5
+"C1323",8,3,0.01,"M","Zinc sulfate heptahydrate",6.5
+"C1324",8,1,1.6,"M","Sodium citrate tribasic dihydrate",6.5
+"C1325",8,1,0.5,"M","Ammonium sulfate",7.5
+"C1325",8,2,0.1,"M","HEPES",7.5
+"C1325",8,3,30,"% (v/v)","MPD",7.5
+"C1326",8,1,0.1,"M","HEPES",7.5
+"C1326",8,2,5,"% (v/v)","MPD",7.5
+"C1326",8,3,10,"% (w/v)","polyethylene glycol 6000",7.5
+"C1327",8,1,0.1,"M","HEPES",7.5
+"C1327",8,2,20,"% (v/v)","Jeffamine M-600 reagent",7.5
+"C1328",8,1,1.6,"M","Ammonium sulfate",7.5
+"C1328",8,2,0.1,"M","Sodium chloride",7.5
+"C1328",8,3,0.1,"M","HEPES",7.5
+"C1329",8,1,0.1,"M","HEPES",7.5
+"C1329",8,2,2,"M","Ammonium formate",7.5
+"C1330",8,1,1,"M","Sodium acetate trihydrate",7.5
+"C1330",8,2,0.1,"M","HEPES",7.5
+"C1330",8,3,0.05,"M","Cadmium sulfate octahydrate",7.5
+"C1331",8,1,0.1,"M","HEPES",7.5
+"C1331",8,2,70,"% (v/v)","MPD",7.5
+"C1332",8,1,4.3,"M","Sodium chloride",7.5
+"C1332",8,2,0.1,"M","HEPES",7.5
+"C1333",8,1,0.1,"M","HEPES",7.5
+"C1333",8,2,10,"% (w/v)","polyethylene glycol 8000",7.5
+"C1333",8,3,8,"% (v/v)","Ethylene Glycol",7.5
+"C1334",8,1,0.1,"M","HEPES",7.5
+"C1334",8,2,20,"% (w/v)","polyethylene glycol 10000",7.5
+"C1335",8,1,0.2,"M","Magnesium chloride hexahydrate",8.5
+"C1335",8,2,0.1,"M","Tris",8.5
+"C1335",8,3,3.4,"M","1,6-hexanediol",8.5
+"C1336",8,1,0.1,"M","Tris",8.5
+"C1336",8,2,25,"% (v/v)","tert-Butanol",8.5
+"C1337",8,1,1,"M","Lithium sulfate monohydrate",8.5
+"C1337",8,2,0.1,"M","Tris",8.5
+"C1337",8,3,0.01,"M","Nickel(II) chloride hexahydrate",8.5
+"C1338",8,1,1.5,"M","Ammonium sulfate",8.5
+"C1338",8,2,0.1,"M","Tris",8.5
+"C1338",8,3,12,"% (v/v)","Glycerol anhydrous",8.5
+"C1339",8,1,0.2,"M","Ammonium phosphate monobasic",8.5
+"C1339",8,2,0.1,"M","Tris",8.5
+"C1339",8,3,50,"% (v/v)","MPD",8.5
+"C1340",8,1,0.1,"M","Tris",8.5
+"C1340",8,2,20,"% (v/v)","Ethanol",8.5
+"C1341",8,1,0.1,"M","Tris",8.5
+"C1341",8,2,20,"% (w/v)","polyethylene glycol monomethyl ether 2000",8.5
+"C1341",8,3,0.01,"M","Nickel(II) chloride hexahydrate",8.5
+"C1342",8,1,0.1,"M","Sodium chloride",9
+"C1342",8,2,0.1,"M","Bicine",9
+"C1342",8,3,20,"% (v/v)","polyethylene glycol monomethyl ether 550",9
+"C1343",8,1,2,"M","Magnesium chloride hexahydrate",9
+"C1343",8,2,0.1,"M","Bicine",9
+"C1344",8,1,10,"% (w/v)","polyethylene glycol 20000",9
+"C1344",8,2,0.1,"M","Bicine",9
+"C1344",8,3,2,"% (v/v)","1,4-Dioxane",9
+"C1345",8,1,2,"M","Ammonium sulfate",3.5
+"C1345",8,2,0.1,"M","Citric acid",3.5
+"C1346",8,1,2,"M","Ammonium sulfate",4.5
+"C1346",8,2,0.1,"M","Sodium acetate trihydrate",4.5
+"C1347",8,1,2,"M","Ammonium sulfate",5.5
+"C1347",8,2,0.1,"M","Bis-Tris",5.5
+"C1348",8,1,2,"M","Ammonium sulfate",6.5
+"C1348",8,2,0.1,"M","Bis-Tris",6.5
+"C1349",8,1,2,"M","Ammonium sulfate",7.5
+"C1349",8,2,0.1,"M","HEPES",7.5
+"C1350",8,1,2,"M","Ammonium sulfate",8.5
+"C1350",8,2,0.1,"M","Tris",8.5
+"C1351",8,1,3,"M","Sodium chloride",3.5
+"C1351",8,2,0.1,"M","Citric acid",3.5
+"C1352",8,1,3,"M","Sodium chloride",4.5
+"C1352",8,2,0.1,"M","Sodium acetate trihydrate",4.5
+"C1353",8,1,3,"M","Sodium chloride",5.5
+"C1353",8,2,0.1,"M","Bis-Tris",5.5
+"C1354",8,1,3,"M","Sodium chloride",6.5
+"C1354",8,2,0.1,"M","Bis-Tris",6.5
+"C1355",8,1,3,"M","Sodium chloride",7.5
+"C1355",8,2,0.1,"M","HEPES",7.5
+"C1356",8,1,3,"M","Sodium chloride",8.5
+"C1356",8,2,0.1,"M","Tris",8.5
+"C1357",8,1,0.1,"M","Bis-Tris",5.5
+"C1357",8,2,0.3,"M","Magnesium formate dihydrate",5.5
+"C1358",8,1,0.1,"M","Bis-Tris",6.5
+"C1358",8,2,0.5,"M","Magnesium formate dihydrate",6.5
+"C1359",8,1,0.1,"M","HEPES",7.5
+"C1359",8,2,0.5,"M","Magnesium formate dihydrate",7.5
+"C1360",8,1,0.1,"M","Tris",8.5
+"C1360",8,2,0.3,"M","Magnesium formate dihydrate",8.5
+"C1361",8,1,0.14,"M","Potassium phosphate dibasic anhydrous",5.6
+"C1361",8,2,1.26,"M","Sodium phosphate monobasic monohydrate",5.6
+"C1362",8,1,0.91,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1362",8,2,0.49,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1363",8,1,1.34,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1363",8,2,0.06,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1364",8,1,1.4,"M","Sodium citrate tribasic dihydrate",7.5
+"C1364",8,2,0.1,"M","HEPES",7.5
+"C1365",8,1,1.8,"M","tri-Ammonium Citrate",7
+"C1366",8,1,0.8,"M","Succinic Acid",7
+"C1367",8,1,2.1,"M","DL-Malic acid",7
+"C1368",8,1,2.8,"M","Sodium acetate trihydrate",7
+"C1369",8,1,3.5,"M","Sodium formate",7
+"C1370",8,1,1.1,"M","di-Ammonium Tartrate",7
+"C1371",8,1,2.4,"M","Sodium Malonate",7
+"C1372",8,1,35,"% (v/v)","Tacsimate",7
+"C1373",8,1,60,"% (v/v)","Tacsimate",7
+"C1374",8,1,1.5,"M","Ammonium sulfate",6.5
+"C1374",8,2,0.1,"M","Sodium chloride",6.5
+"C1374",8,3,0.1,"M","Bis-Tris",6.5
+"C1375",8,1,0.1,"M","Tris",8.5
+"C1375",8,2,0.8,"M","Potassium sodium tartrate tetrahydrate",8.5
+"C1375",8,3,0.5,"% (w/v)","polyethylene glycol monomethyl ether 5000",8.5
+"C1376",8,1,1,"M","Ammonium sulfate",5.5
+"C1376",8,2,0.1,"M","Bis-Tris",5.5
+"C1376",8,3,1,"% (w/v)","polyethylene glycol 3350",5.5
+"C1377",8,1,0.1,"M","HEPES",7
+"C1377",8,2,1.1,"M","Sodium Malonate",7
+"C1377",8,3,0.5,"% (v/v)","Jeffamine ED-2001 reagent",7
+"C1378",8,1,0.1,"M","HEPES",7
+"C1378",8,2,1,"M","Succinic Acid",7
+"C1378",8,3,1,"% (w/v)","polyethylene glycol monomethyl ether 2000",7
+"C1379",8,1,1,"M","Ammonium sulfate",7
+"C1379",8,2,0.1,"M","HEPES",7
+"C1379",8,3,0.5,"% (w/v)","polyethylene glycol 8000",7
+"C1380",8,1,0.1,"M","HEPES",7
+"C1380",8,2,2,"% (w/v)","polyethylene glycol 3350",7
+"C1380",8,3,15,"% (w/v)","Tacsimate",7
+"C1381",8,1,25,"% (w/v)","polyethylene glycol 1500",6.3
+"C1382",8,1,0.1,"M","HEPES",7
+"C1382",8,2,30,"% (v/v)","Jeffamine M-600 reagent",7
+"C1383",8,1,0.1,"M","HEPES",7
+"C1383",8,2,30,"% (v/v)","Jeffamine ED-2001 reagent",7
+"C1384",8,1,0.1,"M","Citric acid",3.5
+"C1384",8,2,25,"% (w/v)","polyethylene glycol 3350",3.5
+"C1385",8,1,0.1,"M","Sodium acetate trihydrate",4.5
+"C1385",8,2,25,"% (w/v)","polyethylene glycol 3350",4.5
+"C1386",8,1,0.1,"M","Bis-Tris",5.5
+"C1386",8,2,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1387",8,1,0.1,"M","Bis-Tris",6.5
+"C1387",8,2,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1388",8,1,0.1,"M","HEPES",7.5
+"C1388",8,2,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1389",8,1,0.1,"M","Tris",8.5
+"C1389",8,2,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1390",8,1,0.1,"M","Bis-Tris",6.5
+"C1390",8,2,20,"% (w/v)","polyethylene glycol monomethyl ether 5000",6.5
+"C1391",8,1,0.1,"M","Bis-Tris",6.5
+"C1391",8,2,28,"% (w/v)","polyethylene glycol monomethyl ether 2000",6.5
+"C1392",8,1,0.2,"M","Calcium chloride dihydrate",5.5
+"C1392",8,2,45,"% (v/v)","MPD",5.5
+"C1392",8,3,0.1,"M","Bis-Tris",5.5
+"C1393",8,1,0.2,"M","Calcium chloride dihydrate",6.5
+"C1393",8,2,45,"% (v/v)","MPD",6.5
+"C1393",8,3,0.1,"M","Bis-Tris",6.5
+"C1394",8,1,45,"% (v/v)","MPD",5.5
+"C1394",8,2,0.2,"M","Ammonium acetate",5.5
+"C1394",8,3,0.1,"M","Bis-Tris",5.5
+"C1395",8,1,45,"% (v/v)","MPD",6.5
+"C1395",8,2,0.2,"M","Ammonium acetate",6.5
+"C1395",8,3,0.1,"M","Bis-Tris",6.5
+"C1396",8,1,0.1,"M","HEPES",7.5
+"C1396",8,2,45,"% (v/v)","MPD",7.5
+"C1396",8,3,0.2,"M","Ammonium acetate",7.5
+"C1397",8,1,0.1,"M","Tris",8.5
+"C1397",8,2,45,"% (v/v)","MPD",8.5
+"C1397",8,3,0.2,"M","Ammonium acetate",8.5
+"C1398",8,1,0.05,"M","Calcium chloride dihydrate",6.5
+"C1398",8,2,0.1,"M","Bis-Tris",6.5
+"C1398",8,3,30,"% (v/v)","polyethylene glycol monomethyl ether 550",6.5
+"C1399",8,1,0.05,"M","Magnesium chloride hexahydrate",7.5
+"C1399",8,2,0.1,"M","HEPES",7.5
+"C1399",8,3,30,"% (v/v)","polyethylene glycol monomethyl ether 550",7.5
+"C1400",8,1,0.2,"M","Potassium chloride",7.5
+"C1400",8,2,0.05,"M","HEPES",7.5
+"C1400",8,3,35,"% (v/v)","Pentaerythritol propoxylate (5/4 PO/OH)",7.5
+"C1401",8,1,0.05,"M","Ammonium sulfate",6.5
+"C1401",8,2,0.05,"M","Bis-Tris",6.5
+"C1401",8,3,30,"% (v/v)","Pentaerythritol ethoxylate (15/4 EO/OH)",6.5
+"C1402",8,1,0.1,"M","Bis-Tris",6.5
+"C1402",8,2,45,"% (v/v)","Polypropylene glycol P 400",6.5
+"C1403",8,1,0.02,"M","Magnesium chloride hexahydrate",7.5
+"C1403",8,2,0.1,"M","HEPES",7.5
+"C1403",8,3,22,"% (w/v)","Poly(acrylic acid sodium salt) 5,100",7.5
+"C1404",8,1,0.1,"M","Tris",8.5
+"C1404",8,2,20,"% (w/v)","Polyvinylpyrrolidone K 15",8.5
+"C1404",8,3,0.01,"M","Cobalt(II) chloride hexahydrate",8.5
+"C1405",8,1,0.1,"M","HEPES",7.5
+"C1405",8,2,10,"% (w/v)","polyethylene glycol 3350",7.5
+"C1405",8,3,0.2,"M","L-Proline",7.5
+"C1406",8,1,0.1,"M","Tris",8.5
+"C1406",8,2,20,"% (w/v)","polyethylene glycol monomethyl ether 2000",8.5
+"C1406",8,3,0.2,"M","Trimethylamine N-oxide dihydrate",8.5
+"C1407",8,1,0.1,"M","HEPES",7
+"C1407",8,2,5,"% (v/v)","Tacsimate",7
+"C1407",8,3,10,"% (w/v)","polyethylene glycol monomethyl ether 5000",7
+"C1408",8,1,0.01,"M","Magnesium chloride hexahydrate",7.5
+"C1408",8,2,0.1,"M","HEPES",7.5
+"C1408",8,3,12,"% (w/v)","polyethylene glycol 3350",7.5
+"C1408",8,4,0.01,"M","Cobalt(II) chloride hexahydrate",7.5
+"C1408",8,5,0.01,"M","Nickel(II) chloride hexahydrate",7.5
+"C1408",8,6,0.01,"M","Cadmium chloride dihydrate",7.5
+"C1409",8,1,0.1,"M","Ammonium acetate",5.5
+"C1409",8,2,0.1,"M","Bis-Tris",5.5
+"C1409",8,3,17,"% (w/v)","polyethylene glycol 10000",5.5
+"C1410",8,1,0.2,"M","Ammonium sulfate",5.5
+"C1410",8,2,0.1,"M","Bis-Tris",5.5
+"C1410",8,3,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1411",8,1,0.2,"M","Ammonium sulfate",6.5
+"C1411",8,2,0.1,"M","Bis-Tris",6.5
+"C1411",8,3,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1412",8,1,0.2,"M","Ammonium sulfate",7.5
+"C1412",8,2,0.1,"M","HEPES",7.5
+"C1412",8,3,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1413",8,1,0.2,"M","Ammonium sulfate",8.5
+"C1413",8,2,0.1,"M","Tris",8.5
+"C1413",8,3,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1414",8,1,0.2,"M","Sodium chloride",5.5
+"C1414",8,2,0.1,"M","Bis-Tris",5.5
+"C1414",8,3,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1415",8,1,0.2,"M","Sodium chloride",6.5
+"C1415",8,2,0.1,"M","Bis-Tris",6.5
+"C1415",8,3,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1416",8,1,0.2,"M","Sodium chloride",7.5
+"C1416",8,2,0.1,"M","HEPES",7.5
+"C1416",8,3,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1417",8,1,0.2,"M","Sodium chloride",8.5
+"C1417",8,2,0.1,"M","Tris",8.5
+"C1417",8,3,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1418",8,1,0.2,"M","Lithium sulfate monohydrate",5.5
+"C1418",8,2,0.1,"M","Bis-Tris",5.5
+"C1418",8,3,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1419",8,1,0.2,"M","Lithium sulfate monohydrate",6.5
+"C1419",8,2,0.1,"M","Bis-Tris",6.5
+"C1419",8,3,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1420",8,1,0.2,"M","Lithium sulfate monohydrate",7.5
+"C1420",8,2,0.1,"M","HEPES",7.5
+"C1420",8,3,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1421",8,1,0.2,"M","Lithium sulfate monohydrate",8.5
+"C1421",8,2,0.1,"M","Tris",8.5
+"C1421",8,3,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1422",8,1,0.2,"M","Ammonium acetate",5.5
+"C1422",8,2,0.1,"M","Bis-Tris",5.5
+"C1422",8,3,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1423",8,1,0.2,"M","Ammonium acetate",6.5
+"C1423",8,2,0.1,"M","Bis-Tris",6.5
+"C1423",8,3,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1424",8,1,0.1,"M","HEPES",7.5
+"C1424",8,2,0.2,"M","Ammonium acetate",7.5
+"C1424",8,3,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1425",8,1,0.1,"M","Tris",8.5
+"C1425",8,2,0.2,"M","Ammonium acetate",8.5
+"C1425",8,3,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1426",8,1,0.2,"M","Magnesium chloride hexahydrate",5.5
+"C1426",8,2,0.1,"M","Bis-Tris",5.5
+"C1426",8,3,25,"% (w/v)","polyethylene glycol 3350",5.5
+"C1427",8,1,0.2,"M","Magnesium chloride hexahydrate",6.5
+"C1427",8,2,0.1,"M","Bis-Tris",6.5
+"C1427",8,3,25,"% (w/v)","polyethylene glycol 3350",6.5
+"C1428",8,1,0.2,"M","Magnesium chloride hexahydrate",7.5
+"C1428",8,2,0.1,"M","HEPES",7.5
+"C1428",8,3,25,"% (w/v)","polyethylene glycol 3350",7.5
+"C1429",8,1,0.2,"M","Magnesium chloride hexahydrate",8.5
+"C1429",8,2,0.1,"M","Tris HCl",8.5
+"C1429",8,3,25,"% (w/v)","polyethylene glycol 3350",8.5
+"C1430",8,1,0.2,"M","Potassium sodium tartrate tetrahydrate",7.5
+"C1430",8,2,20,"% (w/v)","polyethylene glycol 3350",7.5
+"C1431",8,1,0.2,"M","Sodium Malonate",7
+"C1431",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1432",8,1,0.2,"M","tri-Ammonium Citrate",7
+"C1432",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1433",8,1,0.1,"M","Succinic Acid",7
+"C1433",8,2,15,"% (w/v)","polyethylene glycol 3350",7
+"C1434",8,1,0.2,"M","Sodium formate",7.4
+"C1434",8,2,20,"% (w/v)","polyethylene glycol 3350",7.4
+"C1435",8,1,0.15,"M","DL-Malic acid",7
+"C1435",8,2,20,"% (w/v)","polyethylene glycol 3350",7
+"C1436",8,1,0.1,"M","Magnesium formate dihydrate",7.1
+"C1436",8,2,15,"% (w/v)","polyethylene glycol 3350",7.1
+"C1437",8,1,0.05,"M","Zinc acetate dihydrate",6.6
+"C1437",8,2,20,"% (w/v)","polyethylene glycol 3350",6.6
+"C1438",8,1,0.2,"M","Sodium citrate tribasic dihydrate",8.3
+"C1438",8,2,20,"% (w/v)","polyethylene glycol 3350",8.3
+"C1439",8,1,0.1,"M","Potassium thiocyanate",6.6
+"C1439",8,2,30,"% (w/v)","polyethylene glycol monomethyl ether 2000",6.6
+"C1440",8,1,0.15,"M","Potassium bromide",6.5
+"C1440",8,2,30,"% (w/v)","polyethylene glycol monomethyl ether 2000",6.5
+"C1441",8,1,1.8,"M","Sodium acetate trihydrate",7
+"C1441",8,2,0.1,"M","Bis-Tris Propane",7
+"C1442",8,1,2.8,"M","Sodium acetate trihydrate",7
+"C1442",8,2,0.1,"M","Bis-Tris Propane",7
+"C1443",8,1,1.5,"M","Ammonium chloride",4.6
+"C1443",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1444",8,1,1.5,"M","Ammonium chloride",7
+"C1444",8,2,0.1,"M","Bis-Tris Propane",7
+"C1445",8,1,1.5,"M","Ammonium chloride",8.5
+"C1445",8,2,0.1,"M","Tris",8.5
+"C1446",8,1,3.5,"M","Ammonium chloride",4.6
+"C1446",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1447",8,1,3.5,"M","Ammonium chloride",7
+"C1447",8,2,0.1,"M","Bis-Tris Propane",7
+"C1448",8,1,3.5,"M","Ammonium chloride",8.5
+"C1448",8,2,0.1,"M","Tris",8.5
+"C1449",8,1,2.2,"M","Sodium chloride",4.6
+"C1449",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1450",8,1,2.2,"M","Sodium chloride",7
+"C1450",8,2,0.1,"M","Bis-Tris Propane",7
+"C1451",8,1,2.2,"M","Sodium chloride",8.5
+"C1451",8,2,0.1,"M","Tris",8.5
+"C1452",8,1,3.2,"M","Sodium chloride",4.6
+"C1452",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1453",8,1,3.2,"M","Sodium chloride",7
+"C1453",8,2,0.1,"M","Bis-Tris Propane",7
+"C1454",8,1,3.2,"M","Sodium chloride",8.5
+"C1454",8,2,0.1,"M","Tris",8.5
+"C1455",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1455",8,2,1,"M","di-Ammonium hydrogen citrate",4.6
+"C1456",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1456",8,2,1.8,"M","di-Ammonium hydrogen citrate",4.6
+"C1457",8,1,0.1,"M","Bis-Tris Propane",7
+"C1457",8,2,1,"M","tri-Ammonium Citrate",7
+"C1458",8,1,0.1,"M","Bis-Tris Propane",7
+"C1458",8,2,2,"M","tri-Ammonium Citrate",7
+"C1459",8,1,0.7,"M","Sodium citrate tribasic dihydrate",7
+"C1459",8,2,0.1,"M","Bis-Tris Propane",7
+"C1460",8,1,0.7,"M","Sodium citrate tribasic dihydrate",8.5
+"C1460",8,2,0.1,"M","Tris",8.5
+"C1461",8,1,1.2,"M","Sodium citrate tribasic dihydrate",7
+"C1461",8,2,0.1,"M","Bis-Tris Propane",7
+"C1462",8,1,1.2,"M","Sodium citrate tribasic dihydrate",8.5
+"C1462",8,2,0.1,"M","Tris",8.5
+"C1463",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1463",8,2,0.4,"M","Magnesium formate dihydrate",4.6
+"C1464",8,1,0.1,"M","Bis-Tris Propane",7
+"C1464",8,2,0.4,"M","Magnesium formate dihydrate",7
+"C1465",8,1,0.1,"M","Tris",8.5
+"C1465",8,2,0.4,"M","Magnesium formate dihydrate",8.5
+"C1466",8,1,0.1,"M","Bis-Tris Propane",7
+"C1466",8,2,0.7,"M","Magnesium formate dihydrate",7
+"C1467",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1467",8,2,2,"M","Sodium formate",4.6
+"C1468",8,1,0.1,"M","Bis-Tris Propane",7
+"C1468",8,2,2,"M","Sodium formate",7
+"C1469",8,1,0.1,"M","Tris",8.5
+"C1469",8,2,2,"M","Sodium formate",8.5
+"C1470",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1470",8,2,3.5,"M","Sodium formate",4.6
+"C1471",8,1,0.1,"M","Bis-Tris Propane",7
+"C1471",8,2,3.5,"M","Sodium formate",7
+"C1472",8,1,0.1,"M","Tris",8.5
+"C1472",8,2,3.5,"M","Sodium formate",8.5
+"C1473",8,1,0.1,"M","Bis-Tris Propane",7
+"C1473",8,2,1.2,"M","DL-Malic acid",7
+"C1474",8,1,0.1,"M","Bis-Tris Propane",7
+"C1474",8,2,2.2,"M","DL-Malic acid",7
+"C1475",8,1,0.1,"M","Bis-Tris Propane",7
+"C1475",8,2,1.4,"M","Sodium Malonate",7
+"C1476",8,1,0.1,"M","Bis-Tris Propane",7
+"C1476",8,2,2.4,"M","Sodium Malonate",7
+"C1477",8,1,2.5,"M","Ammonium nitrate",4.6
+"C1477",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1478",8,1,2.5,"M","Ammonium nitrate",7
+"C1478",8,2,0.1,"M","Bis-Tris Propane",7
+"C1479",8,1,2.5,"M","Ammonium nitrate",8.5
+"C1479",8,2,0.1,"M","Tris",8.5
+"C1480",8,1,6,"M","Ammonium nitrate",4.6
+"C1480",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1481",8,1,6,"M","Ammonium nitrate",7
+"C1481",8,2,0.1,"M","Bis-Tris Propane",7
+"C1482",8,1,6,"M","Ammonium nitrate",8.5
+"C1482",8,2,0.1,"M","Tris",8.5
+"C1483",8,1,1.5,"M","Sodium nitrate",4.6
+"C1483",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1484",8,1,1.5,"M","Sodium nitrate",7
+"C1484",8,2,0.1,"M","Bis-Tris Propane",7
+"C1485",8,1,1.5,"M","Sodium nitrate",8.5
+"C1485",8,2,0.1,"M","Tris",8.5
+"C1486",8,1,4,"M","Sodium nitrate",4.6
+"C1486",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1487",8,1,4,"M","Sodium nitrate",7
+"C1487",8,2,0.1,"M","Bis-Tris Propane",7
+"C1488",8,1,4,"M","Sodium nitrate",8.5
+"C1488",8,2,0.1,"M","Tris",8.5
+"C1489",8,1,1,"M","Ammonium phosphate monobasic",4.6
+"C1489",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1490",8,1,1.8,"M","Ammonium phosphate monobasic",4.6
+"C1490",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1491",8,1,1.5,"M","Ammonium phosphate dibasic",8.5
+"C1491",8,2,0.1,"M","Tris",8.5
+"C1492",8,1,2.4,"M","Ammonium phosphate dibasic",8.5
+"C1492",8,2,0.1,"M","Tris",8.5
+"C1493",8,1,0.02,"M","Potassium phosphate dibasic anhydrous",5
+"C1493",8,2,0.98,"M","Sodium phosphate monobasic monohydrate",5
+"C1494",8,1,0.65,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1494",8,2,0.35,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1495",8,1,0.96,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1495",8,2,0.04,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1496",8,1,0.04,"M","Potassium phosphate dibasic anhydrous",5
+"C1496",8,2,1.76,"M","Sodium phosphate monobasic monohydrate",5
+"C1497",8,1,1.17,"M","Potassium phosphate dibasic anhydrous",6.9
+"C1497",8,2,0.63,"M","Sodium phosphate monobasic monohydrate",6.9
+"C1498",8,1,1.73,"M","Potassium phosphate dibasic anhydrous",8.2
+"C1498",8,2,0.07,"M","Sodium phosphate monobasic monohydrate",8.2
+"C1499",8,1,0.1,"M","Bis-Tris Propane",7
+"C1499",8,2,0.5,"M","Sodium Succinate",7
+"C1500",8,1,0.1,"M","Bis-Tris Propane",7
+"C1500",8,2,1,"M","Sodium Succinate",7
+"C1501",8,1,1.5,"M","Ammonium sulfate",4.6
+"C1501",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1502",8,1,1.5,"M","Ammonium sulfate",7
+"C1502",8,2,0.1,"M","Bis-Tris Propane",7
+"C1503",8,1,1.5,"M","Ammonium sulfate",8.5
+"C1503",8,2,0.1,"M","Tris",8.5
+"C1504",8,1,2.5,"M","Ammonium sulfate",4.6
+"C1504",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1505",8,1,2.5,"M","Ammonium sulfate",7
+"C1505",8,2,0.1,"M","Bis-Tris Propane",7
+"C1506",8,1,2.5,"M","Ammonium sulfate",8.5
+"C1506",8,2,0.1,"M","Tris",8.5
+"C1507",8,1,0.8,"M","Lithium sulfate monohydrate",4.6
+"C1507",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1508",8,1,0.8,"M","Lithium sulfate monohydrate",7
+"C1508",8,2,0.1,"M","Bis-Tris Propane",7
+"C1509",8,1,0.8,"M","Lithium sulfate monohydrate",8.5
+"C1509",8,2,0.1,"M","Tris",8.5
+"C1510",8,1,1.5,"M","Lithium sulfate monohydrate",4.6
+"C1510",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1511",8,1,1.5,"M","Lithium sulfate monohydrate",7
+"C1511",8,2,0.1,"M","Bis-Tris Propane",7
+"C1512",8,1,1.5,"M","Lithium sulfate monohydrate",8.5
+"C1512",8,2,0.1,"M","Tris",8.5
+"C1513",8,1,1,"M","Magnesium sulfate heptahydrate",4.6
+"C1513",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1514",8,1,1,"M","Magnesium sulfate heptahydrate",7
+"C1514",8,2,0.1,"M","Bis-Tris Propane",7
+"C1515",8,1,1,"M","Magnesium sulfate heptahydrate",8.5
+"C1515",8,2,0.1,"M","Tris",8.5
+"C1516",8,1,1.8,"M","Magnesium sulfate heptahydrate",4.6
+"C1516",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1517",8,1,1.8,"M","Magnesium sulfate heptahydrate",7
+"C1517",8,2,0.1,"M","Bis-Tris Propane",7
+"C1518",8,1,1.8,"M","Magnesium sulfate heptahydrate",8.5
+"C1518",8,2,0.1,"M","Tris",8.5
+"C1519",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1519",8,2,0.7,"M","di-Ammonium Tartrate",4.6
+"C1520",8,1,0.1,"M","Bis-Tris Propane",7
+"C1520",8,2,0.7,"M","di-Ammonium Tartrate",7
+"C1521",8,1,0.1,"M","Tris",8.5
+"C1521",8,2,0.7,"M","di-Ammonium Tartrate",8.5
+"C1522",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1522",8,2,1.1,"M","di-Ammonium Tartrate",4.6
+"C1523",8,1,0.1,"M","Bis-Tris Propane",7
+"C1523",8,2,1.3,"M","di-Ammonium Tartrate",7
+"C1524",8,1,0.1,"M","Tris",8.5
+"C1524",8,2,1.4,"M","di-Ammonium Tartrate",8.5
+"C1525",8,1,0.6,"M","Potassium sodium tartrate tetrahydrate",7
+"C1525",8,2,0.1,"M","Bis-Tris Propane",7
+"C1526",8,1,1.2,"M","Potassium sodium tartrate tetrahydrate",7
+"C1526",8,2,0.1,"M","Bis-Tris Propane",7
+"C1527",8,1,0.1,"M","Tris",8.5
+"C1527",8,2,0.6,"M","Potassium sodium tartrate tetrahydrate",8.5
+"C1528",8,1,0.1,"M","Tris",8.5
+"C1528",8,2,1.2,"M","Potassium sodium tartrate tetrahydrate",8.5
+"C1529",8,1,0.5,"M","Potassium thiocyanate",4.6
+"C1529",8,2,0.1,"M","Sodium acetate trihydrate",4.6
+"C1530",8,1,0.5,"M","Potassium thiocyanate",7
+"C1530",8,2,0.1,"M","Bis-Tris Propane",7
+"C1531",8,1,0.5,"M","Potassium thiocyanate",8.5
+"C1531",8,2,0.1,"M","Tris",8.5
+"C1532",8,1,0.1,"M","Sodium acetate trihydrate",4.6
+"C1532",8,2,4,"M","Ammonium acetate",4.6
+"C1533",8,1,4,"M","Ammonium acetate",7
+"C1533",8,2,0.1,"M","Bis-Tris Propane",7
+"C1534",8,1,0.1,"M","Tris",8.5
+"C1534",8,2,4,"M","Ammonium acetate",8.5
+"C1535",8,1,0.1,"M","Bis-Tris Propane",7
+"C1535",8,2,35,"% (v/v)","Tacsimate",7
+"C1536",8,1,0.1,"M","Bis-Tris Propane",7
+"C1536",8,2,60,"% (v/v)","Tacsimate",7
