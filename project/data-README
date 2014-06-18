@@ -1,15 +1,11 @@
 HWI Crystallization Dataset README
 
-This file will (hopefully) help break down the data into easier terms to understand.
-It summarizes the column names and their contents for the data frames that form our 
+This file summarizes the column names and their contents for the data frames that form our 
 workshop project dataset.
-
 
 ---------------------------------Experiment data------------------------------------
 
 The experiment data frame describes the crystallization experiments.
-
-
 
 -sample_id: 	13 distinct values that identify the proteins.
 -plate_no: 	Another set of 13 distinct values that identify proteins.
@@ -32,17 +28,11 @@ The experiment data frame describes the crystallization experiments.
 Total number of experiments in our dataset:
 	13(proteins) x 1536(cocktails) x 2(weeks) = 39936 experiments
 
-Imagine sitting down and classifying them all yourself!
-
-
+    Imagine sitting down and classifying them all yourself!
 
 -----------------------------------Sample data--------------------------------------
 
-
-
 The sample data frame describes the 13 proteins used in the experiments:
-
-
 
 -sample_id
 -p_number
@@ -51,7 +41,6 @@ The sample data frame describes the 13 proteins used in the experiments:
 -targetdb_status
 
 All of the above are ways to identify each individual protein. 
-
 
 -experimental_molecular_weight: molecular weight of the specific protein.
 -concentration: 	what is the concentration of the protein in each 
@@ -65,13 +54,7 @@ All of the above are ways to identify each individual protein.
 		Protein Data Bank on rscb.org will pull up that specific 
 		protein and its properties.
 
-
-
-
-
 -------------------------------------Drop data--------------------------------------
-
-
 
 The drop data frame describes the components of the chemical cocktails:
 
@@ -90,36 +73,11 @@ cocktail_no + solution_component_no provides a unique identifier for a given rec
 This data frame contains 3930 records, since the chemical cocktails contain at
 least 2 (and up to 6) components.
 
-
 ------------------------------------expURL data-------------------------------------
-
 
 The expUrl data frame contains urls that show what each crystallization experiment 
 (with unique protein, cocktail, and time period) looks like at the given time interval.
 
 -read_no: 	identifies the specific experiment
 -image_url:	URL of the experiment image
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

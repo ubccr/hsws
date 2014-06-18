@@ -165,12 +165,15 @@ compareDensityPlots(neg, pos)
 
 # 7. ROC curve
 
-# Compute a ROC curve of the classification results using the pROC R library. 
+# Compute a ROC curve of the classification results using the Epi R library. 
 
-# First, compute a ROC object with a roc() call, then plot the ROC curve by passing the ROC 
-# object to plot.roc(). In your plot, try specifying the print.auc and print.thresh parameters. 
-# What do these do? Does the threshold that roc() computes agree with your conclusions from the 
-# kernel density comparison plots?
+# Compute and plot the ROC curve with a ROC() call.  
+#
+# In your plot, try specifying the PV=TRUE and AUC=TRUE parameters and set cuts equal to your
+# cutpoint vector. Set MI and MX FALSE and try setting grid. Add a useful title.
+#
+# What do these parameters do? Does the threshold that roc() computes agree with your 
+# conclusions from the kernel density comparison plots?
 
 # ANALYSIS:
 # Make some remarks about the overall performance of the classifier, based on the ROC curve

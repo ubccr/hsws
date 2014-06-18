@@ -29,15 +29,16 @@
 # x[ x< -2 | x > 2]             # return elements bigger than or less than some values (the value is 2) 
 # which(x == max(x))            # return index that corresponds to the largest value
 
-# Use the constructions above to find the following for the vector x: 
+# define the vector x by running the following line:
 x = c(313, 284, 311, 280, 322, 324, 302)
 
+# Use the constructions above to find the following for the vector x: 
 #   a. All but elements 2, 6, and 7 of x
 #   b. The last 2 elements of x
 #   c. All elements of x that are less than 290
 #   d. The index of x that corresponds to the smallest value
-#   e. The value of element x[10]
-#   f. x[-10]
+#   e. The value of element x[10]. What does it mean?
+#   f. x[-10]. What does it mean?
 
 # --------------------------------
 
@@ -51,11 +52,9 @@ w = c("red", "orange", "green")
 # c. Create a vector x, containing the two vectors y and w.
 # Hint: use the c() function to make a vector of vectors.	
 
-# d. What is the type of x? Why? Hint: Use class() to find the type. 
+# d. What is the type of each vector: w, y, and x? Why does x have this type? 
+# Hint: Use class() to find the types. 
 #
-# x's datatype is character; since a vector can contain only a single datatype, the numeric values 
-# were changed into (coerced to) character strings when the vectors were combined.
-
 # -------------------------------
 
 # III. survey and NA Data Frame exercise

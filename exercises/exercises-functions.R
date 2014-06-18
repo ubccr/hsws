@@ -96,13 +96,11 @@ library(MASS) # loads the dataset called "mammals"
 
 # 4. apply() functions
 #
-# The apply() family of functions can be used to call some other function multiple times, and in doing
-# so call it with several different arguments. In this exercise we will explore the use of the
-# sapply() function. We will use it to call several R functions on a predefined dataset, and
-# look at the output.
+# The apply() family of functions can be used to call some other function multiple times, with several 
+# different arguments. In this exercise we will explore the use of the sapply() function. We will use 
+# it to call several R functions on a predefined dataset, and then look at the output.
 
-# Consider that you can use the apply() family on a native R function, or equally on a function you wrote 
-# yourself.
+# You can use the apply() family on a native R function, on a function you wrote yourself.
 
 # a. First, create the sample dataset of US car data by running the following:
 data(car.test.frame, package = "rpart")
@@ -122,10 +120,74 @@ US = US[ ,c(1,4,6:8)]                                   # Only use specified col
 
 # ------------------------------
 
+# 5. Variable scope
+
+# The scope of a variable is the context in which it is defined. This exercise provides a 
+# demonstration to help you explore variable scope.
+
+# ----
+
+# a. Clear your workspace, then highlight and source the following definitions of x and x_function:
+
+x = "x is a global variable."
+
+x_function = function(){
+  return(x)
+}
+
+# Here, x is a globally defined variable. Print the value of x, and print the output of the function named x_function.
+# What do you expect?
+
+# HINT: you can use
+# print(x)
+# and
+# print (x_function() )
+#
+# Notice the difference between printing the function definition:
+x_function
+# and printing the function's output by specifying parentheses:
+x_function()
+# In this exercise, you should do the latter, to call the function and display its output.
+
+# Based on the outputs you see, what do you conclude about global variables? Are you surprised by the output of x_function?
+# What did you expect to see?
+
+# ----
+
+# b. Highlight and source the following definition of y_function:
+y_function = function(){
+  y = "y is a local variable."
+  return(y)
+}
+
+# Here, y is a locally defined variable. Print the value of y, and print the output of the function named y_function.
+# What do you expect?
+
+# What were the outputs for y and y_function()? Based on that, what can you conclude about local variables?
+
+# ----
+
+# b. Highlight and source the following definitions of z and z_function:
+
+z = "z is a global variable."
+
+z_function = function(){
+  z = "Override"
+  return(z)
+}
+
+# Here, z is a globally defined variable. Print the value of z, and print the output of the function named z_function.
+# What do you expect?
+
+# What were the outputs for z and z_function()? What happened? Can you explain why?
+# Is there a danger associated with using global variables?
+
+# ------------------------------
+
 # Function exercise in the survey dataset:
 # =====================================================
 
-# 5. In the survey dataset, convert all heights to inches ("Imperial") from Metric.
+# 6. In the survey dataset, convert all heights to inches ("Imperial") from Metric.
 
 # Import the excerpted survey data frame by running the following load code:
 
@@ -173,7 +235,7 @@ s = loadS(survey);
 
 # -------------------------------------------------------------------
 
-# 6. Advanced Demo: Convert all heights in the data frame to inches ("Imperial") from Metric.
+# 7. Demo: Convert all heights in the data frame to inches ("Imperial") from Metric.
 # one inch = 2.54 cm
 #
 # Implemented as a demo: look over it, play with it, understand it!
@@ -206,12 +268,12 @@ sImp1 = convertToImperialR(s)
 
 # -------------------------------------------------------------------
 
-# 7. Use the summary() function to find the mean and range for Height,
+# 8. Use the summary() function to find the mean and range for Height,
 #   using the new, converted Imperial ("inches") dataset.
 
 # -------------------------------------------------------------------
 
-# 8. Extra credit
+# 9. Perform conversions
 
 # Adapt the existing function to accept a second
 # argument, Metric or Imperial. If "Imperial" is passed,

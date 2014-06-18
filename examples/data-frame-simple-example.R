@@ -1,11 +1,11 @@
 # simple data frame example
 # -------------------------
 
-# label             Height		 weight	 age	 hand
-# ----------        ------     ------  ---   -----
-# subject A			 		 	 68 			 	120	  16			L
-# subject B		 		 		 75		 	 	 	160	  17			R	
-# subject C		 		 		 60		 	 	 	118	  16			R	
+# label             height      weight  age     hand
+# ----------        ------      ------  ---     -----
+# subject A         68             120  16		L
+# subject B         75             160  17		R	
+# subject C         60             118  16		R	
 
 # construct vectors of data for inclusion in data frame.
 # Order counts! vec[1] describes subject A, etc.

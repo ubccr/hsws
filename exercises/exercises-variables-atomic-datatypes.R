@@ -6,9 +6,11 @@
 # Save the file. Then you'll have a record of how you solved the exercises.
 
 # TIPS:
-# 	Use comments (#) in your code, if you need to explain anything.
-# 	Remember that R is case-sensitive.
-# 	Use ?<command> in the console to access help on commands or functions
+# 	- Use comments (#) in your code, if you need to explain anything.
+# 	- R is case-sensitive.
+# 	- Type ?<command-name> in the console to access help on an R command
+#   - Highlight code you want to run, then click "Run" at the top right of this pane to see the result.
+#   - To clear all variables in the workspace, click the broom icon in the Workspace pane.ns
 
 # ---------------------------------
 
