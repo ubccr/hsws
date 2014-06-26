@@ -167,7 +167,8 @@ compareDensityPlots(neg, pos)
 
 # Compute a ROC curve of the classification results using the Epi R library. 
 
-# Compute and plot the ROC curve with a ROC() call.  
+# Compute and plot the ROC curve with a call to the Epi library ROC() function.
+# Load the library and check the documentation for this function.
 #
 # In your plot, try specifying the PV=TRUE and AUC=TRUE parameters and set cuts equal to your
 # cutpoint vector. Set MI and MX FALSE and try setting grid. Add a useful title.
