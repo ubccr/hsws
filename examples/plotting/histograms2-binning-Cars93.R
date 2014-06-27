@@ -1,25 +1,37 @@
 # histogram2-binning-Cars93.R
 #
-# histograms continued: exploring histogram binning
-
-library(MASS)
-cr = Cars93
-
-# ---------------------------------------------------------------
-# histogram: how many examples in the dataset fall into each "bin"
-#   of a fixed size. This lets us look at the distribution of one
-#   variable in the dataset at a time.
+# Histograms continued: exploring histogram binning.
 #
-#   - y axis shows the counts in a given "bin". R does the computation.
+# We'll use functions and lapply() calls to experiment with 
+# explicit binning for plotting histograms.
+
+# ----------------------------- histograms -----------------------------
+#
+# histogram: determine how many examples in the dataset fall into each "bin"
+#   of a fixed size. This lets us look at the distribution of one variable 
+#   in the dataset at a time.
+#    
+#   A call to hist() computes the distribution and plots the result.
+#
+#   - y axis shows the computed counts in a given "bin". 
 #   - x axis must have numeric values. Otherwise you see errors like this:
 #       > hist(cr$Origin)
 #       Error in hist.default(cr$Origin) : 'x' must be numeric
-#     To get numeric values, compute the contingency table.
 #
-#   - ** figure out sensible bin counts (or use R defaults) ** 
+#     To get numeric values, compute the contingency table first
+#
+#   - You can use R defaults for bin size, or specify the "breaks" 
+#       parameter for a specific # bins.
+#
+#   - hist() provides a default title, which you can override with main()
+#
 # ---------------------------------------------------------------
 
-# ---- histograms and RPM data ----
+# load the Cars93 dataset
+library(MASS)
+cr = Cars93
+
+# ---- histograms and auto RPM data ----
 
 # RPM for the Cars93 dataset (revs per minute at maximum horsepower).
 xname="engine RPM"
@@ -80,6 +92,9 @@ lapply(binvec,rpmHist)
 
 # set plots per page back to default:
 par(mfrow=c(1,1), pch=1)
+
+# Which bin size seems most useful to you? Is more bins always better?
+# How did the default binning algorithm perform, in your opinion?
 
 # --------- a more general bin size experiment: ----------
 

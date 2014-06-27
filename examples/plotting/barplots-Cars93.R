@@ -40,11 +40,15 @@ barplot(counts,
         ylab="car count from Cars93 dataset",
         col=colors)
 
-# Auto Type barplot
+#--- Auto Type barplot ---
+
+# This command orders the Type alphabetically (not too meaningful):
 #counts=table(cr$Type) 
-# better: order Type by Weight:
+
+# Better: order the Type by Weight, then create the contingency table:
 type=reorder(cr$Type,cr$Weight)
 counts=table(type) 
+
 colors=rainbow(length(counts))        
 title="Cars93 Car Distribution by Vehicle Type"
 barplot(counts, 
@@ -53,7 +57,8 @@ barplot(counts,
         ylab="car count from Cars93 dataset",
         col=colors)        
 
-# Manufacturer
+#--- Auto Manufacturer barplot ---
+
 counts=table(cr$Manufacturer) 
 colors=rainbow(length(counts))      
 title="Cars93 Car Distribution by Vehicle Manufacturer"  
@@ -65,12 +70,13 @@ barplot(counts,
         ylab="car count from Cars93 dataset",
         col=colors)    
         
-# ---------- barplots on combination of variables: contingency table --------------
+# ---------- Barplots on a combination of variables --------------
 
-# Now combine them into a contingency table! 
+# Now combine the variables to plot into a contingency table! 
         
-# Transmission Type and Vehicle Type        
-# order Type by Weight first:
+# --- Barplot on Transmission Type and Vehicle Type ---
+
+# As before, order Type by Weight first:
 type=reorder(cr$Type,cr$Weight)
 counts=table(cr$Man.trans.avail, type) 
 title="Cars93 Car Distribution by Vehicle Type and Manual Transmission Available"
@@ -81,24 +87,28 @@ barplot(counts,
         col=c("red","darkblue"),
         #legend=levels(cr$Man.trans.avail) # to specify legend in barplot call
         )
-legend(x="topright",                # location for legend
-       title="Man. Trans. Available?",   # title for legend
-       levels(cr$Man.trans.avail),               # names in legend
-       bty="n",                                  # box type to draw around legend
-       fill=c("red","darkblue"))                 # colors for legend
+
+legend(x="topright",                        # location for legend
+       title="Man. Trans. Available?",      # title for legend
+       levels(cr$Man.trans.avail),          # names in legend
+       bty="n",                             # box type to draw around legend
+       fill=c("red","darkblue"))            # colors for legend
                  
         
-# Passengers and Vehicle Type        
-# order Type by Weight first:
+# --- Barplot on Passengers and Vehicle Type ---
+
+# Order Type by Weight first:
 type=reorder(cr$Type,cr$Weight)
 counts=table(cr$Passengers, type) 
+
 title="Cars93 Car Distribution by Vehicle Type and Max. Passengers"
 barplot(counts, 
 		main=title,
         xlab="Vehicle Type", 
         ylab="car count from Cars93 dataset",
         col=rainbow(length(table(cr$Passengers))))
-        #legend=levels(factor(cr$Passengers)))       
+        #legend=levels(factor(cr$Passengers))) 
+
 legend(x="topright",                      # location for legend
        title="Max # Passengers",          # title for legend
        levels(factor(cr$Passengers)),     # names in legend

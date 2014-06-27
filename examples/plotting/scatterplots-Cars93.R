@@ -4,12 +4,13 @@
 # Create a scatterplot to investigate relationships between
 # numeric variables in your dataset.
 
+# load the Cars93 dataset
 library(MASS)
 cr = Cars93
 
 # ------- Vehicle weight and highway MPG -------
 
-# Note that R labels the axes from the column names:
+# Note that R automatically labels the axes from the column names:
 
 # MPG.highway~weight is: MPG.highway vs. weight
 plot(formula=MPG.highway~Weight, 
@@ -102,13 +103,13 @@ par(mfrow=c(1,1), pch=1) # default plot appearance
 
 # # ------------------ Wheelbase vs. Length scatter plot ------------------
 # 
-# # scatter plots. Note that R labels the axes for you here:
-# 
+# par(mfrow=c(1,2)) 
+#
 # # Wheelbase vs. Length, with regression line:
 # plot(Wheelbase~Length, data=cr)
 # title("Vehicle Wheelbase (in) by Length (in)")
 # 
-# # create and draw regression line:
+# # create and plot the regression line:
 # fit2=lm(cr$Wheelbase~cr$Length)
 # abline(fit2,col="purple")
 
@@ -116,9 +117,14 @@ par(mfrow=c(1,1), pch=1) # default plot appearance
 # 
 # # Let's look at the residuals, the difference between the fitted
 # # values (expected by the linear model) and the real values.
+# 
+# #  What does the correllation between these two values tell you?
+# #  Call the cor() function to find out.
+#
 # resid=resid(fit2)
 # plot(cr$Length, resid,
 #      ylab="Residuals",
 #      xlab="Vehicle Length",
 #      main="Residuals: Vehicle Wheelbase with Length")
 # abline(0,0) # the horizon line
+# par(mfrow=c(1,1)) 

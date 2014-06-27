@@ -60,9 +60,9 @@ par(mfrow=c(1,1)) # restore default: one plot per page
 
 # wow, which cars do better than 40 MPG in the city?
 #
-# cr[cr$MPG.city>40,
-#        c("Make","MPG.city","MPG.highway","Weight","Passengers")]
-#
+cr[cr$MPG.city>40,
+        c("Make","MPG.city","MPG.highway","Weight","Passengers")]
+
 #Make MPG.city MPG.highway Weight Passengers
 #39   Geo Metro       46          50   1695          4
 #42 Honda Civic       42          46   2350          4
@@ -181,64 +181,64 @@ title("Vehicle Wheelbase with Manufacturer")
 par(mfrow=c(1,1))
 
 # ------------------- Extra explorations... --------------
-# # Question: what's the story with some of these wheelbases? 
-# # Ford, for instance, has a huge range. Let's look:
-#
-# ford=cr[cr$Manufacturer=="Ford",]
-# summary(ford$Wheelbase)
-# # Ford wheelbases really do range from 90 to 114 inches!
-# # 
-# # # calling factor() enables us to strip unused levels from Make and Type variables
-# # # refer here, use the factor() call to lose extra levels.
-# # # http://www.r-bloggers.com/drop-unused-factor-levels/
-# ford <- data.frame(factor(ford$Make), 
-#                   factor(ford$Type), 
-#                   factor(ford$Model),
-#                   ford$Wheelbase) 
-# summary(ford)
-# #     factor.ford.Make. factor.ford.Type. ford.Wheelbase ...
-# # 1        Ford Festiva             Small             90
-# # 2         Ford Escort             Small             98
-# # 3          Ford Tempo           Compact            100
-# # 4        Ford Mustang            Sporty            101
-# # 5          Ford Probe            Sporty            103
-# # 6       Ford Aerostar               Van            119
-# # 7         Ford Taurus           Midsize            106
-# # 8 Ford Crown_Victoria             Large            114
+# Question: what's the story with some of these wheelbases? 
+# Ford, for instance, has a huge range. Let's look:
+
+ford=cr[cr$Manufacturer=="Ford",]
+summary(ford$Wheelbase)
+# Ford wheelbases really do range from 90 to 114 inches!
 # 
-# # here's another way to do the same subsetting operation, with better control of column names:
-# # # refer here, use the factor() call to lose extra levels.
-# # # http://www.r-bloggers.com/drop-unused-factor-levels/
-# model=factor(cr[cr$Manufacturer=="Ford","Model"])   # was a factor
-# type=factor(cr[cr$Manufacturer=="Ford","Type"])   # was a factor
-# wheelbase=cr[cr$Manufacturer=="Ford","Wheelbase"] # was an int
-# 
-# # here we could make a data frame containing whatever we want:
-# # ford = data.frame(model, type, wheelbase)
-# 
-# # here's a Ford Wheelbase boxplot with Type:
-# par(mfrow=c(1,2))
-# 
-# colors=rainbow(length(levels(type)))
-# mw=reorder(type,wheelbase)
-# boxplot(formula=wheelbase~mw, 
-#         data=cr, 
-#         xlab=xl, 
-#         ylab="Wheelbase in Inches",
-#         col=colors)
-# title("Ford Vehicle Wheelbase with Type")
-# 
-# # with Model, it's still essentially a boxplot, since x is categorical:
-# mw=reorder(model,wheelbase)
-# plot(formula=wheelbase~mw, 
-#         data=cr, 
-#         xlab="Ford Model", 
-#         cex.axis=0.8,
-#         las=2,     
-#         ylab="Wheelbase in Inches",
-#         pch=1) # pch gets ignored
-# title("Ford Vehicle Wheelbase with Model")
-# par(mfrow=c(1,1))
+# # calling factor() enables us to strip unused levels from Make and Type variables
+# # refer here, use the factor() call to lose extra levels.
+# # http://www.r-bloggers.com/drop-unused-factor-levels/
+ford <- data.frame(factor(ford$Make), 
+                  factor(ford$Type), 
+                  factor(ford$Model),
+                  ford$Wheelbase) 
+summary(ford)
+#     factor.ford.Make. factor.ford.Type. ford.Wheelbase ...
+# 1        Ford Festiva             Small             90
+# 2         Ford Escort             Small             98
+# 3          Ford Tempo           Compact            100
+# 4        Ford Mustang            Sporty            101
+# 5          Ford Probe            Sporty            103
+# 6       Ford Aerostar               Van            119
+# 7         Ford Taurus           Midsize            106
+# 8 Ford Crown_Victoria             Large            114
+
+# here's another way to do the same subsetting operation, with better control of column names:
+# # refer here, use the factor() call to lose extra levels.
+# # http://www.r-bloggers.com/drop-unused-factor-levels/
+model=factor(cr[cr$Manufacturer=="Ford","Model"])   # was a factor
+type=factor(cr[cr$Manufacturer=="Ford","Type"])   # was a factor
+wheelbase=cr[cr$Manufacturer=="Ford","Wheelbase"] # was an int
+
+# here we could make a data frame containing whatever we want:
+# ford = data.frame(model, type, wheelbase)
+
+# here's a Ford Wheelbase boxplot with Type:
+par(mfrow=c(1,2))
+
+colors=rainbow(length(levels(type)))
+mw=reorder(type,wheelbase)
+boxplot(formula=wheelbase~mw, 
+        data=cr, 
+        xlab=xl, 
+        ylab="Wheelbase in Inches",
+        col=colors)
+title("Ford Vehicle Wheelbase with Type")
+
+# with Model, it's still essentially a boxplot, since x is categorical:
+mw=reorder(model,wheelbase)
+plot(formula=wheelbase~mw, 
+        data=cr, 
+        xlab="Ford Model", 
+        cex.axis=0.8,
+        las=2,     
+        ylab="Wheelbase in Inches",
+        pch=1) # pch gets ignored
+title("Ford Vehicle Wheelbase with Model")
+par(mfrow=c(1,1))
 
 # -------- Extra stuff: Violin Plot ----------
 
@@ -247,17 +247,17 @@ par(mfrow=c(1,1))
 # density plot to each side of the box plot.
 
 # Here is a violin plot of Weight and Type.
-# library(vioplot)
-# x1 <- cr$Weight[cr$Type=="Small"]
-# x2 <- cr$Weight[cr$Type=="Sporty"]
-# x3 <- cr$Weight[cr$Type=="Compact"]
-# x4 <- cr$Weight[cr$Type=="Midsize"]
-# x5 <- cr$Weight[cr$Type=="Large"]
-# x6 <- cr$Weight[cr$Type=="Van"]
-# vioplot(x1,  x2,  x3, x4, x5, x6, names=levels(cr$Type),
-#         col="blue")
-# title("Violin Plots: Vehicle MPG City and Highway")
-# detach("package:vioplot", unload=TRUE)
+library(vioplot)
+x1 <- cr$Weight[cr$Type=="Small"]
+x2 <- cr$Weight[cr$Type=="Sporty"]
+x3 <- cr$Weight[cr$Type=="Compact"]
+x4 <- cr$Weight[cr$Type=="Midsize"]
+x5 <- cr$Weight[cr$Type=="Large"]
+x6 <- cr$Weight[cr$Type=="Van"]
+vioplot(x1,  x2,  x3, x4, x5, x6, names=levels(cr$Type),
+        col="blue")
+title("Violin Plots: Vehicle MPG City and Highway")
+detach("package:vioplot", unload=TRUE)
 
 
 

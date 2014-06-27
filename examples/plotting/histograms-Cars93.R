@@ -1,64 +1,70 @@
 # histogram-Cars93.R
 
-library(MASS)
-cr = Cars93
-
-# ---------------------------------------------------------------
-# histogram: how many examples in the dataset fall into each "bin"
-#   of a fixed size. This lets us look at the distribution of one
-#   variable in the dataset at a time.
+# ----------------------------- histograms -----------------------------
 #
-#   - y axis shows the counts in a given "bin". R does the computation.
+# histogram: determine how many examples in the dataset fall into each "bin"
+#   of a fixed size. This lets us look at the distribution of one variable 
+#   in the dataset at a time.
+#    
+#   A call to hist() computes the distribution and plots the result.
+#
+#   - y axis shows the computed counts in a given "bin". 
 #   - x axis must have numeric values. Otherwise you see errors like this:
 #       > hist(cr$Origin)
 #       Error in hist.default(cr$Origin) : 'x' must be numeric
-#     To get numeric values, compute the contingency table.
 #
-#   - can use R defaults for bin size, which we do here, or specify
-#       "breaks" parameter to ask for specific # bins
-# ---------------------------------------------------------------
+#     To get numeric values, compute the contingency table first
+#
+#   - You can use R defaults for bin size, or specify the "breaks" 
+#       parameter for a specific # bins.
+#
+#   - hist() provides a default title, which you can override with main()
+# ----------------------------------------------------------------------
 
-# ---- histograms and RPM data ----
+# load the Cars93 dataset
+library(MASS)
+cr = Cars93
 
-# RPM for the Cars93 dataset (revs per minute at maximum horsepower).
+# --- RPM for the Cars93 dataset (revs per minute at maximum horsepower). ---
 
 # what can we say about the RPM column in our dataset?
 table(cr$RPM)
 summary(cr$RPM)
 
-# extract the RPM data into a vector
-rpms = cr$RPM
-xname="engine RPM"
+# ---- by default: histograms and RPM data ----
 
-# default bin algorithm is used in this plot:
-hist(rpms, 
+# Default bin algorithm is used in this plot of auto RPM data. 
+# Note use of main() to override the default title.
+xname="engine RPM"
+hist(cr$RPM, 
      xlab=xname, 
      main=paste("histogram of",xname,"default binning"),
      col="grey")
 
-# ----- Compare histograms to kernel density plots: --------
+# ----- Compare histograms to kernel density plots, and try binning: --------
 
-# Horsepower
-# using the "breaks" parameter to ask for an approximate # of bins
+# -- Horsepower --
+# using the "breaks" parameter to specify an approximate # of bins
 par(mfrow=c(1,3)) # put three plots on one "page"
-hist(cr$Horsepower, xlab="Max Horsepower", col="green", breaks=15) # col 13; breaks 15 or 18
+hist(cr$Horsepower, xlab="Max Horsepower", col="green", breaks=15) # breaks 15 or 18
 hist(cr$Horsepower, col="green")
 plot(density(cr$Horsepower))
 
-# Wheelbase
+# -- Wheelbase --
 par(mfrow=c(1,3))
-hist(cr$Wheelbase, xlab="Vehicle Wheelbase/in.", col="orange", breaks=10) # 20; breaks 10 or 12
-hist(cr$Wheelbase, xlab="Vehicle Wheelbase/in.", col="orange", breaks=12) # 20; breaks 10 or 12
+hist(cr$Wheelbase, xlab="Vehicle Wheelbase/in.", col="orange", breaks=10) #  same as default
+hist(cr$Wheelbase, xlab="Vehicle Wheelbase/in.", col="orange", breaks=12) # breaks 10 or 12
 plot(density(cr$Wheelbase))
 
-# Engine Size (displacement)
+# -- Engine Size (displacement) --
 par(mfrow=c(1,2))
-hist(cr$EngineSize, xlab="Engine Size/liters", col="blue", breaks=15) # col 12; breaks 12
+hist(cr$EngineSize, xlab="Engine Size/liters", col="blue", breaks=15) # breaks 12
 plot(density(cr$EngineSize))
 
-# Vehicle Length
-hist(cr$Length, xlab="Vehicle Length/in.", col="yellow", breaks=10) # 19; breaks 10 or 12
+# -- Vehicle Length --
+hist(cr$Length, xlab="Vehicle Length/in.", col="yellow", breaks=10) # breaks 10 or 12
 plot(density(cr$Length))
+
 par(mfrow=c(1,1)) # restore default: one plot per page
 
 
