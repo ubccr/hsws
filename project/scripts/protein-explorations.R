@@ -113,6 +113,7 @@
 # Create a scatterplot of experimental_molecular_weight vs. seq_len for the 13 proteins
 # in our dataset.
 # Make and plot a 'linear model'. Does it look like a linear relationship?
+# What do the residuals from this linear fit look like? Plot them.
 
 # Determine the correlation of seq_len and experimental_molecular_weight.
 # Why do you think these values are related?
@@ -132,6 +133,8 @@
 
 # Now plot the derived MW against the experimental MW, plot a linear fit, 
 # and compute the correlation.
+# What do the residuals from this linear fit look like? Plot them.
+
 # Do you conclude that this is a reasonable approximation?
 
 
