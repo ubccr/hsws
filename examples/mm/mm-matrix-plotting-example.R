@@ -186,3 +186,5 @@ for (i in 1:9) {
           main=paste("Sample #",i, ":", sum(mm[i,]), "M&Ms"))  # main title
 }
 
+# restore default: one plot per page
+par(mfrow=c(1,1))
