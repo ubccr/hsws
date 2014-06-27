@@ -36,7 +36,7 @@ dim(data)
 
 
 # index into the data frame:
-print(data$A) # all information about subject A
+print(data["A",]) # all information about subject A
 
 print(data$Height) # all heights in the dataset
 
@@ -44,3 +44,32 @@ print(data$Height) # all heights in the dataset
 print(summary(data$Height))
 
 print(summary(data$Age))
+
+# --- What kind of errors might we see if we ask for the wrong thing, the wrong way? ---
+
+# Let's try to specify a row using column-access notation:
+data$A
+#[1] 16 17 16
+#Warning message:
+#  In `$.data.frame`(data, A) : Name partially matched in data frame
+
+# notice the partial match is to the column "Age".
+
+# ----
+
+# now we'll get it wrong another way: switch rows and columns:
+data[,"A"]
+#
+# Error in `[.data.frame`(data, , "A") : undefined columns selected
+
+# ---
+
+# get it wrong another way: specify a row that does not exist:
+data["Hand",]
+#
+#        Height Weight Age Hand
+# NA     NA     NA      NA <NA>
+
+# an entry that does not exist:
+data[5,5]
+# NULL
