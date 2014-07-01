@@ -23,7 +23,7 @@
 # x[2]          # return ith element; (i = 2)
 # x[-2]         # return all but ith element; (i = 2)  
 # x[1:5]        # return first k elements; (k = 5) 
-# x[(length(x)-5):length(x)]    # return last k elements; (k = 5)
+# x[(length(x)-5+1):length(x)]    # return last k elements; (k = 5)
 # x[c(1,3,5)]                   # return specific elements; (First, 3rd and 5th)
 # x[x>3]                        # return all elements that are greater than some value (the value is 3) 
 # x[ x< -2 | x > 2]             # return elements bigger than or less than some values (the value is 2) 
