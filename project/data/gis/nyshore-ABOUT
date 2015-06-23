@@ -1,0 +1,13 @@
+nyshore data
+
+	NYS GIS data:
+		NYS County Boundaries to shorelines, 1:24,000
+		http://gis.ny.gov/gisdata/disclaimer/index.cfm?dsid=910&file=nyshore.zip
+
+		from the NYS GIS clearinghouse
+		
+		Vector file of generalized county boundaries up to, and using the 
+		shorelines of, major hydrographic features. Data is copyright protected. 
+		
+		metadata is here:
+		http://gis.ny.gov/gisdata/metadata/nysgis.nyshore.xml
