@@ -11,3 +11,33 @@ nyshore data
 		
 		metadata is here:
 		http://gis.ny.gov/gisdata/metadata/nysgis.nyshore.xml
+		
+--------------------------------Counties Data----------------------------------
+
+This counties data frame contains GIS data for the 62 counties in New York State.
+
+	New York State data:
+	https://gis.ny.gov/index.cfm
+	
+	NYS GIS data:
+		NYS County Boundaries to shorelines, 1:24,000
+		http://gis.ny.gov/gisdata/disclaimer/index.cfm?dsid=910&file=nyshore.zip
+		*.shp files are what we want, apparently (see zevross blog)
+
+
+-row.names:		A numeric count of the number of rows
+-DATEMOD:		Mostly NA's, offers a more recent date of modification
+-NAME:			The name of the county
+-POP1990:		The estimated population of specified county in 1990
+-POP2000:		The estimated population of specified county in 2000
+-SP_ZONE:		
+-DoS_LL:		NAs
+-Dos_LL_Dat:	NAs	
+-GNIS_ID:		
+-SHAPE_Leng:		
+-SHAPE_Area:		
+-Abbreviati:	The abbreviation for specified county's name
+-sq_miles:		The area in square miles of specified county
+
+This dataframe contains 62 counties x 12 variables of observation.
+		

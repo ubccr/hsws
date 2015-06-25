@@ -24,7 +24,8 @@ data = data.frame(Height=height,       # Each column gets a name
                   Hand=handed,
                   row.names=rownames)  # provide names for the rows
 
-# describe the data frame:
+# ----------- describe the data frame: --------------
+
 print(str(data))
 View(data)
 names(data)
@@ -35,7 +36,8 @@ tail(data)
 dim(data)
 
 
-# index into the data frame:
+#  ------------- index into the data frame: ------------
+
 print(data["A",]) # all information about subject A
 
 print(data$Height) # all heights in the dataset
@@ -73,3 +75,48 @@ data["Hand",]
 # an entry that does not exist:
 data[5,5]
 # NULL
+
+# ok
+
+# condition is on the rows. Select columns by index or by name
+data[data$Height>65,c("Height","Age")]
+data[data$Height>65,c(1,2)]
+
+# not ok
+
+# conditional should be on rows!
+data[c(data$Weight,data$Hand),data$Height>65]
+
+# "undefined columns selected": use colnames only (not dataframe name)
+data[data$Height>65, c(data$Weight,data$Hand)]
+
+# ------------- which() and subset() -------------
+
+# use the R help to learn about these functions.
+# and:
+#    http://www.statmethods.net/management/subset.html
+#    http://www.ats.ucla.edu/stat/r/faq/subset_R.htm
+
+# -- doing it right --
+
+#which()
+# note that which() by itself returns...array indices!
+data[which(data$Height > 65), "Height"] 
+data$Height[which(data$Height > 65)] 
+
+#subset()
+subset(data$Height, data$Height>65) 
+
+# subset() does not care about quotes (unlike the data frame itself)
+subset(data, Height>65, select="Height")                                
+subset(data, Height>65, select=Height)       
+
+# -- getting it wrong. --
+
+data[which(data$Height > 65), Height] # which(): wants quotes on colname
+# Error in `[.data.frame`(data, which(data$Height > 65), Height) : 
+#   object 'Height' not found
+
+subset(data, Height>65, select=height)# subset(): colname has wrong case
+# Error in `[.data.frame`(x, r, vars, drop = drop) : 
+#  undefined columns selected
