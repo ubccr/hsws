@@ -1,0 +1,46 @@
+Links for data analytics and data visualization
+
+Big Data
+========
+
+Big Data is Creating Big Career Opportunities
+    CNBC, June 5 2015
+    http://www.cnbc.com/id/102730230
+
+Learning to See Data
+    NYT, 27 Mar 2015
+	http://nyti.ms/1HROePJ
+	
+On the Case at Mt. Sinai, it's Dr. Data
+    NYT, 7 March 2015
+	http://nyti.ms/1Beq51N
+	
+If algorithms know all, how much should humans help?
+    NYT, 6 April 2015
+	http://nyti.ms/1NXkPEc
+
+From Paint to Pixels: How data became a medium for artists
+    The Atlantic, 14 May 2015
+    http://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/
+
+Data visualization
+===================
+
+Mapping the Spread of Drought Across the U.S.
+    NYT, 9 April 2015
+    http://nyti.ms/1nw14bc
+
+Vaccine rates in CA
+    NYT, 6 Feb 2015
+	http://nyti.ms/1ENj7Dg
+
+
+Data Visualization Galleries and Blogs
+======================================
+
+	http://www.census.gov/dataviz/
+	
+	https://flowingdata.com/
+	
+	http://www.obscureanalytics.com/
+
