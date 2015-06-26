@@ -105,7 +105,7 @@ library(MASS) # loads the dataset called "mammals"
 # a. First, create the sample dataset of US car data by running the following:
 data(car.test.frame, package = "rpart")
 US = car.test.frame[car.test.frame$Country=="USA", ]    # Only use American Cars
-US = US[ ,c(1,4,6:8)]                                   # Only use specified columns
+US = droplevels(US[ ,c(1,4,6:8)])                       # Only use specified columns
 
 # b. Call head(), View(), or str() on the US dataset, to get a sense of the contents.
 # How many columns does it have? What are their types?
@@ -117,6 +117,61 @@ US = US[ ,c(1,4,6:8)]                                   # Only use specified col
 # column in the US data frame? Can you see the use of the apply() family?
 
 # d. Call the sapply function on the US dataset and the range function.
+
+# ------------------------------
+
+# 4.b. by() function
+#
+# The apply() family of functions can be used to call some other function multiple times, after first
+# grouping on the data that will be operated on.
+#
+# In this exercise we will explore the use of the by() function. We will use 
+# it to call several R functions on a predefined dataset, and then look at the output.
+
+# As with the other apply() functions, you can use the by() family on a native R function, 
+# or on a function you wrote yourself.
+
+# First, show yourself what by() does. For this, we'll use the iris dataset. 
+attach(iris)
+
+# Use the mean() function to find the overall mean of the iris Petal.Width column. 
+# Hint: use a call like: mean(iris[,"Petal.Width"])
+
+# Then, use the by() function to find the mean of the Petal.Width column for each 
+# iris Species.  Hint: use a call like: by(iris[,"Petal.Width"], Species, mean)
+
+# Using the output of the by() call, find the mean of the means for all species.  
+# It should match the overall mean you computed.
+
+# a. Now, create a sample dataset of car data by running the following:
+d = droplevels(Cars93[,c(3,5,7,8,12)] )                # Only use specified columns
+
+# b. Call head(), View(), or str() on the d dataset, to get a sense of the contents.
+# How many columns does it have? What are their types?
+
+# To find out more about the columns in the dataset, type:
+?Cars93
+
+# Remember that the first argument to by() specifies the columns to operate on; the second 
+# specifies the column whose values form groups for the data; and the last specifies the
+# function. Use R help for further information (?by)
+
+# c. Now, call the by() function on the d dataset, to apply the summary function to the price
+# column while grouping on auto Type. Which auto type has the highest median price?
+# What about the lowest median price? (Note that price is reported in thousands of dollars). 
+
+# Use by() to determine how many cars in our dataset are found for each Type. 
+
+# d. Call the by() function on the d dataset, to apply the colMeans function to the 
+# MPG and engine size columns, while grouping on auto Type. What does colMeans do?
+# What happens if you try to use the mean() function with by()?
+
+# e. Call the by() function on the d dataset, to determine the standard deviation (sd) of 
+# the engine size column, while grouping on auto Type. 
+
+# Which auto type has the largest variation (standard deviation) about the engine size mean? 
+# Which type has the smallest and largest mean engine size? Any surprises there? 
+# Does the by() function make it easy to answer a question like this one?
 
 # ------------------------------
 
