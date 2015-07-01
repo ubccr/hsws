@@ -22,6 +22,11 @@ data = data.frame(Height=height,       # Each column gets a name
                   Hand=handed,                  
                   row.names=rownames)  # provide names for the rows
 
+# check current working directory, write the data frame to a csv:
+getwd()
+write.csv(data, file="students.csv")
+
+
 # --------------------------------
 
 # Exploring bad syntax, and good syntax, for 
