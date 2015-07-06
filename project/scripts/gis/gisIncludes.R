@@ -32,7 +32,7 @@ loadShapefile = function( path,
 # -------------------------------------------------
 
 # load sparcs data from csv
-readSparcs = function( path, filename = "sparcs_2011_text_corrected.csv" ) {
+readSparcs = function( path, filename = "sparcs_2011.csv" ) {
   
   sfile=paste0(path,"/", filename); # full 2584770 records!
   
