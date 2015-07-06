@@ -65,3 +65,12 @@ Health Informatics
 "Bring us your Genes"--whole genome sequencing on a small population
 ====================================================================
 	http://nautil.us/issue/26/color/bring-us-your-genes
+
+Engineering simulations
+========================
+
+Run Monte Carlo or Molecular Dynamics simulations:
+www.etomica.org/ccr.html
+
+Run molecular simulations from UB Chemical Engineering:
+modules.etomica.org
