@@ -9,7 +9,7 @@ vidiaPath = "/data/hs-workshop/"
 filename = "sparcs_2011.csv"
 filename=paste0(vidiaPath,filename);
 
-s = read.csv(filename, header = TRUE, row.names = 1)
+s = read.csv(filename, header = TRUE)
 
 # GENERAL
 
