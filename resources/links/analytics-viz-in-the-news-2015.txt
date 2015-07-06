@@ -55,3 +55,7 @@ Data Visualization Galleries and Blogs
 Health Informatics
 ==================
 	http://www.buffalonews.com/opinion/another-voice/another-voice-information-management-is-vital-to-improving-care-20150702
+
+"Bring us your Genes"--whole genome sequencing on a small population
+====================================================================
+	http://nautil.us/issue/26/color/bring-us-your-genes
