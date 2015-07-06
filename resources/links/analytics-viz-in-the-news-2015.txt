@@ -30,9 +30,15 @@ Mapping the Spread of Drought Across the U.S.
     NYT, 9 April 2015
     http://nyti.ms/1nw14bc
 
-Vaccine rates in CA
+Vaccine rates in CA: a visualization
     NYT, 6 Feb 2015
 	http://nyti.ms/1ENj7Dg
+	
+    On the new (2015) vaccine legislation in CA:
+    	http://www.wired.com/2015/06/sb277-california-is-now-the-perfect-test-lab-for-vaccine-laws/
+    	
+    A measles death in the US, 2015:
+    	http://www.forbes.com/sites/tarahaelle/2015/07/02/first-u-s-measles-death-in-more-than-a-decade/
 
 The Scale of the Universe
     http://htwins.net/scale2/
@@ -52,3 +58,10 @@ Data Visualization Galleries and Blogs
 	
 	http://www.obscureanalytics.com/
 
+Health Informatics
+==================
+	http://www.buffalonews.com/opinion/another-voice/another-voice-information-management-is-vital-to-improving-care-20150702
+
+"Bring us your Genes"--whole genome sequencing on a small population
+====================================================================
+	http://nautil.us/issue/26/color/bring-us-your-genes
