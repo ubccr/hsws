@@ -31,6 +31,12 @@
 
 # Diagnostic plots provide checks for heteroscedasticity, normality, and 
 # influential observerations. 
+# assuming the output of the lm() command is called fit, show summary and plot of fit:
+summary(fit)
+
+layout(matrix(c(1,2,3,4),2,2)) # optional 4 graphs/page
+plot(fit)  
+par(mfrow=c(1,1), pch=1) 
 
 # correlation coefficient
 
