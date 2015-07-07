@@ -84,9 +84,11 @@ par(mfrow=c(1,1), pch=1)
 
 # Make a histogram on length of stay for this data subset, and also one on 
 # total costs. Fiddle with bin size, find the best binning to display this data,
-# and comment. Refer to the examples of histogram binning.
+# and comment. Refer to the examples of histogram binning for a handy way to do this.
 
-# Try making density plots for the same values. Which do you like better for these data?
+# Now do the same for the log of the total costs and total charges. Again find
+# the best binning. Do these look like log-normal distributions, as suggested
+# by Dr. Winkelstein?
 
 # ----------------------------
 
