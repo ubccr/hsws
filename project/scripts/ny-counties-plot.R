@@ -6,15 +6,15 @@
 # Be sure to refer to the gis-data-overlays.txt file for more information and tips
 
 # load includes
-if(!exists("readSparcs", mode="function")) source("scripts/gis/gisIncludes.R");
+if(!exists("readSparcs", mode="function")) source(paste0(getwd(), "/project/scripts/gis/gisIncludes.R"));
 loadGisPackages();
 
-# load sparcs data
+# load sparcs data from /data 
 if (!exists("s")) s=readSparcs( '/data/hs-workshop' );
 
 # load the GIS data.
 # use readShapePoly() since it's what we've used the most:
-path=paste0( "../data/gis" );
+path=paste0( getwd(), "/project/data/gis" );
 counties=loadShapefile(path, "counties");
 
 # ----------------------------------------------------------------------
