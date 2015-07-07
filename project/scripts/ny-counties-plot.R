@@ -1,12 +1,7 @@
 # NYS County GIS dataset plotted with 2011 SPARCS data.
 # ggplot with fortify() and merge()
 # JMS
-# 21 May 15
-
-# set active directory: vidia
-#setwd("/data/demo/nys/gis");
-# king
-#setwd("~/resources/R/geospatial-data/demo");
+# initial dev: 21 May 15
 
 # Be sure to refer to the gis-data-overlays.txt file for more information and tips
 
@@ -124,7 +119,14 @@ Map
 # ------------------------------------------------
 
 # Now that you have the function, explore some more computations that can be performed,
-# by county:
+# by county. Take a look at this information on cancer and respiratory disease in NYS.
+# Consult other sources if you wish:
+
+# http://www.health.ny.gov/prevention/prevention_agenda/indicators/county/warren.htm
+# http://www.acscan.org/ovc_images/file/action/states/ny/NY_Cancer_Burden_Report_2012.pdf
+
+# Can you explain the features or tendencies you see in your GIS plots? Are you limited by
+# the information in your dataset? What does the data show you? Anything surprising?
 
 # count of hospitals per county (subset and count)
 #       Is this more interesting by population? Or reported without population? Try both ways.
