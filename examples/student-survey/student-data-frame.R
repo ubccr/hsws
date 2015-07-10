@@ -36,16 +36,16 @@ data[data$Age<17,]
 
 # This should return a single value. What happens
 # if you omit one of the row or column names? The comma?
-data["Jack D","Hand"]
+data["Trevor P","Hand"]
 
 # what does this do? Why?
-data$"Jack D"
+data$"Trevor P"
 
 # what does this do? Why?
 data["Height"]
 
 # why doesn't the same type of access work here:
-data["Jack D"]
+data["Trevor P"]
 
 # any difference between these calls?
 data[,]
