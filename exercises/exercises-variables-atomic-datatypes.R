@@ -3,7 +3,8 @@
 # ==================================
 
 # Using your R editor, load this file and edit it, adding R code to complete each exercise.
-# Save the file. Then you'll have a record of how you solved the exercises.
+# Save the file with a new name (for example, append your initials). Then you'll have a 
+# record of how you solved the exercises.
 
 # TIPS:
 # 	- Use comments (#) in your code, if you need to explain anything.
@@ -16,7 +17,8 @@
 
 # 1. Defining variables
 #
-# a. Make the following variable assignments in R:
+# a. Make the following variable assignments in R. (Tip: just uncomment the lines, select them,
+# and click 'Run')
 #
 # r = exp(2)         	# exponential function
 # q = abs(3 - 7)     	# Absolute value of (3-7)
@@ -28,6 +30,9 @@
 
 # c. Using R, find and print the logical opposite of each variable. Again, what do you notice
 # about variable y?
+
+# In the Environment pane (upper Right), toggle between List and Grid view. Which is more useful
+# for this exercise? What does the History tab contain?
 
 # When done with the exercise, use the broom icon to clear your RStudio workspace.
 
@@ -57,7 +62,8 @@
 # If you need to look up how to use paste, enter "?paste" at the
 # command line to bring up the help page.
 
-# c. Print the new variable. Print its type (use the function class()).
+# c. Print the new variable. Print its type (use the function class(), or look
+# in the Environment tab's Grid view).
 
 # When done with the exercise, use the broom icon to clear your RStudio workspace.
 
@@ -74,6 +80,8 @@ celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 2
 # 		fahrenheit = (9/5) * celsius + 32
 #
 # fahrenheit = 
+#
+# What is the class of the fahrenheit variable? Based on what you saw of the celsius variable, 
 
 # b. Uncomment this line to create a data frame containing the temperature conversion:
 # conversion = data.frame(Celsius=celsius, Fahrenheit=fahrenheit)
@@ -89,12 +97,19 @@ celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 2
 # 5      24       75.2
 # 6      25       77.0
 
-# d. Find and print the class of each variable.
+# d. Find and print the class of each variable. What are other ways to 
+# get this information? 
 
 # e. Find and print the structure of each variable. Use the function str().
 # What does this function do? Take a look at the help page, using ?str at
-# the command line.
+# the command line. Do the same with the dim() function.
 
+# From what you see of str() and dim():
+# What do you think is going on with the celsius and fahrenheit variables?
+# What about the conversion variable? 
+# (Don't worry, we'll talk about this in the next lecture!)
+
+# When you are done with the exercises, be save this file with a new name.
 
 
 
