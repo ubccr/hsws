@@ -115,6 +115,25 @@ s$Gender[1:10]
 # Index into the rows 1:10, then the column "Gender": s[rows, column]
 s[1:10,"Gender"]
 
+# Use summary() for the following questions. Notice that it works on numeric or
+# categorical data:
+
+# e. Find the min and max ages in the dataset. Did any subjects not report an age?
+
+# f. Find the counts of females and males in the dataset. Did any subject not report a
+# gender? How many?
+
+# g. Find the counts of left and right-handedness in the dataset. Did any subjects not report a
+# handedness? How many?
+
+# Use which() to help subset the data frame for the following questions:
+
+# h. Print out the rows describing all left-handed females in the dataset. How would you get 
+# rid of NAs? Try using which().
+
+# i. How many males under age 18 in the dataset? List their heights, with units. Did any
+# not report a height? How many?
+
 # -------------------------------------------------------------------
 
 # 5. In this exercise you will create a subset of the data frame that 
