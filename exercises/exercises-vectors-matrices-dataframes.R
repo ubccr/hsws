@@ -3,21 +3,21 @@
 # ==================================
 #
 # Using your R editor, load this file and edit it, adding R code to complete each exercise.
-# Save it. Then you'll have a record of how you solved the exercises.
+# Save it with a new name. Then you'll have a record of how you solved the exercises.
 #
 # TIPS:
-#   - Use comments (#) in your code, if you need to explain anything.
+#  	- Use comments (#) in your code, if you need to explain anything.
 # 	- R is case-sensitive.
 # 	- Type ?<command-name> in the console to access help on an R command
-#   - Highlight code you want to run, then click "Run" at the top right of this pane to see the result.
-#   - To clear all variables in the workspace, click the broom icon in the Workspace pane.
+#   	- Highlight code you want to run, then click "Run" at the top right of this pane to see the result.
+#   	- To clear all variables in the workspace, click the broom icon in the Workspace pane.
 #
 # -----------------------------
 
 # I. Accessing data in vectors
 #
 # There are several ways to extract data from a vector. Here is a summary showing both slicing and 
-# extraction by conditionals (logic):
+# extraction by conditionals (logic). Experiment with these operations to solve the problems below.
 # 
 # length(x)     # how many elements?
 # x[2]          # return ith element; (i = 2)
@@ -32,13 +32,20 @@
 # define the vector x by running the following line:
 x = c(313, 284, 311, 280, 322, 324, 302)
 
-# Use the constructions above to find the following for the vector x: 
+# Use the Environment tab's Grid setting, or the class(), dim(), and str() functions,
+# to learn about the vector x. 
+
+# Use the constructions above to find the following for the vector x using logic and conditionals. 
+# There is often more than one way to do these! Make your solutions as general as possible.
+#
 #   a. All but elements 2, 6, and 7 of x
 #   b. The last 2 elements of x
 #   c. All elements of x that are less than 290
 #   d. The index of x that corresponds to the smallest value
 #   e. The value of element x[10]. What does it mean?
 #   f. x[-10]. What does it mean?
+#   g. Create a new vector containing the first and the last element of x.
+#   h. What does x[0] mean? Is it useful to know in the R language? 	
 
 # --------------------------------
 
@@ -67,6 +74,10 @@ s = data.frame(Gender=survey$Sex,
 			          Height=survey$Height, 
 			          HtUnit=survey$M.I, 
 			          Age=survey$Age)
+			          
+# In the Environment tab of RStudio (upper Right), select Grid and then click
+# on the grid icon to display the data set in its entirety. Scroll through and
+# explore the dataset. What does it contain?
 
 # -------------------------------------------------------------------
 
@@ -75,7 +86,6 @@ s = data.frame(Gender=survey$Sex,
 # Hints: use the dim() function to find the data frame's dimensions,
 #   or use the summary() or View() function.
 
-
 # -------------------------------------------------------------------
 
 # 3. Columns of the data frame 
@@ -83,9 +93,7 @@ s = data.frame(Gender=survey$Sex,
 # a. What columns are in the data frame s? What are their types?
 # Hint: Use summary() on the data frame s.
 
-
 # b. Are there NAs in the data frame s? In which columns? How many?
-
 
 # -------------------------------------------------------------------
 
@@ -95,7 +103,9 @@ s = data.frame(Gender=survey$Sex,
 
 # b. Run the function head() on the data frame s. 
 
-# c. Retrieve all Gender values from the data frame s. 
+# c. Programmatically retrieve all Gender values from the data frame s. 
+# (Write an expression in code that does this) Can you think of 3 different
+# ways to do this?
 
 # d. Confirm the following two ways to retrieve the first 10 Gender values from the data frame s:
 
@@ -107,14 +117,13 @@ s[1:10,"Gender"]
 
 # -------------------------------------------------------------------
 
-# ---- Challenge exercises ----
-
 # 5. In this exercise you will create a subset of the data frame that 
 # contains no NAs. In other words, we will create a new data frame that
 # excludes all rows that are incomplete (have NAs) for any of the measures 
 # Gender, Hand, Height, and Age. 
 #
 # The sections outlined below take you through one way to do this exercise.
+# Can you think of other ways?
 
 # a. Determine which row indexes have NAs for each measure (Gender, 
 # Hand, Height, HeightUnit, Age).
