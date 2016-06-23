@@ -1,0 +1,25 @@
+more data visualizations (and other matters of interest)
+========================
+
+How to Kill a Supercomputer
+	(or, how to make a cosmic ray detector)
+	http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-power-cosmic-rays-and-bad-solder
+	
+PIN Analysis: Analysis of 4-digit PIN number frequency
+	With data visualizations and interpretations:
+	http://datagenetics.com/blog/september32012/index.html	
+	
+	a compendium of some commonly used passwords:
+	https://github.com/danielmiessler/SecLists/tree/master/Passwords
+	
+climate visualization
+	http://www.climate-lab-book.ac.uk/spirals/	
+	
+Visualize Academic Paper Interrelationships
+	This is a visualization tool for the interrelationships between academic
+	papers on ArXiv. Each paper is represented by a circle. The size of the
+	circle is scaled by the number of citations, the color is related to the
+	subject area, and it's searchable (enter e.g. "?a p.zoller" to search on
+	one author). Click a circle to see information and links to that paper.
+
+	http://paperscape.org/
