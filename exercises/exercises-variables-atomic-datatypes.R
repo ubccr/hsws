@@ -7,11 +7,11 @@
 # record of how you solved the exercises.
 
 # TIPS:
-# 	- Use comments (#) in your code, if you need to explain anything.
-# 	- R is case-sensitive.
-# 	- Type ?<command-name> in the console to access help on an R command
-#   - Highlight code you want to run, then click "Run" at the top right of this pane to see the result.
-#   - To clear all variables in the workspace, click the broom icon in the Workspace pane.ns
+# 	  - Use comments (#) in your code, if you need to explain anything.
+# 	  - R is case-sensitive.
+# 	  - Type ?<command-name> in the console to access help on an R command
+#     - Highlight code you want to run, then click "Run" at the top right of this pane to see the result.
+#     - To clear all variables in the workspace, click the broom icon in the Workspace pane.ns
 
 # ---------------------------------
 
@@ -76,10 +76,9 @@
 
 celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 25
 
-# a. Complete the assignment for the fahrenheit variable. Use the formula:
-# 		fahrenheit = (9/5) * celsius + 32
-#
-# fahrenheit = 
+# a. Complete the assignment for the fahrenheit variable. For the formula, refer to: 
+# http://www.metric-conversions.org/temperature/celsius-to-fahrenheit.htm
+# fahrenheit =
 
 # b. Uncomment this line to create a data frame containing the temperature conversion:
 # conversion = data.frame(Celsius=celsius, Fahrenheit=fahrenheit)
@@ -95,8 +94,7 @@ celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 2
 # 5      24       75.2
 # 6      25       77.0
 
-# Refer to: http://www.metric-conversions.org/temperature/celsius-to-fahrenheit.htm
-# Do you see how this calculation works?
+# Did you do the conversion correctly?
 
 # d. Find and print the class of each variable. What are other ways to 
 # get this information? 
