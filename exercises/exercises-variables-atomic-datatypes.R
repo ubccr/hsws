@@ -80,8 +80,6 @@ celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 2
 # 		fahrenheit = (9/5) * celsius + 32
 #
 # fahrenheit = 
-#
-# What is the class of the fahrenheit variable? Based on what you saw of the celsius variable, 
 
 # b. Uncomment this line to create a data frame containing the temperature conversion:
 # conversion = data.frame(Celsius=celsius, Fahrenheit=fahrenheit)
@@ -97,14 +95,17 @@ celsius = c(20:25)	# sets a vector variable to contain the integers 20 through 2
 # 5      24       75.2
 # 6      25       77.0
 
+# Refer to: http://www.metric-conversions.org/temperature/celsius-to-fahrenheit.htm
+# Do you see how this calculation works?
+
 # d. Find and print the class of each variable. What are other ways to 
 # get this information? 
 
-# e. Find and print the structure of each variable. Use the function str().
-# What does this function do? Take a look at the help page, using ?str at
-# the command line. Do the same with the dim() function.
+# e. Find and print the structure of each variable. Use the functions str() and dim().
+# Take a look at the help pages for these functions, using ?str at the command line
+# or referring to the help pane in RStudio.
 
-# From what you see of str() and dim():
+# From what you learned about the functions str() and dim():
 # What do you think is going on with the celsius and fahrenheit variables?
 # What about the conversion variable? 
 # (Don't worry, we'll talk about this in the next lecture!)
