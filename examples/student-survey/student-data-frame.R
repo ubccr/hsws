@@ -3,10 +3,10 @@
 # construct vectors of data for inclusion in data frame.
 height = c(68, 67, 65, 72, 71, 68,68 )      # inches
 units = c("in","in", "in", "in", "in","in", "in")
-firstname = c("Rachel", "Molly", "Trevor", "Ethan", "Nicholas","Thomas", "Tyler")   
+firstname = c("R", "M", "T", "E", "N","T", "T")   
 lastinitial = c("K","F","P","A", "P", "W","D")   
 school=c("Nardin","MSM","OP","OP", "SJCI","Lake Shore","SJCI")
-age    = c(17, 17,17,17, 15, 16, 14)      # years
+age    = c(17, 17, 17, 17, 15, 16, 14)      # years
 handed = c("R", "R", "R", "R", "L","R","R")   # dominant hand: R=right, L=left
 
 # provide names for the rows (samples)
@@ -36,16 +36,16 @@ data[data$Age<17,]
 
 # This should return a single value. What happens
 # if you omit one of the row or column names? The comma?
-data["Trevor P","Hand"]
+data["T P","Hand"]
 
 # what does this do? Why?
-data$"Trevor P"
+data$"T P"
 
 # what does this do? Why?
 data["Height"]
 
 # why doesn't the same type of access work here:
-data["Trevor P"]
+data["T P"]
 
 # any difference between these calls?
 data[,]
@@ -56,13 +56,27 @@ data
 summary(data$Height)
 str(data$Height)
 
-# select heights equal to 74 inches.
-# How do you get the whole row instead?
+# select all heights equal to 65 inches.
+data$Height[data$Height==65]
+
+# Modify the above to return the whole row corresponding to this height...
+
+# What does the following do?
+data$Height==65
+
 # What happens (try this last) if you omit one of the =
 # in the ==? Can you guess first?
-data$Height[data$Height==74]
+data$Height=65
 
 # now what Heights are present in your dataset?
+
+# ---
+
+# Select all right-handers:
+data[data$Hand=="R",]
+
+# Select ages of all right-handers:
+data[data$Hand=="R","Age"]
 
 # --------------------------------
 
