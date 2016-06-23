@@ -142,3 +142,34 @@ boxplot(commute, ylab="Commute time/minutes", main="Corrected commute data")
 range(bill)[2] - range(bill)[1]
 
 # e. How many months was the amount greater than $40? What percentage was this?
+
+# ----------------------------------------------------------
+
+# 5. Import the excerpted survey data frame, s,  by running the following:
+library(MASS)
+s = data.frame(Gender=survey$Sex, 
+			          Hand=survey$W.Hnd, 
+			          Height=survey$Height, 
+			          HtUnit=survey$M.I, 
+			          Age=survey$Age)
+			          
+# which(), range(), and summary() will be useful for the following questions:			         
+			          
+# a. What is the age range for females? For males? Tip: use the which() function.
+
+# b. How many subjects reported their height in Metric units, how many in Imperial units, 
+# and how many did not specify units?
+# (This is a good application for the summary() function.)
+
+# c. Find the statistical range (max and min) of Metric heights in the dataset. 
+# Try using which() on the conditional.
+
+# d. What is the mean (average) age of right-handed people in the dataset?
+
+# e. Find the gender of the youngest person in the dataset (use 2 lines of code)
+
+# f. Find the handedness of the tallest person in the dataset that reported their 
+# height in Imperial units. Look out for NAs--use which().
+
+
+			          
