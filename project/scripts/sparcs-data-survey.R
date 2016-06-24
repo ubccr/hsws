@@ -180,12 +180,13 @@ mode <- function(x) {
 
 # HIGH AND LOW CHARGES
 
-# find the highest charge in each county.
-# find the lowest.
+# find the highest charge in each county, and find the lowest. (Tip: using
+# by() with the range function might be useful).
 
 # give a statistical summary of the high and low charges across all counties.
 # In other words, compare minimum charges across all counties, and then do
-# the same for the maximum charges.
+# the same for the maximum charges. You may need as.vector().
+#
 # What does this show? Does anything surprise you?
 
 # Try showing these results using boxplots and summary()
