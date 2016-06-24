@@ -13,16 +13,30 @@ s = read.csv(filename, header = TRUE)
 
 # GENERAL
 
+# Size of datset
+
+# First, let's take a general look at the SPARCS 2011 dataset.
 # What sort of data does the dataset contain? What does a single
 # record represent? 
+
+# How many records (rows) does the dataset contain overall? What 
+# does this number represent?
+# How many columns does the dataset contain? 
 
 # take a look at the output of the str() function. Look at the head() of
 # the dataset.
 
-# Is there missing data in some columns? How can you check? Why do
-# you think this might be true?
+# ------
 
-# Explain why you might expect data to be missing in a dataset of this kind.
+# Missing Data
+
+# Is there missing data in some columns? How can you check? How is 
+# missing data represented here?
+
+# Write a function that checks for NAs in each column in the dataset.
+# Report your totals.
+
+# Explain why you expect data to be missing in a dataset of this kind.
 
 # ------
 
@@ -46,10 +60,13 @@ s = read.csv(filename, header = TRUE)
 # the min, max, median admissions per county)? 
 
 # Can you draw conclusions about the min and max? About the typical
-# values?
+# values? Is this a meaningful figure to consider? Or do you suspect
+# it might scale with county population?
 
-# Plot this admission counts data summary as a boxplot to help you 
-# visualize it. 
+# Plot this admission counts data summary as a boxplot. Clearly 
+# label your plot's axes and give it a descriptive title. If you are
+# unsatisfied with this plot, try scaling it by county population.
+# Find the population figures you need on the internet.
 
 # ------
 
@@ -68,7 +85,8 @@ s = read.csv(filename, header = TRUE)
 
 # Have a look at the overall summary of charges in the entire dataset. 
 # Do you see some outliers? How do you check? Make a plot that helps
-# you visualize the distribution of charges. 
+# you visualize the distribution of charges. Make plots to help
+# you visualize the distribution and summary statistics of the charges. 
 
 # What is the overall total? What does this figure mean?
 
@@ -93,7 +111,8 @@ s = read.csv(filename, header = TRUE)
 # - - - - - - - - - - - -
 
 # What is the maximum charge overall? The minimum? Look at these
-# individual data records. Does anything surprise you about them?
+# individual data records (diagnosis, procedure, payer, etc.) 
+# Does anything surprise you about these records?
 
 
 # Mode
@@ -125,6 +144,13 @@ mode <- function(x) {
 
 # Does this help? Or does it just confirm that these figures are pretty muddy?
 
+# Comparing different counties
+# - - - - - - - - - - - -
+#
+# Pick 3 counties that are rather different from one another in their
+# mins and maxes for max charges.
+
+# What are the stay durations for these counties' mins and maxes? Does anything surprise you?
 
 # ------------------
 
@@ -145,6 +171,9 @@ mode <- function(x) {
 
 # What does the maximum appear to mean? How frequently does it occur in the dataset?
 
+# For the statistical figure you have chosen as the most typical one: Prepare a plot
+# of this figure for each age group found in the dataset. Try also for mean and/or
+# median. Comment.
 
 # --------------------------------------
 
