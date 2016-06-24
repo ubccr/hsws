@@ -38,13 +38,10 @@ s = read.csv(filename, header = TRUE)
 
 # Explain why you expect data to be missing in a dataset of this kind.
 
-# ------
-
-# How many records does the dataset contain overall? What does this represent?
 
 # ------
 
-# How many ways of representing patient diagnosis and procedure are there?
+# How many different ways of representing patient diagnosis and procedure are there?
 # Browse through some of the possible values.
 
 # ------
@@ -57,7 +54,7 @@ s = read.csv(filename, header = TRUE)
 
 # How many admissions in each NYS county in the year 2011? What's
 # the summary of this count of admissions (in other words, what are
-# the min, max, median admissions per county)? 
+# the min, max, median of the number of admissions per county)? 
 
 # Can you draw conclusions about the min and max? About the typical
 # values? Is this a meaningful figure to consider? Or do you suspect
@@ -81,7 +78,7 @@ s = read.csv(filename, header = TRUE)
 
 # ------
 
-# CHARGES
+# CHARGES (total_charges column)
 
 # Have a look at the overall summary of charges in the entire dataset. 
 # Do you see some outliers? How do you check? Make a plot that helps
@@ -143,14 +140,6 @@ mode <- function(x) {
 # https://health.data.ny.gov/api/assets/A4E24A08-E42A-4DC5-ACAE-F98AB15B0A05?download=true
 
 # Does this help? Or does it just confirm that these figures are pretty muddy?
-
-# Comparing different counties
-# - - - - - - - - - - - -
-#
-# Pick 3 counties that are rather different from one another in their
-# mins and maxes for max charges.
-
-# What are the stay durations for these counties' mins and maxes? Does anything surprise you?
 
 # ------------------
 
