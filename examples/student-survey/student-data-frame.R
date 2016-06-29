@@ -1,13 +1,15 @@
 # workshop students data frame example
 
 # construct vectors of data for inclusion in data frame.
-height = c(68, 67, 65, 72, 71, 68,68 )      # inches
-units = c("in","in", "in", "in", "in","in", "in")
-firstname = c("R", "M", "T", "E", "N","T", "T")   
-lastinitial = c("K","F","P","A", "P", "W","D")   
-school=c("Nardin","MSM","OP","OP", "SJCI","Lake Shore","SJCI")
-age    = c(17, 17, 17, 17, 15, 16, 14)      # years
-handed = c("R", "R", "R", "R", "L","R","R")   # dominant hand: R=right, L=left
+height = c(66, 68, 69, 178, 67, 66, 64, 72, 72, 62, 175)      # inches
+units = c("in","in", "in", "cm", "in","in", "in", "in", "in", "in", "CM")
+firstname = c("Mason", "Cole", "Chris", "Andrew", "Elliot","Grant", "Jane", 
+              "David", "Jacob", "Sareh", "Angus")   
+lastinitial = c("G","W","C","C", "S", "M","L", "M", "S", "G", "T")   
+school=c("StJoes","OP","StJoes","StJoes", "Clarence","OP","WS","WN",
+         "StJoes", "Clarence", "WN")
+age    = c(14, 17,16,16, 15, 17,15, 18,17, 17, 15)      # years
+handed = c("R", "R", "R", "R", "R","R","R", "R","R", NA, "R")   # dominant hand: R=right, L=left
 
 # provide names for the rows (samples)
 rownames = c(paste(firstname,lastinitial))
@@ -56,27 +58,14 @@ data
 summary(data$Height)
 str(data$Height)
 
-# select all heights equal to 65 inches.
-data$Height[data$Height==65]
-
-# Modify the above to return the whole row corresponding to this height...
-
-# What does the following do?
-data$Height==65
-
+# select heights equal to 67 inches.
+# How do you get the whole row instead?
 # What happens (try this last) if you omit one of the =
 # in the ==? Can you guess first?
-data$Height=65
+data$Height[data$Height=74]
 
+data$Height=74
 # now what Heights are present in your dataset?
-
-# ---
-
-# Select all right-handers:
-data[data$Hand=="R",]
-
-# Select ages of all right-handers:
-data[data$Hand=="R","Age"]
 
 # --------------------------------
 
