@@ -14,6 +14,19 @@ How to Kill a Supercomputer
 Big data, veracity, and privacy
 	http://foreignpolicy.com/2013/05/10/think-again-big-data/
 	
+Sequencing ancient human genomes from the Himalayas (using supercomputers)
+June 2016
+
+	"The Himalayas ... are very interesting in human evolution because: 
+	1) they represent a major barrier to gene flow, and 
+	2) habitation of these regions required major genetic adaptations. Thus ancient DNA can illuminate 
+	the history of migration and of adaptations."
+
+	...both prehistoric individuals and contemporary Tibetan populations share beneficial mutations in 
+	two genes implicated in adaptation to low-oxygen conditions found at high altitudes.
+
+	https://sciencenode.org/feature/himalayans-come-to-chicago.php
+	
 
 Data visualizations
 ===================
