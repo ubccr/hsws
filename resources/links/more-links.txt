@@ -14,6 +14,20 @@ How to Kill a Supercomputer
 Big data, veracity, and privacy
 	http://foreignpolicy.com/2013/05/10/think-again-big-data/
 	
+Using algorithms and likelihoods for sentencing
+June 2016
+	
+	A case soon to be decided by the Wisconsin Supreme Court considers the proper role of predictive
+	algorithms in the courtroom.
+	
+	http://www.theatlantic.com/technology/archive/2016/06/when-algorithms-take-the-stand/489566/
+	
+	And: "A proposed program might assign federal inmates a low, moderate, or high score based on their 
+	likelihood of recidivism. Indicators of improvement...including newly acquired skills, attitude, and 
+	behavior changes over time” would determine the ratings.
+	
+	http://www.theatlantic.com/politics/archive/2016/06/congress-takes-on-recidivism/488741/
+	
 Sequencing ancient human genomes from the Himalayas (using supercomputers)
 June 2016
 
