@@ -45,6 +45,9 @@ June 2016
 Data visualizations
 ===================
 
+Visualization Guidelines: Rules not to Break, from flowingdata.com
+	http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/
+
 Cosmic Microwave Background (CMB) simulator
 	Configure your own universe! Set up baryon density, dark matter and dark energy:
 	https://chrisnorth.github.io/planckapps/Simulator/
