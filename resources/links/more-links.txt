@@ -44,6 +44,10 @@ June 2016
 
 Data visualizations
 ===================
+
+Cosmic Microwave Background (CMB) simulator
+	Configure your own universe! Set up baryon density, dark matter and dark energy:
+	https://chrisnorth.github.io/planckapps/Simulator/
 	
 PIN Analysis: Analysis of 4-digit PIN number frequency
 	With data visualizations and interpretations:
