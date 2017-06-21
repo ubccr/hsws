@@ -11,7 +11,6 @@ To install RStudio IDE:
     http://www.rstudio.com/ide/
 
 
-
 BASIC REFERENCES 
 ================
 
@@ -20,7 +19,7 @@ R Bootcamp Tutorial Part 1:
     http://jaredknowles.com/s/Tutorial1_Intro.html
 
 A Basic R Vocabulary:
-    https://github.com/hadley/devtools/wiki/vocabulary
+    http://adv-r.had.co.nz/Vocabulary.html
 
 Quick R
     http://www.statmethods.net/
@@ -32,15 +31,6 @@ Maindonald's Using R pdf book (R and basic plotting):
     http://cran.r-project.org/doc/contrib/usingR.pdf
 
 
-FANCY GRAPHICS (ggplot2)
-=======================
-
-ggplot2 tutorial:
-    http://www.ceb-institute.org/bbs/wp-content/uploads/2011/09/handout_ggplot2.pdf
-
-    http://dzchilds.github.io/aps-data-analysis-L1/ggplot2-intro.html
-
-
 ON THE apply() FAMILY
 =====================
 
@@ -48,3 +38,32 @@ Resources for the apply() family (iterating without loops in R):
     https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
 
     http://www.r-bloggers.com/say-it-in-r-with-by-apply-and-friends/
+    
+    
+CODE STYLE
+==========
+
+Static code analysis for R
+	https://github.com/jimhester/lintr
+
+Coding Style Guide for R (Google)
+    https://google.github.io/styleguide/Rguide.xml
+    
+formatR package
+    A code-reformatter for R:
+        https://yihui.name/formatr/
+        
+        
+FANCY GRAPHICS (ggplot2)
+=======================
+
+ggplot2 tutorials:
+    http://bbs.ceb-institute.org/wp-content/uploads/2011/09/handout_ggplot2.pdf
+    http://dzchilds.github.io/aps-data-analysis-L1/ggplot2-intro.html        
+        
+
+MOAR...
+=======
+   
+Hadley Wickham's Advanced R:
+    http://adv-r.had.co.nz/
