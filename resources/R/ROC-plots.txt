@@ -14,8 +14,10 @@ Calculating your own ROC plots
     http://blog.revolutionanalytics.com/2016/08/roc-curves-in-two-lines-of-code.html
 
 Epi R package (2017) 
-    https://cran.r-project.org/web/packages/pROC/pROC.pdf
+    https://CRAN.R-project.org/package=Epi
+    https://www.rdocumentation.org/packages/Epi/
     
 pROC R package (2017) 
-    https://CRAN.R-project.org/package=Epi
+    https://CRAN.R-project.org/package=pROC
+    https://www.rdocumentation.org/packages/pROC/
 
