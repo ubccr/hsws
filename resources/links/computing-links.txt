@@ -1,6 +1,15 @@
 Computing...of interest
 ========================
 
+Using bitcoin to prevent id theft:
+    http://news.mit.edu/2017/using-bitcoin-prevent-identity-theft-0524
+
+Volkswagens's emission cheating code, identified:
+    http://ucsdnews.ucsd.edu/pressrelease/researchers_find_computer_code_that_volkswagen_used_to_cheat_emissions_test
+
+AI and artificial curiosity:
+    https://www.technologyreview.com/s/607886/curiosity-may-be-vital-for-truly-smart-ai/
+
 The Megaprocessor
 	"The Megaprocessor is a micro-processor built large. Very large."
 	http://www.megaprocessor.com/
@@ -11,14 +20,10 @@ How to Kill a Supercomputer
 	(or, how to make a cosmic ray detector)
 	http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-power-cosmic-rays-and-bad-solder
 	
-Big data, veracity, and privacy
-	http://foreignpolicy.com/2013/05/10/think-again-big-data/
-	
 Using algorithms and likelihoods for sentencing
 June 2016
 	
-	A case soon to be decided by the Wisconsin Supreme Court considers the proper role of predictive
-	algorithms in the courtroom.
+	Considering the proper role of predictive algorithms in the courtroom.
 	
 	http://www.theatlantic.com/technology/archive/2016/06/when-algorithms-take-the-stand/489566/
 	
@@ -40,38 +45,5 @@ June 2016
 	two genes implicated in adaptation to low-oxygen conditions found at high altitudes.
 
 	https://sciencenode.org/feature/himalayans-come-to-chicago.php
-	
-
-Astrophysics talk
-===================
-http://www.acsu.buffalo.edu/~whkinney/CCR/KinneyTalk.pdf
 
 
-Data visualizations
-===================
-
-Visualization Guidelines: Rules not to Break, from flowingdata.com
-	http://flowingdata.com/2015/08/11/real-chart-rules-to-follow/
-
-Cosmic Microwave Background (CMB) simulator
-	Configure your own universe! Set up baryon density, dark matter and dark energy:
-	https://chrisnorth.github.io/planckapps/Simulator/
-	
-PIN Analysis: Analysis of 4-digit PIN number frequency
-	With data visualizations and interpretations:
-	http://datagenetics.com/blog/september32012/index.html	
-	
-	a compendium of some commonly used passwords:
-	https://github.com/danielmiessler/SecLists/tree/master/Passwords
-	
-climate visualization
-	http://www.climate-lab-book.ac.uk/spirals/	
-	
-Visualize Academic Paper Interrelationships
-	This is a visualization tool for the interrelationships between academic
-	papers on ArXiv. Each paper is represented by a circle. The size of the
-	circle is scaled by the number of citations, the color is related to the
-	subject area, and it's searchable (enter e.g. "?a p.zoller" to search on
-	one author). Click a circle to see information and links to that paper.
-
-	http://paperscape.org/
