@@ -26,7 +26,7 @@ workstations and together enable webdav access from Linux.
 
 ### Example session
 
-> $ cadaver https://vidia.ccr.buffalo.edu:443/webdav
+> `$ cadaver https://vidia.ccr.buffalo.edu:443/webdav
 > Authentication required for WebDAV Server [vidia] on server 'vidia.ccr.buffalo.edu':
 > Username: myusername
 > Password: 
@@ -42,8 +42,7 @@ workstations and together enable webdav access from Linux.
 > Progress: [=============================>] 100.0% of 3199 bytes succeeded.
 > 
 > dav:/webdav/> bye
-> Connection to 'vidia.ccr.buffalo.edu' closed.
-
+> Connection to 'vidia.ccr.buffalo.edu' closed.`
 
 Read more: https://vidia.ccr.buffalo.edu/kb/storage/webdav
 
