@@ -26,23 +26,23 @@ workstations and together enable webdav access from Linux.
 
 ### Example session
 
-> `$ cadaver https://vidia.ccr.buffalo.edu:443/webdav
-> Authentication required for WebDAV Server [vidia] on server 'vidia.ccr.buffalo.edu':
-> Username: myusername
-> Password: 
->
-> dav:/webdav/> ls
-> Listing collection '/webdav/': succeeded.
-> Coll:   R                                      0  Jun 13 11:40
-> Coll:   apps                                   0  Oct 14  2016
->         sample-output.txt                   3199  Jun 22  2017
-> 
-> dav:/webdav/> get sample-output.txt
-> Downloading '/webdav/pegtut/sample-output.txt' to sample-output.txt:
-> Progress: [=============================>] 100.0% of 3199 bytes succeeded.
-> 
-> dav:/webdav/> bye
-> Connection to 'vidia.ccr.buffalo.edu' closed.`
+`$ cadaver https://vidia.ccr.buffalo.edu:443/webdav
+Authentication required for WebDAV Server [vidia] on server 'vidia.ccr.buffalo.edu':
+Username: myusername
+Password: 
+
+dav:/webdav/> ls
+Listing collection '/webdav/': succeeded.
+Coll:   R                                      0  Jun 13 11:40
+Coll:   apps                                   0  Oct 14  2016
+        sample-output.txt                   3199  Jun 22  2017
+
+dav:/webdav/> get sample-output.txt
+Downloading '/webdav/pegtut/sample-output.txt' to sample-output.txt:
+Progress: [=============================>] 100.0% of 3199 bytes succeeded.
+
+dav:/webdav/> bye
+Connection to 'vidia.ccr.buffalo.edu' closed.`
 
 Read more: https://vidia.ccr.buffalo.edu/kb/storage/webdav
 
