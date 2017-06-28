@@ -1,15 +1,13 @@
 # workshop students data frame example
 
 # construct vectors of data for inclusion in data frame.
-height = c(66, 68, 69, 178, 67, 66, 64, 72, 72, 62, 175)      # inches
-units = c("in","in", "in", "cm", "in","in", "in", "in", "in", "in", "CM")
-firstname = c("Mason", "Cole", "Chris", "Andrew", "Elliot","Grant", "Jane", 
-              "David", "Jacob", "Sareh", "Angus")   
-lastinitial = c("G","W","C","C", "S", "M","L", "M", "S", "G", "T")   
-school=c("StJoes","OP","StJoes","StJoes", "Clarence","OP","WS","WN",
-         "StJoes", "Clarence", "WN")
-age    = c(14, 17,16,16, 15, 17,15, 18,17, 17, 15)      # years
-handed = c("R", "R", "R", "R", "R","R","R", "R","R", NA, "R")   # dominant hand: R=right, L=left
+height = c(68, 64, 63, 63, 70, 66, 73, 2, 160, 0.0010000119, 64,1753)     
+units = c("in","in", "in", "in","in","in","in","yards","cm","nautical miles","in","mm")
+firstname = c("Jake", "Andrew", "Sarah", "Aditi","Devin","Debosir","Jeremiah","Adam", "Luna", "Frid","Helen","Matt")   
+lastinitial = c("B","L","W","C","M","G","M","R","L","D","H","D")   
+school=c("OP","WN","SH","WestSenecaE","WestSenecaE","WN","FH","SweetHome","WillE","FH","WN","StJoes")
+age    = c(17, 14, 16, 16, 17, 14, 17, 15, 16, 16, 16,16)      # years
+handed = c("R", "R", "R", "R", "R", "R", "R", "R", "R","R","R","R")   # dominant hand: R=right, L=left
 
 # provide names for the rows (samples)
 rownames = c(paste(firstname,lastinitial))
