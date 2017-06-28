@@ -1,5 +1,4 @@
-Computing...of interest
-========================
+## Computing...of interest
 
 Using bitcoin to prevent id theft:
     http://news.mit.edu/2017/using-bitcoin-prevent-identity-theft-0524
@@ -47,7 +46,7 @@ June 2016
 	https://sciencenode.org/feature/himalayans-come-to-chicago.php
 	
 Materials
-	Why were flights canceled due to extreme heat?
+	Why were flights canceled in 2017, due to extreme heat?
 	https://www.wired.com/story/phoenix-flights-canceled-heat/
 
 
