@@ -1,7 +1,7 @@
-timezone:    Europe/Berlin
-future:      false
+timezone:    America/New_York
+future:      true
 # Set baseurl to the base path of the site eg "/mytalk"
-baseurl:     ""
+baseurl:     "/hsws"
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
 # markdown - Valid options are [ maruku | rdiscount | kramdown | redcarpet ]
@@ -17,9 +17,9 @@ kramdown:
 #  - jemoji
 
 ## personalize your slide show
-title:       reveal-jekyll
-author:      Thomas Friese
-description: Reveal.js for Jekyll with Solarized Color theme
+title:       CCR HSWS Starter Presentation
+author:      Ben Plessinger
+description: Reveal.js for Jekyll with Solarized Color theme as a base for CCR HSWS Presentations
 
 sass:
   style:     :compressed
