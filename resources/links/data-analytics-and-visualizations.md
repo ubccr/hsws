@@ -38,7 +38,7 @@ an article about Paperscape:
 https://www.theguardian.com/science/2013/sep/05/paperscape-universe-scientific-research-arxiv
 		
 ### The Scale of the Universe
-[http://scaleofuniverse.com/]
+http://scaleofuniverse.com/
 
 ### A Timelapse Visualization of Nuclear Testing 
 
