@@ -4,7 +4,7 @@ This unwieldly list presents an assortment of useful and interesting data visual
 
 ## Data Visualization Galleries and Blogs
 
-http://www.census.gov/dataviz/
+From U.S. Census data: http://www.census.gov/dataviz/
 	
 https://flowingdata.com/
 	
@@ -37,7 +37,7 @@ http://paperscape.org/
 
 http://www.climate-lab-book.ac.uk/spirals/	
 
-### Mapping the Spread of Drought Across the U.S.
+#### Mapping the Spread of Drought Across the U.S.
 
 NYT, 9 April 2015
 
@@ -48,7 +48,7 @@ http://nyti.ms/1nw14bc
 		
 [The Scale of the Universe][scaleofuniverse]
 
-### Cosmic Microwave Background (CMB) simulator
+#### Cosmic Microwave Background (CMB) simulator
 
 [Configure your own universe!][planckapps] Set up baryon density, dark matter and dark energy.
 
@@ -77,45 +77,47 @@ https://www.nytimes.com/2018/01/16/upshot/measles-vaccination-california-student
 	
 ## "Big Data"
 
-Calling B.S. on Big Data:
+#### Calling B.S. on Big Data:
 
 http://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide
     
-Big data, veracity, and privacy
+#### Big data, veracity, and privacy
 
 http://foreignpolicy.com/2013/05/10/think-again-big-data/    
 
-Big Data is Creating Big Career Opportunities
+#### Big Data is Creating Big Career Opportunities
 
 CNBC, June 5 2015
 
 http://www.cnbc.com/id/102730230
 
-Learning to See Data
+#### Learning to See Data
 
 NYT, 27 Mar 2015
 
 http://nyti.ms/1HROePJ
 	
-On the Case at Mt. Sinai, it's Dr. Data
+#### On the Case at Mt. Sinai, it's Dr. Data
 
 NYT, 7 March 2015
 
 http://nyti.ms/1Beq51N
 	
-If algorithms know all, how much should humans help?
+#### If algorithms know all, how much should humans help?
 
 NYT, 6 April 2015
 
 http://nyti.ms/1NXkPEc
 
-From Paint to Pixels: How data became a medium for artists
+#### From Paint to Pixels: How data became a medium for artists
 
 The Atlantic, 14 May 2015
     
 http://www.theatlantic.com/entertainment/archive/2015/05/the-rise-of-the-data-artist/392399/	
 
-"Bring us your Genes"--whole genome sequencing on a small population
+#### Bring us your Genes
+
+Whole genome sequencing on a small population
 
 http://nautil.us/issue/26/color/bring-us-your-genes
 
