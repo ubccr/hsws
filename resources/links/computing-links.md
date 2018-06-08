@@ -33,6 +33,24 @@ http://www.theregister.co.uk/2015/06/23/brit_mega_processor/
     
 ## Supercomputing 
 
+### Summit supercomputer: world's fastest
+
+Press release: https://www.ornl.gov/news/ornl-launches-summit-supercomputer
+
+Splashy Summit info page: https://www.olcf.ornl.gov/summit/
+
+https://www.nytimes.com/2018/06/08/technology/supercomputer-china-us.html
+
+Excerpts:
+
+"Summit (at Oak Ridge National Laboratory in Tennessee) can do mathematical calculations at the rate of 200 quadrillion per second, or 200 petaflops.
+...
+The University of Tennessee football stadium seats about 100,000 people. If it was full, and everyone in it had a modern laptop, it would take 20 stadiums full of similarly equipped people to match the computing firepower of Summit.
+
+"Supercomputers now perform tasks that include simulating nuclear tests, predicting climate trends, finding oil deposits and cracking encryption codes. Scientists say that further gains and fresh discoveries in fields like medicine, new materials and energy technology will rely on the approach that Summit embodies.
+
+"Modeling the climate, for example, requires scientific measurements of atmospheric temperatures, moisture and wind patterns that are fed into a huge program. The code may then run across an entire supercomputer for days, in an orchestrated sequence since each change in heat or moisture affects what happens next in the environment. That is a much more tightly coordinated computing task than handling millions of internet searches at once."
+
 ### How to Kill a Supercomputer (or, how to make a cosmic ray detector)
 
 http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-power-cosmic-rays-and-bad-solder
