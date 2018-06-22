@@ -1,27 +1,18 @@
 # Computing...of interest
 
-## Bitcoin
-
-Using bitcoin to prevent id theft:
-
-http://news.mit.edu/2017/using-bitcoin-prevent-identity-theft-0524
-
-
 ## Artificial Intelligence
 
-### Artificial curiosity:
+### AI for Cancer Diagnosis
 
-https://www.technologyreview.com/s/607886/curiosity-may-be-vital-for-truly-smart-ai/
-    
-### Using algorithms and likelihoods for sentencing
+"Man against machine: AI beats dermatologists at diagnosing skin cancer"
 
-June 2016
+https://www.eurekalert.org/pub_releases/2018-05/esfm-mam052418.php
 
-Considering the proper role of predictive algorithms in the courtroom.
+https://www.usnews.com/news/health-care-news/articles/2018-05-28/artificial-intelligence-beats-dermatologists-at-diagnosing-skin-cancer
 
-http://www.theatlantic.com/technology/archive/2016/06/when-algorithms-take-the-stand/489566/
+## Blockchain explained
 
-"A proposed program might assign federal inmates a low, moderate, or high score based on their likelihood of recidivism. Indicators of improvement...including newly acquired skills, attitude, and behavior changes over time" would determine the ratings.    
+http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html
 
 ## Computation made visible: the megaprocessor
 
@@ -59,25 +50,18 @@ http://spectrum.ieee.org/computing/hardware/how-to-kill-a-supercomputer-dirty-po
 
 https://sciencenode.org/feature/What%20puts%20the%20super%20in%20supercomputing.php?clicked=readmore
 
+## High Energy Physics
+
 ### Chip design for the Large Hadron Collider (LHC) upgrade:
 
 going from 500 collisions per second to 500,000 collisions per second
 
 http://agencia.fapesp.br/chip_developed_by_brazilian_researchers_will_be_linchpin_of_lhc_upgrade/27589/
 
-## Sequencing ancient human genomes from the Himalayas (using supercomputers)
+### Astroinformatics
 
-June 2016
+https://www.hpcwire.com/2018/06/15/challenges-face-astroinformatics-as-it-sorts-through-the-stars/
 
-"The Himalayas ... are very interesting in human evolution because:
-
-1) they represent a major barrier to gene flow, and
-
-2) habitation of these regions required major genetic adaptations. Thus ancient DNA can illuminate the history of migration and of adaptations."
-
-...both prehistoric individuals and contemporary Tibetan populations share beneficial mutations in two genes implicated in adaptation to low-oxygen conditions found at high altitudes.
-
-https://sciencenode.org/feature/himalayans-come-to-chicago.php
     
 ### Volkswagen's emission cheating code, identified:
 
