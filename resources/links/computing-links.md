@@ -30,6 +30,8 @@ Press release: https://www.ornl.gov/news/ornl-launches-summit-supercomputer
 
 Splashy Summit info page: https://www.olcf.ornl.gov/summit/
 
+Engineers behind Summit: https://www.cnbc.com/2018/06/22/ibm-summit-meet-the-women-lead-engineers-behind-the-supercomputer.html
+
 https://www.nytimes.com/2018/06/08/technology/supercomputer-china-us.html
 
 Excerpts:
