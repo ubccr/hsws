@@ -1,5 +1,8 @@
 # Computing...of interest
 
+## Big Data: Volume, Velocity, Variety
+https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/
+
 ## Artificial Intelligence
 
 ### AI for Cancer Diagnosis
