@@ -36,16 +36,16 @@ data[data$Age<17,]
 
 # This should return a single value. What happens
 # if you omit one of the row or column names? The comma?
-data["T P","Hand"]
+data["Matt D","Hand"]
 
 # what does this do? Why?
-data$"T P"
+data$"Matt D"
 
 # what does this do? Why?
 data["Height"]
 
 # why doesn't the same type of access work here:
-data["T P"]
+data["Matt D"]
 
 # any difference between these calls?
 data[,]
@@ -60,7 +60,7 @@ str(data$Height)
 # How do you get the whole row instead?
 # What happens (try this last) if you omit one of the =
 # in the ==? Can you guess first?
-data$Height[data$Height=74]
+data$Height[data$Height==74]
 
 data$Height=74
 # now what Heights are present in your dataset?
