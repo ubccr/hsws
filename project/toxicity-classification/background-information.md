@@ -29,6 +29,7 @@ Several articles about the applications of metal nanoparticles are given below:
 * [Nanoparticle Suppliers and Applications](http://www.azonano.com/article.aspx?ArticleID=4280)
 * [Chemists Create Nanoparticles for Safe Imaging of Tumors](https://phys.org/news/2017-03-chemists-nanoparticles-safe-imaging-tumors.html)
 * [Recent Nanotechnology Approaches for Prevention and Treatment of Biofilm-Associated Infections on Medical Devices](https://www.hindawi.com/journals/bmri/2016/1851242/)
+* [Nanoparticles fighting cancer} (http://www.buffalo.edu/ubnow/stories/2018/06/magnetic-nanoparticles.html)
 
 Some information on ROC plots:
 * [Introduction to the ROC Plot](https://classeval.wordpress.com/introduction/introduction-to-the-roc-receiver-operating-characteristics-plot/)
