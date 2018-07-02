@@ -22,3 +22,4 @@ Several articles about battery technology and safety are given below:
 * [Breakthrough Technology Makes Batteries Safe and Sustainable](https://phys.org/news/2017-06-breakthrough-technology-batteries-safe-sustainable.html)
 * [Future Batteries, Coming Soon: Charge in Seconds, Last Months and Power Over the Air](http://www.pocket-lint.com/news/130380-future-batteries-coming-soon-charge-in-seconds-last-months-and-power-over-the-air)
 * [Why We Still Don't Have Better Batteries](https://www.technologyreview.com/s/602245/why-we-still-dont-have-better-batteries/)
+* [Self-heating electric car battery](https://www.popularmechanics.com/cars/hybrid-electric/a21999984/engineers-develop-electric-car-battery-heat-itself-winter/)
