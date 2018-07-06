@@ -1,7 +1,12 @@
 
 # New Developments in Batteries
 
-2018-03
+2018
+
+#### Liquid Metal Battery prototypes for large-scale energy storage (Sadoway; MIT)
+
+https://www.youtube.com/watch?v=Sddb0Khx0yA
+
 
 #### An LBL press release about Li battery design:
 
