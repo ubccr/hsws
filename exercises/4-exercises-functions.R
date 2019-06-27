@@ -18,7 +18,7 @@
 #
 # a. Examine the drivingTest() function below, and decide what it does.
 #
-# b. Next, call the function several times with different inputs. 
+# b. Next, call the function several times with different inputs.
 # Does this confirm or change your explanation? What does paste()
 # do?
 #
@@ -35,24 +35,24 @@
 # What happens? What do you notice about the output?
 
 drivingTest = function(age) {
-  
+
   if ( is.numeric(age) & ( length(age)==1 ) ) {
-    
+
     if (age >= 17) {
       status ="You can drive!";
-      
+
     } else if (age >= 16) {
       status = "You are almost old enough to drive!";
-      
+
     } else {
       status = "You are not old enough to drive.";
-      
-    }  
+
+    }
     return(paste("You are", age, "years old.", status));
-    
+
   } else {
     return("Please call this function with a single numeric input.");
-  }    
+  }
 }
 
 age = 18;
@@ -60,13 +60,13 @@ drivingTest(age);
 
 # ------------------------------
 # 2. Miles to Kilometers Conversion
-# 
-# Write a simple function that accepts a numeric value, in miles, and 
+#
+# Write a simple function that accepts a numeric value, in miles, and
 # converts the value(s) to kilometers.
 #
-# Use the following information: 
+# Use the following information:
 #   kilometers = (8/5) * miles
-# 
+#
 # Test the function with the following vector, and print the results.
 miles = c(50, 100, 200, 275)
 
@@ -82,7 +82,7 @@ miles = c(50, 100, 200, 275)
 # of an input set of numbers. Test the result on the body and brain columns of
 # the dataset mammals (mammals$body in units of kg, mammals$brain in units of g).
 #
-# Hints: 
+# Hints:
 #   - The native R function mean() can be used for the mean.
 #   - The standard deviation is calculated as the square root (sqrt()) of the variance (var())
 #       of a set of numbers. Or, use native R function sd().
@@ -96,8 +96,8 @@ library(MASS) # loads the dataset called "mammals"
 
 # 4. apply() functions
 #
-# The apply() family of functions can be used to call some other function multiple times, with several 
-# different arguments. In this exercise we will explore the use of the sapply() function. We will use 
+# The apply() family of functions can be used to call some other function multiple times, with several
+# different arguments. In this exercise we will explore the use of the sapply() function. We will use
 # it to call several R functions on a predefined dataset, and then look at the output.
 
 # You can use the apply() family on a native R function, on a function you wrote yourself.
@@ -125,22 +125,22 @@ US = droplevels(US[ ,c(1,4,6:8)])                       # Only use specified col
 # The apply() family of functions can be used to call some other function multiple times, after first
 # grouping on the data that will be operated on.
 #
-# In this exercise we will explore the use of the by() function. We will use 
+# In this exercise we will explore the use of the by() function. We will use
 # it to call several R functions on a predefined dataset, and then look at the output.
 
-# As with the other apply() functions, you can use the by() family on a native R function, 
+# As with the other apply() functions, you can use the by() family on a native R function,
 # or on a function you wrote yourself.
 
-# First, show yourself what by() does. For this, we'll use the iris dataset. 
+# First, show yourself what by() does. For this, we'll use the iris dataset.
 attach(iris)
 
-# Use the mean() function to find the overall mean of the iris Petal.Width column. 
+# Use the mean() function to find the overall mean of the iris Petal.Width column.
 # Hint: use a call like: mean(iris[,"Petal.Width"])
 
-# Then, use the by() function to find the mean of the Petal.Width column for each 
+# Then, use the by() function to find the mean of the Petal.Width column for each
 # iris Species.  Hint: use a call like: by(iris[,"Petal.Width"], Species, mean)
 
-# Using the output of the by() call, find the mean of the means for all species.  
+# Using the output of the by() call, find the mean of the means for all species.
 # It should match the overall mean you computed.
 
 # a. Now, create a sample dataset of car data by running the following:
@@ -152,32 +152,94 @@ d = droplevels(Cars93[,c(3,5,7,8,12)] )                # Only use specified colu
 # To find out more about the columns in the dataset, type:
 ?Cars93
 
-# Remember that the first argument to by() specifies the columns to operate on; the second 
+# Remember that the first argument to by() specifies the columns to operate on; the second
 # specifies the column whose values form groups for the data; and the last specifies the
 # function. Use R help for further information (?by)
 
 # c. Now, call the by() function on the d dataset, to apply the summary function to the price
 # column while grouping on auto Type. Which auto type has the highest median price?
-# What about the lowest median price? (Note that price is reported in thousands of dollars). 
+# What about the lowest median price? (Note that price is reported in thousands of dollars).
 
-# Use by() to determine how many cars in our dataset are found for each Type. 
+# Use by() to determine how many cars in our dataset are found for each Type.
 
-# d. Call the by() function on the d dataset, to apply the colMeans function to the 
+# d. Call the by() function on the d dataset, to apply the colMeans function to the
 # MPG and engine size columns, while grouping on auto Type. What does colMeans do?
 # What happens if you try to use the mean() function with by()?
 
-# e. Call the by() function on the d dataset, to determine the standard deviation (sd) of 
-# the engine size column, while grouping on auto Type. 
+# e. Call the by() function on the d dataset, to determine the standard deviation (sd) of
+# the engine size column, while grouping on auto Type.
 
-# Which auto type has the largest variation (standard deviation) about the engine size mean? 
-# Which type has the smallest and largest mean engine size? Any surprises there? 
+# Which auto type has the largest variation (standard deviation) about the engine size mean?
+# Which type has the smallest and largest mean engine size? Any surprises there?
 # Does the by() function make it easy to answer a question like this one?
 
 # ------------------------------
 
-# 5. Variable scope
+# 5. Testing homemade functions: more caveats
+#
+# Suppose we write our own median function, like this:
 
-# The scope of a variable is the context in which it is defined. This exercise provides a 
+doMedian <- function(vec) {
+      vec <- sort(vec) # sort the input vector
+  size <- length(vec)
+
+    # is the input vector’s length even or odd?
+    if (size %% 2 == 0) {
+
+            # Even: return mean of elements around the central element
+            out <- mean( c(vec[size/2], vec[1+size/2]) )
+    } else {
+
+            # Odd: return central element
+            out <- vec[1+size/2]
+      }
+    return(out)
+}
+
+# We saw in class that many R operations will accept vectors.
+# Do you suspect this function will take a vector input?
+# Source the function (highlight and run it).
+
+# Let's define some input for this function, and then call it:
+
+# define input (assumed to be a vector)
+input <- c(3, 99, 2, 51, 27, 18, 0, 3)
+
+# call the function
+doMedian(input)
+
+# check this against the output of the native R summary() function:
+summary(input)
+
+# how does the result of our function compare?
+
+# now let's test with other inputs. Bind two vectors together into a matrix, m:
+y <- c(3,5,7,9)
+z <- c(1:4)
+m <- cbind(y,z)
+
+# Let's look at this matrix:
+print(m)
+class(m)
+
+# now call our function:
+doMedian(m)
+
+# How does the output compare to the expected result? (How would you check?)
+# Hint: try summary()
+
+# What did our function compute? Can you prove it?
+
+# Can you think of a way to ensure our function generates the correct answer?
+# Would you want to rewrite it, or check the input before computing, or something
+# else?
+
+
+# ------------------------------
+
+# 6. Variable scope
+
+# The scope of a variable is the context in which it is defined. This exercise provides a
 # demonstration to help you explore variable scope.
 
 # ----
@@ -242,7 +304,7 @@ z_function = function(){
 # Function exercise in the survey dataset:
 # =====================================================
 
-# 6. In the survey dataset, convert all heights to inches ("Imperial") from Metric.
+# 7. In the survey dataset, convert all heights to inches ("Imperial") from Metric.
 
 # Import the excerpted survey data frame by running the following load code:
 
@@ -251,14 +313,14 @@ library(MASS)
 
 loadS <- function(survey) {
   # subset survey and omit NAs:
-  s = data.frame(Gender=survey$Sex, 
-                 Hand=survey$W.Hnd, 
-                 Height=survey$Height, 
-                 HtUnit=survey$M.I, 
+  s = data.frame(Gender=survey$Sex,
+                 Hand=survey$W.Hnd,
+                 Height=survey$Height,
+                 HtUnit=survey$M.I,
                  Age=survey$Age);
-  
+
   s = na.omit(s);
-  
+
   # One-liner that converts anything labeled Imperial to Inches from cm.
   # This conversion is needed for the exercise below to work.
   s$Height[s$HtUnit=='Imperial']= s$Height[s$HtUnit=='Imperial']/2.54;
@@ -272,9 +334,9 @@ s = loadS(survey);
 
 # a. How many rows are in the data frame?
 
-# ------------------------------------------------------------------- 
+# -------------------------------------------------------------------
 
-# How many height measurements are in Imperial units in the data frame? 
+# How many height measurements are in Imperial units in the data frame?
 # How many height measurements are in Metric units?
 # Hint: use table() function on the HtUnit column of the data frame.
 
@@ -290,12 +352,12 @@ s = loadS(survey);
 
 # -------------------------------------------------------------------
 
-# 7. Demo: Convert all heights in the data frame to inches ("Imperial") from Metric.
+# 8. Demo: Convert all heights in the data frame to inches ("Imperial") from Metric.
 # one inch = 2.54 cm
 #
 # Implemented as a demo: look over it, play with it, understand it!
 #
-# First, construct a vector of the heights that are labeled 'Metric'. 
+# First, construct a vector of the heights that are labeled 'Metric'.
 #
 # To get this:
 # We take the Heights column from the data frame (s$Height),
@@ -308,12 +370,12 @@ s$Height[s$HtUnit=='Metric']
 s$Height[s$HtUnit=='Metric']= s$Height[s$HtUnit=='Metric']/2.54;
 
 # Don't forget to set the Height Unit column to Imperial too!
-s$HtUnit[s$HtUnit=='Metric']= "Imperial";  
+s$HtUnit[s$HtUnit=='Metric']= "Imperial";
 
 # To make this into an R-style function:
 convertToImperialR <- function(s) {
   s$Height[s$HtUnit=="Metric"]= s$Height[s$HtUnit=="Metric"]/2.54;
-  s$HtUnit[s$HtUnit=="Metric"]= "Imperial"; 
+  s$HtUnit[s$HtUnit=="Metric"]= "Imperial";
   return(s);
 }
 
@@ -323,17 +385,17 @@ sImp1 = convertToImperialR(s)
 
 # -------------------------------------------------------------------
 
-# 8. Use the summary() function to find the mean and range for Height,
+# 9. Use the summary() function to find the mean and range for Height,
 #   using the new, converted Imperial ("inches") dataset.
 
 # -------------------------------------------------------------------
 
-# 9. Perform conversions
+# 10. Perform conversions
 
 # Adapt the existing function to accept a second
 # argument, Metric or Imperial. If "Imperial" is passed,
 # then convert all heights labeled "Metric" to "Imperial".
-# If "Metric" is passed, convert all heights labeled 
+# If "Metric" is passed, convert all heights labeled
 # "Imperial" to "Metric".
 #
 # Ensure your function checks for NAs before proceeding.
