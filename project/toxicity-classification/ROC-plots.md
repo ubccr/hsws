@@ -16,6 +16,10 @@ Calculating your own ROC plots
 
     http://blog.revolutionanalytics.com/2016/08/roc-curves-in-two-lines-of-code.html
 
+AUC R package (2019)
+    https://www.rdocumentation.org/packages/AUC/versions/0.3.0
+    https://cran.r-project.org/web/packages/AUC/
+
 Epi R package (2017) 
 
     https://CRAN.R-project.org/package=Epi
