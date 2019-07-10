@@ -39,6 +39,24 @@ Resources for the apply() family (iterating without loops in R):
 
     https://nsaunders.wordpress.com/2010/08/20/a-brief-introduction-to-apply-in-r/
     http://www.r-bloggers.com/say-it-in-r-with-by-apply-and-friends/
+    https://www.datacamp.com/community/tutorials/r-tutorial-apply-family
+
+
+Loops in R:
+- [Loops in R](https://swcarpentry.github.io/r-novice-inflammation/15-supp-loops-in-depth/)
+
+## FUNCTIONAL PROGRAMMING 
+
+Functions are first-class citizens in the R language. Read more about this here:
+
+- [Functional Programming and R](http://adv-r.had.co.nz/Functional-programming.html)
+- [More about Functional Programming](https://www.r-bloggers.com/functional-programming-in-r/)
+
+## VECTORIZE; OPTIMIZE
+
+Hadley Wickham on vectorizing and optimizing code:
+- [Vectorizing Defined](http://adv-r.had.co.nz/Profiling.html#vectorise)
+- [Optimizing Code](http://adv-r.had.co.nz/Profiling.html)
         
 ## CODE STYLE
 
